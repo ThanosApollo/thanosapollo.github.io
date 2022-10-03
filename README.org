@@ -1,4 +1,4 @@
 #+title: Personal website |
 ** About
-+ My personal website, used mostly for blogging and hosting personal notes
++ Personal website, used mostly for blogging and hosting personal notes
 + Link here [[https://thanosapollo.github.io/personal_website/][here]]
