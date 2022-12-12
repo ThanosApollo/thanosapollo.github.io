@@ -1,0 +1,20 @@
+#+TITLE: thanosapollo.github.io
+#+SETUPFILE: ~/Developer/thanosapollo/themes/org/theme-bigblow-local.setup
+
+* Blog
+** My experience with guix
+working currently with guix so far
+
+* About
+** About me
+I'm originating from Athens, Greece. Currently studying medicine in the Medical University Of Sofia.
+
+I'm a GNU/Linux enthusiast, fascinated by the free and open source tech community. My goal is to bring parts of the hacker culture into the medical field
+
+** About this site
+Source code available at [[https://github.com/ThanosApollo/thanosapollo.github.io][github]]
+
+* Medicine
+** Notes according to MUS syllabus 
++ [[file:Microbiology.html][Microbiology]] 2022
+

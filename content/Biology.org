@@ -1,0 +1,1615 @@
+#+title: Biology
+#+author: Thanos Apo11o
+#+description: Personal notes on biochemistry, according to the syllabus of MU-Sofia 2022
+#+SETUPFILE: ../themes/org/theme-readtheorg-local.setup
+
+** Resources I've used
++ [[https://drive.google.com/drive/folders/1dprI1xs3aOIDYshw3NtjGgUI32Jnz-3m][University Lectures]]
++ [[https://www.ncbi.nlm.nih.gov/][National Center for Biotechnology Information]]
++ [[https://www.amboss.com/us][AMBOSS]]
++ [[https://www.kenhub.com/][Kenhub]]
++ [[http://www.biology.arizona.edu][University of Arizona | Biology Department]]
+
+
+
+* 1. Origin and evolution of cells.
+** Nature constructs cells
+  + The primitive atmosphere was devoid of molecular oxygen
+  + This allowed interaction of carbon,hydrogen and with other atoms, resulting in formation of organic molecules
+  + As chemical reactions became more diverse a primordial "organic soup" was formed in the ocean
+  + Molecules able to influence reactions in the environment and construct their own copies appeared, leading to the "RNA world"
+    + RNA molecules catalyzed heir own replication
+** RNA World
++ /only/ RNA can both replicate and catalyze reactions
+  + In the RNA world, it was the only biopolymer, later on, living systems acquired first proteins and then DNA
+  + Around RNA and proteins, lipid self-organized into bilayers, acquiring "membrane", making a "protocell".
+  + At some point, one the early living systems started using DNA to store genetic information. /DNA is more stable/
+** Last Universal Common Ancestor(LUCA)
++ All early organisms died out without leaving any descendants, except one, which gave rise to all extant organisms.
+  + This organism is referred to as LUCA
++ The only way to study it is by comparing genomes of modern organisms which are as unrelated as possible
++ LUCA lived almost 4 billion years ago, was an anaerobic chemoautotroph. With regard to its structure, it was a prokaryote
+** Prokaryotes vs Eukaryotes
++ Prokaryotes are simpler than eukaryotes(e.g absence of nucleus), and have evolved earlier. For a long time, life on Earth has been prokaryotic-only
++ In order to know basic life functions and the minimum equipment of life structures, you must study the prokaryotic cell. In many respects, it is *the cell*
++ Prokaryotes have all types of metabolism seen in eukaryotes, and more
+| Prokaryotes                                        | Eukaryotes                                  |
+|----------------------------------------------------+---------------------------------------------|
+| Small                                              | Larger                                      |
+| Spherical or rod shape                             | Endomembranes, compartmentation and cytosis |
+| Surrounded by a lipid cell membrane                | Nucleus with linear chromosomes             |
+| circular DNA inside nucleoid                       | Mitochondria                                |
+| Cytoplasm full of ribosomes                        | Cytoskeleton                                |
+| Plasmids that contain DNA molecules                | Flagella                                    |
+| Polysaccharide cell wall                           | Mostly aerobic hetetrophs                   |
+| Some have a polysaccharide capsule                 | Cells divide by mitosis                     |
+| Capusle might have attachments e.g pili/appendages | Sexual processes                            |
+| Flagella                                           | Mutlicellularity                            |
++ The ancestor of eukaryotes was an anaerobic, heterotrophic *archaeon*
+  + Found in hydrothermal vents as hot as 300C, in the zone between Greenland and Norway
+  + This vent field resembles the habitat of LUCA
+  + Because of its "fantastic shape", the habitat has been called *Loki's Castle*
+  + The group of archaeans discovered there are genetically close to eukaryotes, has been named *Asgard*
++ It developed a cytoskeleton as inner support and disposed of the outer support(cell wall)
++ The genome was surrounded by membranes, to be protected from the mechanical forces in the cytoplasm.
+  + This allowed for *nucleus* formation and mitosis
++ Proto-eukaryotes fed on bacteria, engulfing and digesting them. One however, was not digested. It's progeny remained in the host cytoplasm as endosymbionts, became *mitochondria* and made the host *aerobic*
+  + *Mitochondria have their own DNA and ribosomes*, which are of *prokaryotic* rather than eukaryotic type
+
+* 2. Proteins. Protein domains. Protein families.
+*** Protein functions
++ Structural
++ Movement
++ Catalysis
++ Recognition
++ Homeostasis
++  Traits of an organism are determined by the proteins it can produce
+*** Protein structure
++ *Primary structure*
+  + The sequence of the polypeptide chain
+    + Number of amino acids
+    + Order of amino acids(arrangement)
++ Primary structure is determined by the respective gene. Based on peptide bonds between amino acids.
+
++ Ultimately determines all other levels of protein structure plus the function of the protein
+
++ *Secondary Structure*
+  + Localized conformation of the polypeptide chain based
+    + Polypeptide backbone forms shapes entirely dependent on how to best store energy, by adapting the lowest energy conformation
+    + These shapes inclue :
+      + Alpha helix
+        + e.g found in myoglobin
+      + Beta-sheet
+        + e.g found in immunoglobins
++ *Tertiary Structure*
+  + Complete Folding pattern, specific to its protein as it gives its function
+  + Factors that influence tertiary structure :
+    + hydrophobic residues in the interior
+    + hydrophilic residues on the exterior
+    + Disulfide bonds help maintain structural integrity
+      + if a protein is highly compact we would call it a globular protein
+      + if its long and "spinldy" we would call it a fibrous protein
++ Quaternary Structure
+  + The way mutliple polypeptide subunits come together to form a larger protein
+    + e.g the way the 4 haemoglobin subunits come together
+
++ Primary : Sequence of residues
++ Secondary : Localized folding
++ Tertiary : Complete folding pattern
++ Quaternary : Interactions of subunits
+
+*** Protein domains
+  + Tertiary structure packs the alpha helices and/or beta sheets in globular units called **domains**
+  + Some proteins have a single domain while others have two or more
+  + Different domains have different structure and perform different functions
+  + Popular folding patterns are called **protein motifs**
+*** Protein Families
+  + A group of evolutionarily-related proteins
+  + Share a corresponding gene family, leading to significant sequence similarity
+  + Similar three-dimensional structures
+  + Can be groped into larger clades called protein super families
+    + e.g Immunoglobulin superfamily - contain a sandwich-like structure of two B-sheets
+* 3. Nucleic acids. DNA. RNA
+*** Nucleic Acids
++  Long Linear chains of nucleotides linked by phosphodiester bonds, forming a backbone
++ Nucleic acids are macromolecules responsible for storage, transmission and retrieval of genetic information
++ Two types of nucleic acids ***DNA-Deoxyribonucleic*** acid and ***RNA-Ribonucleic*** acid
+**** Structure
++ Polymers of nucleotides
++ Each nucleotide consists of
+    + Nitrogenous base
+    + Pentose
+    + At least one phosphate group
+    +  DNA has A,T,C,G and deoxyribose
+    +  RNA has A,U,C,G and ribose
+**** Formation
++ Nitrogenous base binds to the 1' atom of the pentose -+  forms nucleoside
++ Phosphate reacts with the 5' hydroxyl group of the pentose -+  forms nucleotide * such nucleotides are called monophosphates * one or more phosphates may join the first one, forming nucleoside diphosphate, triphosphate etc. *** Nucleic chain * Nucleic acids are composed of nucleic chains, same as proteins are composed of polypeptide chains
++ To form a polynucleotide the phosphate at the 5' atom of a pentose reacts with the 3' hydroxyl group of another pentose
+  + creating a covalent bond
++ The alternating phosphates and pentoses form a backbone
+  + Their arrangement determines the **primary structure** of the nucleic acid
+**** Complementarity
++ Nitrogenous bases bind specifically by hydrogen bonds according to the complementary rule
+  + A with T or U(2 bonds), C with G(3 bonds)
++ Complementary binding defines the secondary structure of nucleic acids
+
+**** The double helix and base stacking
++ Nitrogenous bases are **hydrophobic**(minimize their contact with water)
++ When two complementary strands bind, their bases stack together like cards to **exclude water molecules**
+  + This forces the backbones to bend spirally, **forming a double-stranded helix**
+
++  To visualize nucleic acids we use cytochemical stains, e.g propidium iodide
+**** DNA - helix types and functions
++  There are three types of double helices: A,B and Z
++ **B DNA**
+  + The main helix type of DNA
+  + Right handed
+  + 10 nucleotide per turn
+  + 2 grooves, one minor and one major
++ **A DNA**
+  + Dehydrated form of DNA
+  + Similar to B DNA, but with **larger diameter**
++ **Z DNA**
+  + Z DNA is named so because its **backbone forms a zig-zag**
+  + Formed in small parts of DNA, mainly CGCGCG sequence
+**** DNA sense
++ To identify DNA strands, they are scored as the 'sense' and 'antisense'
+  + **Sense strand** - Positive : coding strand
+  + **Antisense** - Negative : Template strand, complementary to both positive sense and the RNA transcript
+  +  The term sense and anti-sense are relative only to particular RNA transcript, and not to the DNA strand as a whole
+  +  There are viruses, such as Arenaviruses, that are ambisense
+*** RNA structure
++  RNA molecules are linear molecules, much smaller than DNA
++ Single stranded
+  + Often has double-stranded parts called stem-loops/hairpin loops
++ Secondary Structure is determined by **loops**
++ RNA undergoes 3D folding as in proteins, called tertiary structure
+  + Both secondary and tertiary are based on primary structure
++ Some RNAs have catalytic activity, they are called **ribozymes**
+
+*** RNA - types and functions
+**** RNAs involved in transcription or replication
++ mRNA - Messenger RNA : Encodes amino acid sequence of a polypeptide
++ tRNA - Transfer RNA : Brings amino acids to ribosomes during translation
++ rRNA - Ribosomal RNA : Makes up the ribosomes, with ribosomal proteins
+
++ **mRNA**
+  + no remarkable spacial structure
+  + each mRNA is a copy of a gene encoding protein, and brings the "message" to ribosomes
+  + The coding region of mRNA consists of nucleotide triplets called codons which are recognized by the tRNA anticodons
+  + The first codon(AUG) is called the start codon, while the last codon is called the last stop codon
++ **rRNA**
+  + Engaged in hairpin loops
+  + Structural role - formation of ribosomal subunits
+    + The largest rRNA is a ribozyme
++ **tRNA**
+  + Small
+  + 4 loops, 3 large and one small
+  + **Secondary structure** resembles a leaf
+  + **Tertiary structure** resembles L-like shape
+  + tRNA function is to match amino acids according to mRNA instructions
+
+* 4. Recognition and self-assembly of macromolecules. Cytoskeleton.
+*** Self-assembly of macromolecules
++ Ability of macromolecules to recognize each other and specifically bind spontaneously, forming supermolecular structures
+  + The recognition is based on spatial affinity, we can compare to a lock-key mechanism
+    + Self-assembled complexes are held together by non-covalent bonds
++ Complementary recognition and bidning of nucleotides **allows replication and transcription**, the basis of life
++ Heating above 70C causes denaturation of DNA - seperation of the two strands
+  + but this process is reversible, when the solution is cooled cown, DNA strands find their complementary partners and pair by hydrogen bonds
+    + this process is called annealing
+  + if the paired strands are derived from one and the **same molecule**, the annealing is called **renaturation or reassociation**.
+  + if the pairned strands are derived from **different DNA molecules**, the annealing is called **hybridization**
+  + RNAs also hybridize
+
+*** Cytoskeleton
+**** Types - Ranked by size
+  + Microfilaments
+    + Helix appearing as made up of 2 protofilaments
+    + Consist of Actin(globular protein)
+  + Intermediate filaments
+    + Bundle of tetramers made of dimers
+    + Fibrous proteins(keratins in epithelial, desmin in muscle)
+  + Microtubules
+    + Hollow tube of 13 protofilaments made of AB-tubulin dimers
++ The cytoskeleton includes all of those types. Intermediate filaments are characteristic of animals(not in plants)
+
+**** Microtubules
++ Self-assemble from dimers composed of alpha and beta tubulin. Energy from GTP is used
++ Microtubules are hollow tubes *with a diameter of 25nm*
++ Microtubule is **composed of 13 protofilaments**
++ Eventhough some microtubules e.g in flagella are very stable, microtubules in cytoplasm have a property called dynamic instability
+  + It means that their + end grows by addition of tubulin dimer but occasionally collapses
+  + Dynamic instability is regulated, it is increased when the cell starts division
+
+**** Microfilament composition, assembly and polarity
++ Microfilaments are assembled from actin using ATP energy. The single soluble actin molecules are called **globular (G-) actin** while those included in microfilaments are called **fibrillar (F-) actin**
++ Acting molecules are arranged in a double helix
+  + The microfilament can be described as a single helix
++ Microfilaments **grow just one of their ends**, its called '+' while the other one is '-'
+
+****# Myosins
++ Microfilaments responsible for transport of membrane organelles, as well as movement and shape changes
++ Motor proteins, called myosins use **ATP to move to the '+' end**
++ Has a **head** with ATPase activity and along fibrous **tail**
++  Myosin is unusual in that it is both a fibrous protein and an enzyme(ATPase)
+
+**** Intermediate filaments
++ Size less than microtubules and bigger than microfilaments
++ **Fibrous proteins with the 'coiled coil' motif**
++ Provide mechanical support, **not fit for transport because they have NO POLARITY**
++ Common types :
+  + Lamins
+    + located in the nucleus, also called **Nuclear lamina**
+  + keratins in epithelial
+  + desmin in muscles
+  + neurofilament proteins in neurons
+
+* TODO 5. Transcription.
+**** General characteristics
++ DNA function is to just store genetic information
+  + genes are expressed only after their translation into RNA
++ *Transcription is a process of RNA synthesis using a particular DNA segment as a template*
+  + The copied DNA segment has specific beginning and end sequences to define the first and last point ofthe transcription
+  + Each DNA strand is a template for some genes and complementary(coding) for other genes
+  + The template DNA and synthesized RNA are antiparallel and complementary(A-U, G-C)
+  + The direction of RNA synthesis is 5'->3'
+****
+
+DNA
+L
+* TODO 6. RNA processing.
+
+* TODO 7. Genetic code. Translation.
+
+* TODO 8. Proteins after translation: sorting, folding, modifications, degradation.
+
+* 9. DNA replication.
+*** DNA Replication
++ Semiconservative
+  + Takes 2 old strands, makes 2 new strands complementary to them
++ Occurs in a 5' -> 3' direction
+  + 5' -> phosphate
+  + 3' -> OH group
++ DNA replication is *bi-directional*
++ Has 3 phases, *Initiation, Elongation, Termination*
+**** Initiation
++ Starts at *origin of replication(ori)*
+  + Consists of AT-rich sequences(TATA box regions)
+  + /A-T has 2 hydrogen bonds, easy to brake compared to C-G(3 bonds)/
+  + Eukaryotes have multiple multiple oris, Prokaryotes have a single origin
++ *Replication fork*
+  + Y spahed region where both leading and lagging strands are replicated from the DNA template
+  + Replication occurs in both strands simultaneously(bidirectional but always on a 5'->3' direction)
++ Pre-replication protein complex binds at origin replication, seperating A-T
+  + Creates "replication bubble"
+  + *Helicase* is found in each replication fork(one in each end), extending seperation
+    + Helicase consumes high amounts of energy
+    + Helicase causes supercoils, making harder to unwind DNA strands as the process goes on
++ *Topoisomerase* cause supercoil relaxtion
+  + *Topoisomerases I and II* are found in *Eukaryotic cells*
+    + Cancer drugs target Topoisomerase I (e.g Irinotecan/Topotecan) and type II (e.g Etoposide/Tenoposide)
+  + *Topoisomerases II and IV* are found in *Prokaryotic cells*
+    + We target Topoisomerase II for bacterial infections using *Fluoroquinolones*
+**** Elongation
++ *Primer Synthesis*
+  + /Synthesized by RNA primase/
+  + Provide a 3'-OH group to which DNA polymerases can attach a DNA nucleotide
++ *DNA synthesis*
+  + Occurs continuously in the leading strand, discontinuously in the lagging strand(formed as Okazaki fragment)
+  + Primer removal and DNA polymerase I replaces the RNA primer and proofreads it
+  + DNA ligase joins the free ends of Okazaki fragments
+**** Termination
++ Initiated by binding termination proteins to termination sequences, /usually when helicases meet/
+
+
+
+**** Enzymes
+| Helicase    | Primase                               | DNA Polymerase III            | DNA Polymerase I                                | Ligase                          | Telomerase                                                                             |
+|-------------+---------------------------------------+-------------------------------+-------------------------------------------------+---------------------------------+----------------------------------------------------------------------------------------|
+| Unwinds DNA | Enzyme that makes RNA primers         | *Needs 3' OH of RNA primer*   | *Removes Primers in a 5-3 exonuclease activity* | Fuse Okazaki fragments together | Express TTAGG*                                                                         |
+|             | Enable DNA polymerase III to make DNA | Read 3' -> 5'                 | Reads in a 3' -> 5'                             |                                 | Uses RNA to make DNA, this is called *Reverse Transcription*                           |
+|             | Reads 3' -> 5'                        | Synthesize 5' -> 3'           | Synthesize in a 5' -> 3'                        |                                 | High activity of telomerase is found in stem cells, and neoplastic cells(cancer cells) |
+|             |                                       | Proof-reading:                | Proof-reading:                                  |                                 |                                                                                        |
+|             | Synthesize 5' -> 3'                   | /3'->5' exonuclease activity/ | /3'->5' exonuclease activity/                   |                                 |                                                                                        |
+
+**** Telomeres
++ Telomeres do NOT code for RNA
++ Each time DNA replicates, telomeres get shorter
++ Prevent gene loss
++ *Hayflick limit:* The maximum amount of time DNA can replicate
+
+* TODO 10. RNA replication. Reverse transcription
+
+* TODO 11. DNA repair.
+
+* TODO 12. Prokaryotic genome and regulation of gene expression.
+* TODO 13. Eukaryotic genome and regulation of gene expression.
+* TODO 14. Cytoplasmic (extrachromosomal) inheritance in prokaryotes and eukaryotes.
+* TODO 15. General (homologous) recombination. Molecular mechanisms of crossing over.
+* TODO 16. Site-specific recombination.
+* TODO 17. Reproduction of viruses.
+* TODO 18. Chromatin. Nucleosomes.
+* TODO 19. Human karyotype. Types of chromosomes.
+* TODO 20. Gene mutations. Mechanisms and mutagenic factors.
+* TODO 21. Chromosomal mutations. Evolution of karyotype.
+* TODO 22. Genes and alleles. Dominance and recessivity - mechanisms, medical examples. Penetrance and expressivity.
+* TODO 23. Phenotype, genotype and allele frequencies. Hardy – Weinberg law.
+* TODO 24. Factors influencing allele frequencies: mutations, migrations, natural selection.
+* TODO 25. Effects of isolation: genetic drift, inbreeding.
+* TODO 26. Quantitative traits.
+* 27. Cell cycle. Mitosis. Cell cycle control.
++ *Cell cycle*
+  + the sequence of stages through which a cell passes from one cell division to the next
++ *Mitosis (M)*
+  + a type of cell division in which a daughter cell receives the same number of chromosomes as the parent cell
++ *Cytokinesis*
+  + the division of cytoplasm
++ *Interphase*
+  + the time interval between nuclear divisions when a cell increases in mass
+  + roughly doubles the cytoplasmic components, and duplicates its chromosomes
+*** Interphase
++ Cells spend most their lives in interphase. /Cells are not actively dividing in this phase/
++ Includes G1,S,S phases of cell cycle
+  + *G1* -> Cell undergoes rapid growth, chromosomes unduplicated
+  + *S*  -> Cell prepares for division by duplicating its chromosomes
+  + *G2* -> Cell grows and completes preparation for division(Mitosis)
+*** Mitosis
+**** Prophase
++ Chromosomes become visible under microscope
++ Centrioles seperate and move to opposite poles, provide attachment for the spindle fibers
+  + Spindle fibers serve as guide wires for the attachment and movement of the chromosomes during cell division
++ Nuclear membrane appears to fade, it is dissolving to allow seperation of chromosomes and cell organelles
+**** Metaphase
++ Chromosomes composed of sister chromatids move toward the center of the cell. /This are is called equatorial plate/
++ Chromosomes appear as dark, thick filamentous structures that are attched to spindle fibers.
++ Chromatids can become interwined during metaphase
+**** Anaphase
++ Centromere divide and sister chromatids, /now referred to as chromosomes/ move to opposite poles of the cell
++ If mitosis proceeds correctly, the same number and type of chromosomes will be found at each pole
+**** Telophase
++ Chromosomes reach the opposite poles and begin to lengthen.
++ Spindle fibers dissolve and a nuclear membrane forms around each mass of chromatin
+**** Cytokinesis
++ Division of cytoplasm
+**** Mitosis in intracellular parasites
+***** Endodyogeny
++ Formation of two daughter cells, surrounded by their own membrane, while still in mother cell
++ e.g Toxoplasma gondii
+***** Endopolyogeny
++ Formation of many daughter cells, each surrounded by its own membrane while still in mother cell
+*** Cell cycle control
++ For each checkpoint permission needs to be granted, mediated by hormones and growth factors
++ *G1 Checkpoint*
+  + Is the cell sufficiently big?
+  + Sufficient growth factors and nutrients?
++ *G2 Checkpoint*
+  + Is DNA copied properly?
++ *M checkpoint*
+  + Are chromosomes aligned prperly and attached to spindle?
+
+
+
+* TODO 28. Growth factors, protooncogens, oncogenes, tumor suppressors. Oncogenic viruses
+* TODO 29. Cell senescence. Cell death: apoptosis, necrosis.
+*** Cell senescence
++ Cell sensescence -> Age related damage
+  + "Debris" is not divided evenly between the new cells, instead it passes to one of the cells leavin the other cell clean
+  + Cell population becomes a mosaic of cells with half ageless and the rest with ageing cells
+**** Telomeres
++ Telomeres consist of non-coding double stranded repeats DNA sequences(TTAGGG)
++ In the leading strand synthesis continues until the end of the chromosome is reached; however, on the lagging strand there is no place for a primer to be made for the DNA gragment to be copied at the end of the chromosome
+
+* TODO 30. Cell signaling. Cell receptors.
+* TODO 31. Meiosis. Origin of germ cells.
+* TODO 32. Spermatogenesis. Mammalian spermatozoa.
+* TODO 33. Oogenesis. Mature mammalian ova.
+* TODO 34. Fertilization. Interaction of maternal and paternal genomes.
+* TODO 35. Assisted reproduction: IVF, ICSI.
+* TODO 36. Embryonic development – early stages (zygote to neurula).
+* TODO 37. Embryonic development – regulative and mosaic. Morphogens and embryonic induction.
+* TODO 38. Preimplantation mammalian embryo.
+* 39. Sex determination and differentiation.
+**** Hermaphrodites
++ Most plants and some worms that contain both male and female sexual organs | /simultaneous hermaphrodites/
++ Some fish such as clown-fish are born males and change into females(dominant one becomes female) |  /sequential hermaphrodites/
+**** Temperature dependant sex determination
++ sex determination in some species of reptiles the sex is determined by the temperature at which the egg is incubated
+*** Genotypic sex determination
++ Male heterogamety, /XY sex chromosomes/. The males produce spermatozoa that carry either X or Y
+  + Occurs in mammals and some insects
++ Female heterogamety /ZW sex chromosomes/. Females produce oocytes that carry either Z or W
+  + Occurs in birds, snakes and some fish
++ In some cases, sex is under control of cytoplasmic elements, /usually in arthropods and nematodes/
+  + /This is used to manipulate reproduction of mosquitoes and other disease vectors/
+    + /e.g Introducing Wolbachia into a mosquito(such as Aedes) population will reduce male mosquitoes/
+**** Primary Sex Determination
++ *Determination of gonads*
+  + In mammals it is strictly chromosomal
+  + Determined by presence or absence of Y chromosome
+  + Formation of ovaries and testes are both active, gene-directed processes
+**** Secondary Sex Determination
++ *Bodily phenotypes outside of gonads*
+  + male has penis, seminal vesicles and prostate gland
+  + female has vagina, cervix, uterus and mammary glands
+  + Secondary sex characteristics such as size, determined by hormones secreted by gonads
+  + *In the absence of gonads, the female phenotype is generated*
+**** Sex chromosomes
++ Sex chromosomes may be:
+| *Homorphic*     | equal length with relatively small SDR(sex determination region) |
+|-----------------+------------------------------------------------------------------|
+| *Heteromorphic* | Large SDR                                                        |
+|-----------------+------------------------------------------------------------------|
+| *X and Y*       | males are heterogametic                                          |
+|-----------------+------------------------------------------------------------------|
+| *W and Z*       | females are heterogametic                                        |
+|-----------------+------------------------------------------------------------------|
++ The X and Y genes of humans:
+  + Y chromosome is much shorter and only contains few genes (78 genes)
+  + X chromosome is much longer and contains many genes not present in Y chromosome (~2000 genes)
+  + /As a result, most sex-linked conditions are usually X-linked/
++ *Structure of Y Chromosome*
+  + *Pseudo-autosomal regions(PARS)* /share homology with X chromosome and synapse with it during meiosis/
+  + *Male-specific Y* /area composed of euchromatic regions contain functional genes and heterochromatic regions lacking genes/
+    + Contains the *sex determining region(SRY)* /which encodes for testis-determining factor/
++ *X chromosome dosage compensation*
+  + Each mammalian somatic cell, whether male or female has *only one function X chromosome*
+  + The chromatin of the inactive X chromosome is converted into heterochromatin
+  + The heterochromatic(inactive) X chromosome can often be seen on the nuclear of female cells
+  + Inactivated X chromosome is referred to as *Barr body*
+
+* TODO 40. Methods of karyotyping and chromosome analysis.
+* TODO 41. Basic methods in molecular biology – electrophoresis, PCR, blotting, sequencing.
+* TODO 42. Immunological methods. Diagnosis of viral infections.
+* TODO 43. Recombinant DNA technology – restriction endonucleases, DNA vectors, recombinant proteins.
+* TODO 44. Cell micro-manipulations.
+* TODO 45. Transgenic animals. Gene therapy.
+* 46. Innate immunity.
++ Innate/natural immunity is :
+  + non-specific
+  + Does NOT become more efficient after the first encounter
+*** Barriers
++ Physical barrier; Skin
+  + Mucous traps pathogens and does not allow them to adhere to epithelial cells
+  + Mucosal surfaces also contain lysozyme which digests bacterial cell walls
++ Chemical barrier; Low pH in stomach, fatty acid secretions etc.
++ Biological barrier; Competition by other natural flora(e.g skin flora, lactobacilli in vaginal flora)
+*** Internal defenses | Tissues
++ Two types *humoral* (macromolecule solutions) and *cellular* (based on direct action of cells)
+**** Cellular defenses
++ Consist of leukocytes
+  + *Phagocytes*
+    + 2 cell types:
+      | Neutrophils           | Macrophages               |
+      |-----------------------+---------------------------|
+      | small                 | larger                    |
+      | segment nucleus       | non-segmented nucleus     |
+      | *polymorphonuclear*   | *mononuclear*             |
+      | Only in bloodstream   | *bloodstream and tissues* |
+      | Short-lived(1-2 days) | long-lived                |
+      |-----------------------+---------------------------|
+      + *Mechanism of phagocytosis*
+        + Phagocytes do not recognize specifically any molecule on the surface of an antigen, they *recognize its carbohydrate profile*
+          + This is done by *pattern recognition receptors*
+        + Phagocyte engulfs and fuses its lysosomes with the phagosome
+        + Pathogen is killed by two mechanisms
+          + oxygen-dependent; reactive oxygen intermediates
+          + oxygen-independent; lysozyme,proteases etc.
+        + Digestion by hydrolytic enzyme follows
++ *Extracellular killing*
+  + Two cell types :
+| *Eosinophils*                                          | *NK cells*                                                                  |
+|--------------------------------------------------------+-----------------------------------------------------------------------------|
+| Kill parasites by degranulation                        | Detect virus-infected cells and some cancer cells                           |
+| Contain granules(lysosomes)                            | Granules contain *perforin*:                                                |
+| Deliver lysosomal content by *exocytosis*              | ->Released on the target cell by exocytosis                                 |
+| ->This process is called *extracellular degranulation* | Also secrete protease, which deliver signal for *apoptosis*                 |
+|                                                        | If target does not die via apoptosis, necrosis follows(using more perforin) |
+**** Humoral defenses | Complement
++ Most important humoral defense is a set of plasma proteins called *complement system*,
+  + Most important complement protein is C3
+    + C3 is cleaved into C3a(smaller) and C3b(larger) by *C3 convertase*
+    + C3b is stabilized by binding to microbial cell wall, facilitating phagocytosis via *opsonization*
+      + Phagocytes have receptors for C3b
+  + *Classical Pathway*
+    + activated by antigen/antibody complexes.
+    + Proteases C1r and C1s cleave C4 and C2 to generate the Classical pathway C3 convertase C4b2a.
+  + *Alternative Complement Pathway*
+    + Trigerred by polysaccharides in bacterial and fungal cells
+    + an amplification loop, is triggered when the C3b protein directly binds a microbe, foreign material, or damaged tissue.
+    + C3b also binds factor B (fB) to form C3bB. FB is cleaved by factor D (fD) to form Alternative pathway C3-convertase, C3bBb.
+  + *Lectin pathway*
+    + triggered by binding of mannose-binding lectin (MBL) to carbohydrates on the target membrane.
+    + The MBL-associated serine proteases (MASPs) then cleave C4 and C2 generating the C3-convertase C4b2a.
+  + C3b opsonize targets for phagocytosis and B-Cell activation
+**** TODO Inflammation
++ Inflammation is activation of local innate immunity, both cellular and humoral, usually due to injury
+  + /Signs of inflammation : pain, heat, redness and swelling/
++ Mast cells and basophils are responsible for inflammatory reactions
+  + both contain granules full of histamine
++
+
+* 47. Structure of antibodies.
++ Antibodies/immunoglobulins are protective proteins produced by the immune system in response to the presence of a foreign substance, /called an antigen/
+*** Antibodies | Structure
++ Antibodies are divided into five classes based on their structure and immune function
+  + IgM, IgG, IgA, IgD and IgE
++ Each antibody consists of *two heavey chains and two light chains* (4 polypeptides), joined to form a "Y" shaped molecule
++ The amino acid sequence in the tips of "Y" varies greatly among different antibodies
+  + This variable region, composed of 110-130 amino acids, give the antibody its *specificity for binding antigen*
+  + The variable region includes the *ends of the light and heavy chains*
+    + /Treating the antibody with a protease can cleave this region, producing a fragment that includes the variable ends of an antibody/
+    + /This fragment is commonly used for research studies/
++ Immunoglobin chains are composed of *domains*
+  + Light chain has 2 domains; 1 variable and 1 constant , found in the N-terminal position
+  + Heavy chain has 4-5 domains; 1 variable, the rest are constant
+  + Depending on the constant part, there are different isotypes
+    + The lighht chain has 2 isotypes: *kappa and lambda*, similar and perform same functions
+    + Heavy chain has 5 isotypes: γ,α,μ,δ and ε.
+      + IgG -> γ -> Most abudant, found mainly in blood, protect against bacteria and viruses
+      + IgA -> α -> Found in saliva, mucous and breast milk, protect against ingested and inhaled pathogens
+      + IgM -> μ -> Found in blood and lymph system, First line of defence against infections
+      + IgE -> ε -> Found in lungs and skin, cause must cells to release histamine, fight off alergic reactions
+      + IgD -> δ -> Found in the surface of B cells, help B cells maturation and activation
+    + IgM and IgE have 5 domain heavy chain, the rest have 4
++ The 3D immunoglobulin structure is based on *beta sheets*
+* 48. Functions of antibodies.
++ Antibodies/immunoglobulins are protective proteins produced by the immune system in response to the presence of a foreign substance, /called an antigen/
+*** How antibodies work
++ Antibodies are produced by B lymphocytes(B cells)
+  + When an alien substance enters the body, the immune system is able to recognize it as foreign because molecules on the surface of the antigen differ from those in the body
++ When an antigen binds to the B-cell surface, it stimulates the B-cell to divide and mature into a group of identical cells
++ Mature B cells, called plasma cells, secrete millions of antibodies into the bloodstream and lymphatic system
+*** Functions and Usage
+**** Neutralization of toxins
++ Antibodies against toxins are called *antitoxins*
+  + They bind their targets and prevent their toxic action by distorting their active sites
++ To obtain an animal antitoxin, an animal is immunized with toxoid; Toxin inactivated by formalin or heat, but still immunogenic
++ We use animal's serum to relieve patients suffering from toxin - *Passive immunization*
++ We use toxoid injections in certain vaccines(e.g Diphtheria, tetanus), as well as for anti-venom snake vaccines
+**** Consequences of antigen binding
++ *antibodies have no toxic activity*
+  + Antibodies can bind toxins/antigens but cannot destroy them because they are not enzymes
++ Antibodies act indirectly:
+  + The constant part of the heavy chain, especially the Fc fragment, is recognized by complement components and phagocytes and mast cells
+  + Antibodies are *adaptable molecules*, acting synergistically with complement pathway and phagocytes
++ *The main function of antibodies is to enhance the efficiency of innate immune defenses by conferring specificity*
+  + *Opsonization* : Facilitate phagocytosis; phagocytes have Fc receptors for IgG;
+  + IgM and IgG can also activate complement pathway, leading to opsonization
+**** Functions of different immunoglobulin classes
++ *IgG*
+  + Predominant in fully developed immune response
+  + Most abundant, found mainly in blood, protect against bacteria and viruses
+  + /The only immunoglobulin that crosses placenta to protect the fetus/
++ *IgA*
+  + Found in saliva, mucous and breast milk, protect against ingested and inhaled pathogens
+  + IgA binds to the surface of microorganisms  and prevents their adherence to mucosal epithelial cells
++ *IgM*
+  + /Best activator of the classical complement pathway/
+  + Predominant immunoglobulin class in *early immune response*
+  + Confined to the bloodstream; Crucial against bacteria and viruses
++ *IgE*
+  + Found in lungs and skin, cause must cells to release histamine, fight off alergic reactions
++ *IgD*
+  + Found in the surface of B cells, help B cells maturation and activation
+
+* TODO 49. Molecules of cell-mediated immunity.
+* TODO 50. Cytotoxic and helper T lymphocytes.
+* TODO 51. Genetic basis of antibodies and T-cell receptors.
+* TODO 52. Lymphocyte differentiation in central lymphoid organs.
+* TODO 53. Lymphocyte differentiation in peripheral lymphoid organs. Immune response
+* TODO 54. Immune memory.
+* TODO 55. Immune tolerance. Regulatory T lymphocytes.
+* TODO 56. Transplantation immunity.
+* TODO 57. Antitumor immunity. Evolution of immunity.
+* TODO 58. Blood group alloantigens. ABO and H blood groups.
+* TODO 59. Rhesus blood groups.
+* TODO 60. Animal evolution before vertebrates.
+* TODO 61. Sequence of evolutionary innovations in vertebrate classes
+* 62. Phylogeny and development of the skull
+*** TODO Composition
++ *Neurocranium*
+  + Portion of the skull that protects the brain and major sense organs.
+  + /If we think the skull as a rectangular box, the neurocranium presents at the bottom, back and sides/
+  + Subdivided into 4 groups k
+  + Initially developed as cartilages, produced by the neural crest and mesoderm mesenchyme
+*** Phylogeny
++ The first big step; *Hardening of the feeding apparatus*, jaws were invented; massive and able to carry teeth
+  + The development of jaws is based on various mechanisms of shaping cartilage
++ Species with an active feeding mode also underwent an extensive enlargement of the nervous tissue
++ *Brain case* was developed to protect the brain and sensory organs, which lead to increased complexity of chondrocranium
++ *To create cartilages for the skull, nature needs mesoderm and neural crest*
+  + Neural crest cells induce formations of various elements of the cranial skeleton
+  + Mesoderm contributes to the development of the chondrocranium
+  + Neural crest cells also contribute to the anterior part of the neurocranium, and partly to the otic vesicles and jaw
+
+* TODO 63. Phylogeny and development of the postcranial skeleton
+* 64. Phylogeny and development of the skin
+*** Skin
++ /The outer covering of the body in all vertebrates/
++ Provides protections
+  + Mechanical against solar radiation and against pathogens
+  + Prevents *dehydration*
++ Site of synthesis and accumulations of substances such as lipids and vitamin D
++ Contains nerve endings that react to touch and can also absorb and excrete substances
++ *Has two main layers*
+  + *Epidermis*
+    + Outermost covering of the body
+    + *Ectodermal origin*
+  + *Dermis*
+    + Lies beneath the dermis
+    + Composed mostly of fibrous connective tissue, also contains adipose cells, macrophages and pigment cells
+*** Phylogeny of the skin
+**** Evolutionary innovations in Fishes
++ Epidermis in fishes is made of *living cells* /with relatively low keratin content/, covering dermal scales
++ Within the epidermis, unicellular mucous glands reside, their secretions make fish slippery and difficult to catch
+  + In some fish species, those glands are modified into venom glands
+**** Evolutionary innovations in Amphibians
++ When vertebrates invaded land, the epidermis evolved a cornified layer(*stratun corneum*), found first in amphibians
+  + Protects from dehydration
++ Presence of *multicellular* mucous glands
+  + Ectodermal origin, but are located in the dermis
+  + Release of secretions keep it moist so to *enable gas exchange through the skin*
+**** Evolutionary innovations in Amniotes
++ Stratum corneum is best developed in reptiles, forming a dense waterproof covering of their body
++ Reptilian *epidermis* is dry, *almost devoid of skin glands*, except for scent glands around the mouth
++ Squamate reptiles(lizards and snakes) are *characterized by overlapping horny scales.
+  + In *mammals*, the hairs are homologous to horny scales, providing heat insulation
+**** Evolutionary innovations in mammals
++ *General*
+  + Mammalian skin has *stratified epidermis*, composed mostly of keratinocyes, /containing some melanocytes and Langerhans cells(antigen-presenting)/
+  + Characteristic *hair* that provides heat insulation and camouflage
++ *Dermis*
+  + two layers, an outer papillary layer underlying the *basal layer* of the epidermis, and a *reticular layer* beneath it
+  + The dermis houses sensory receptors, blood vessels, smooth muscle fibers, hair follicules and skin glands
++ *Glands*
+  + mammals have two main types of skin glands, *sebaceous* and *sweat*
+  + *Sweat* :
+    + Coiled, tubular shape
+    + Merocrine(release liquid secretion) or apocrine(release cytoplasmic fragments)
+*** Skin development
++ Multi-step process consisting of
+  + Epidermal specification
+  + Epidermal Commitment
+  + Stratification & Terminal differentiation
+  + Growth of epidermal appendages
+**** Epidermal specification
++ Embryonic skin development begins after gastrulation
+  + Gastrulation occurs in the third week after fertilization
+  + Formation of three germ layers; ectoderm, mesoderm and endoderm
+  + Ectoderm gives gives rise to both the nervous system and skin epithelium
++ Neural and epidermal fates of ectodermal cells are based on the effects of *Wnt, fibroblast(FGF) and bone morphogenetic protein(BMP)* signalling following gastrulation
+  + Wnt signalling restricts the ectodermic response to FGFs, /which are required for neural induction/
+  + This lead to expresion of *BMP*, /which also inhibits neural fate and/ commits the cells to *differentiate into the epidermis*
+  + resulting in a *single layer of multipotent epithelial cells*
+**** Epidermal commitment
++ The single layer of multipotent epithelial cells /initially/ express keratins K8/K18
++ This is *replaced by K5/K14 expression* prior to stratification, /marking the beginning of epidermal commitment/
+**** Stratification & Terminal differentiation
++ Multipotent epithelial cells in the surface of the ectoderm *become the embryonic epidermal basal layer of the stratifying epidermis*
+  + which gives rise to all structures of the future epidermis
+  + The formation of the embryonic basal layer is accompanied by the development of the basement membrane, produced by the basal layer cells
++ Basement membrane separates the epidermis from the dermis and provides epidermal basal cells with growth factors
++ A layer of tightly adhered cells called *periderm* transiently overlays the ectoderm during embryonic development
+  + /The periderm protect the developing epidermis from amniotic fluid, and is shed once the epidermis has stratified/
++ As cells in the basal layer proliferate, they form an /intermediate layer/ of cells under the periderm, which mature into *spinous cells*
++ Both intermediate layer and spinous cells express K1, whose expression is induced by Notch signalling
++ *Notch signaling* directs spinous cells to continue to differentiate, and migrate towards the surface to form *granular layer* and *cornified layer*
+**** Growth of epidermal appendages
++ Development of the epidermis includes the formation of the epidermal appendages such as hair follicles and sweat glands.
++ During development, cells of the basal epidermal layer form buds, which are primitive cells of organ development
++ naginate into the dermis ultimately forming the hair follicle appendages, apocrine, and eccrine glands.
+
+* TODO 65. Phylogeny and development of the nervous system (brain and spinal cord)
+*** Phylogeny of nervous system
+
+*** Development of brain and spinal cord
+**** Neural tube
++ Neuroectodermal tissues differentiate and thicken into *neural plate*
++ Neural plate *bends dorsally* /with the two ends joining at the neural plate boarders/, developing into *neural crest*
++ The closure of the neural tube disconnects the neural crest from the epidermis. Neural crest cells differentiate to form most of the peripheral nervous system.
++ Neural tube forms beneath the dorsal surface ectoderm(future epidermis)
++ Anterior end will develop into the brain, rest will develop into the spinal cord
+**** Gray & White matter
++ /Gray matter consists primarily of neuronal cell bodies that contain nuclei, white matter mainly of myelinated axons/
++ Differentiation of grey and white matter goes together with neuronal maturation, /the axons emerging from the neuroblasts form layers of white matter/
++ *Spinal cord:*
+  + An inner layer of ependymal cells surrounds the central spinal canal. They produce cerebrospinal liquid
+  + Neuroblasts in the *mantle layer* will become the grey matter of the spinal cord
+    + *Mantle zone* differentiates into *alar plate*, which consists of sensory neurons and *basal plat* which consists of motor neurons
++ *Spinal nerves:*
+  + The two afferent columns of alar zone receive axons from dorsal root ganglia:
+    + somatic afferent column: receives impulses from skin and deep receptors
+* TODO 66. Phylogeny and development of the skin sense organs, taste, and olfactory organs.
+* TODO 67. Phylogeny and development of the organ of balance and hearing.
+* TODO 68. Phylogeny and development of organ of vision.
+* TODO 69. Phylogeny and development of digestive system.
+* TODO 70. Phylogeny and development of circulatory system.
+* TODO 71. Phylogeny and development of respiratory system.
+* TODO 72. Phylogeny and development of excretory system.
+* TODO 73. Phylogeny and development of reproductive system.
+* TODO 74. Mechanisms of evolution. Anagenesis.
+* TODO 75. Speciation (cladogenesis). Macroevolution.
+* TODO 76. Human evolution.
+* TODO 77. Molecular evolution.
+* 78. Protozoa. Phylum Sarcomastigophora. Subphylum Mastigophora (Flagellata). Trypanosoma brucei gambiense, Trypanosoma brucei rhodesiense. Trypanosoma cruzi.
+*** Trypanosoma brucei
++ Causes African trypanosomiasis(Sleeping sickness)
++ Trypanosoma brucei is a hemoflagellate protozoan(flagellated/trypomastigote in the blood, amastigote in tissue)
++ Vector transmission by bite of *tsetse fly*
++ Gambiense subtype is endemic to Central and West Africa, causes chronic trypanosomiasis, progresses slowly
++ Rhodesiense subtype is endemic to East Aftica, causes acute trypanosomiasis, more common in cattle than humans(humans are secondary host)
++ Stages of disease:
+  + Stage I :
+    + *Intermittent fever* : caused by antigenic variation
+    + Painless lymph node enlargement
+    + *Winterbottom* sign : painles cervical lymphadenopathy in the posterior triangle of the neck
+  + Stage II :
+    + Headache
+    + Insomnia
+    + *Coma*
+    + Death
+  + Diagnostics :
+    + Direct visualization of trypomastigotes in blood smear using Giemsa stain
+    + for Stage II diagnostics, lumbar puncture and CSF examination is used
+  + Treatment :
+    + Stage I  -> Suramin
+    + Stage II -> Melarsoprol
+*** Trypanosoma cruzi
++ Causes Chagas Disease
+  + /Disease first desrcibed by Carlos Chagas in 1909, now it is known as Chagas Disease/
++ Trypomastigote form in blood, amastigote in tissues
++ Vector transmission by **reduviid** bug(kissing bug, bites around the mouth or eyes usually)
+  + T.cruzi is shed in the feces of the reduviid bug; feces is then rubbed into the bite site while scratching
++ *Endemic to Central and South America*
++ Clinical features :
+  + Incubation period 1-2 weeks
+  + Actue phase
+    + Cutaneous manifestations :
+      + Chagoma: infammatory edema at the bite site(usually face)
+      + Romana sign : unilateral painless edema of the eyelids
+  + Indeterminate phase
+    + Patient enters asymptomatic latent phase
+    + Serologically positive, do not develop signs or symptoms associated with chronic phase
+  + Chronic phase
+    + *Chagas cardiomyopathy*
+      + dilative cardiomyopathy
+    + Megaesophagus and achalasia
+    + Megacolon
++ Diagnostics :
+  + Trypomastigotes in blood smear using Giemsa stain
+  + PCR
++ Treatment :
+  + Benzimidazole(first line)
+  + Nifurtimox(second line)
+
+* 79. Leishmania donovani. Leishmania tropica. Leishmania braziliensis.
++ Blood protozoan
++ Vector **transmission by sandfly**
++ Promastigote(flagellated) form in vector(sandly)|Amastigote(non-flagellated) form inside host macrophages
+  + Numerous amastigote nuclei can be seen in the cytoplasm of macrophages on microscopy
+*** Leishmania braziliensis & Leishmania Tropica
++ Leishmania braziliensis : Found in south America(Brazil)
++ Leishmania tropica: Europe, Africa
++ Both cause cutaneous leishmaniasis :
+  + Presents with papules and plaques that progress to ulcerative lesions
++ Local treatment with cryotherapy OR paromomycin
+*** Leishmania donovani
++ Causes Visceral leishmaniasis(kalazar, black fever)
++ Spiking fever
++ Affects the bone marrow, leading to pancytopenia
++ hepatosplenomegaly
++ Treatment :
+  + Amphotericin B
+
+* 80. Trichomonas vaginalis. Trichomonas tenax. Giardia lamblia (Lamblia intestinalis).
+*** Trcihonomas vaginalis
++ Anaerobic, motile protozoan with flagella
++ Does not encyst and does not survive outside of the body
++ Sexual transmission
++ Clinical features :
+    + Foul-smelling, yellow-green purulent discharge
+    + Vulvovaginal pruritus, burning sensation, stawberry cervix
+    + Usually asymptomatic in men
++ Diagnostics :
+    + Saline wet mount of vaginal smear : motile trophozoites with multiple flagella
+    + pH of vaginal discharge < 4.5
++ Treatment :
+    + Oral metronidazole
+*** Trichonomonas tenax
++ Anaerobic, motile protozoan with flagella
++ Found in oral cavity, causes gingivostomatitis, but commony asymptomatic
+*** Giardia Lamblia
++ Anaerobic flagellated protozoan in the small intestine
++ Fecal-oral transmission
+  + Infectious cysts that are passed through stool
++ Causes *Giardiasis*
++ /Giardiasis is associated commonly with campers/
++ Giardia is transmitted through poorly purified water
++ Giardiasis presents with *watery diarrhea*
++ Life cycle :
+  + Trophozoite : active form of the pathogen that multiplies within host
+    * Morphology : pear-shaped with 4 pairs of flagella and 2 nuclei
+  + Cyst : infectious form, able to survive in moist environments
+    * Morphology : pear-shaped with 4 nuclei
++ Diagnostics :
+  + Presence of Giardia Lamblia trophozoites in stool
+  + Stool O&P
+  + ELISA
++ Treatment :
+  + Metronidazole
+
+* 81. Subphylum Sarcodina. Entamoeba histolytica. Entamoeba dispar. Entamoeba gingivalis.
+*** Entamoeba Histolytica
++ Intestinal protozoan
+  + Primarly in the large intestine and colon
++ Causes amebiasis
++ Infectious cysts that are passed through stool
+  + Humans can contract amebiasis by contaminated water or food
+  + Amebiasis is associated with man who have sex with men(via anal-oral sexual intercourse)
++ Life cycle :
+  + Ingestion of cysts -> excystation in the small intestine -> noninvasive colonization of the colon by trophozoites -> trophozoites encyst -> cysts are excreted along with trophozoites -> cysts are ingested by another host or re-ingested by same host
++ Right lobe of the liver is the most common site of amebic liver abscess
+  + Hepatic amebiasis can present with right upper quadrant pain
++ Intestinal amebiasis presents with **ulceration** of the intestinal mucosa
+  + Ulcers are typically flask-shaped
++ Ulceration of the intestinal mucosa will result in **bloody diarrhea**
++ Diagnostics :
+  + Stool O&P
+  + Entamoeba histolytica **trophozoites present with endocytosed RBCs**
++ Treatment :
+  + Metronidazole
+*** Entamoeba dispar
++ nonpathogenic species in the large intestine
++ similar to E.Histolytica but never ingests RBCs
++ has trophozoite and cyst form
+
+*** Entamoeba gingivalis
++ the first amoeba described in humans
++ associated with gum disease
++ transmitted via kissing
+
+* 82. Phylum Apicomplexa. Toxoplasma gondii.
+*** Phylum Apicomplexa
++ Posses a unique organelle, called apicoplast(nonphosynthetic plasmid)
+    + Hosts four main metabolic pathways(Fatty Acid synthesis, Isoprenoid Syntehsis, Heme Synthesis, Iron-sulphur cluster synthesis)
++ Both sexual and sexual reproduction
+*** Toxoplasma gondii
++ Toxoplasma gondii is a CNS protozoan
++ Obligate intracellular
++ Can transfer transplacentally to unborn fetus
+    + Congenital toxoplasmosis presents with intracranial calcifications and hydrocephalus with seizures
+    + Hearing loss and chorioretinitis also possible
++ Cats are definitive host, humans can contract toxoplasmosis via contact with cat feces
+    + Toxoplasma gondii **oocysts** are found in warm-blooded animal feces, particularly **in cats**
++ Transmission by **cysts** in **undercooked meat**
++ Immunocompromised patients are at a higher risk
+    + Multiple ring-enhancing lessions on CT/MRI is feature of cerebral toxoplasmos in immunocompromised patients(HIV/AIDS)
++ Immunocompotent individuals are usually asymptomatic
++ Tachyzoite form -+
++ Toxoplasma gondii **cysts** can be found **in undercooked meat**
++ Forms :
++ Tachyzoites:
+    + Rapid growth and divison
+    + Endodyogeny
++ Bradyzoites
+    + Pseudocysts
+    + Usually in infected muscles and brain
++ Diagnostics:
+    + Serology(IgM antibody in acute, IgG antibody remains positive for life)
+    + PCR
+    + CT/MRI
++ Treatment :
+    + Sulfadiazine/Pyrimethamine
+
+* 83. Plasmodium vivax. Plasmodium malariae. Plasmodium falciparum. Morphological differences in the erythrocyte schizogony of the genus Plasmodium.
++ Genus Plasmodium belongs to the Phylum Apicomplexa
++ Plasmodium spp. are blood protozoa that cause malaria
+    + Malaria present with high-grade fever and flue-like symptoms
+    + Most Malaria infections are associated with anemia, jaundice and hepatosplenomegaly
++ Vector : Anopheles mosquito
+
+*** Plasmodium Falciparum
++ Endemic to sub-Saharan Africa and Southeast Asia
++ Irregular fever pattern
++ Associated with **severe** malaria
++ Cytoadherencae:
+ + Erythrocytes parasitized by P.Falciparum can occlude renal, hepatic and pulmonary vessels -> renal failure, hepatic failure and ARDS
++ Erythrocytes parasitized by P.Falciparum can occlude cerebral capillaries -+ cerebral malaria
++ **Sickle cell** and **alpha and beta thalassemia** confer relative protection against P.Falciparum
+
+*** Plasmodium Vivax
++ Endemic to Southeast Asia, Americas, Africa
++ P.Vivax produce hypnozoites(dormant stage) that can persist in the liver and cause relapse of malaria weeks or months later
++ Produce fever spikes every 48hours(tertian fever)
+
+*** Plasmodium Malariae
++ Endemic to sub-Saharan Africa, Southeast Asia and South America
++ Produce fever spikes every 72hours(quartan fever)
+
+*** Life cycle
++ female mosquito takes a blood meal and injects *sporozoites* into the bloodstream, **beginning the exoerythrogenic cycle**
++ Plasmodium sporozoites migrate to the liver where they infect hepatocytes
++ Sporozoites divide asexually to form *mutlinucleated schizonts*, each schizonts **contains 8-24 merozoites**
++ Schizonts rupture to release merozoites into the bloodstream
++ *Sporozoites of P.vivax* can develop into **hypnozoites** which lie dormant into hepatocytes for weeks to months
++ Plasmodium merozoites infect RBCs, *beginning erythrogenic cycle*
++ Plasmodium merozoites develop into **ring forms**
++ Plasmodium ring forms progress to **mature trophozoites within RBCs**
++ Mature trophozoites develop into **schizonts**
++ Rupture of schizonts -+ **lysis of RBCs** -> release of merozoites into the blood stream -> infection of new RBCs
++ A small number of merozoites differentiate into male and female +*gametocytes**
+
+*** Morphological differences
++ P.Falciparum gametocytes appear banana-shaped
++ P.vivax induce morphological changes in infected RBCs that are visible on microscopy -+ **Schuffner dots**
++ P.Malariae has band-like trophozoite stage
+
+
++ Diagnosis :
+    + Blood smear prepared with Giemsa stain for visualization
+
+* 84. Phylum Ciliophora. Balantidium coli.
+*** Phylum Ciliophora
++ Complex protozoans, found in lakes, rivers, oceans and soil
++ Ectosymbiotic, endosymbiotic and sometimes parasites
++ Characteristics :
+    + Cilira :
+        + Hair-like organelles, similar to flagella but shorter
+        + used in swimming and attachment
+    + Two different nuclei :
+        + a small, diploid micronucleus(reproduction)
+        + a large, polyploid macronucleus(general cell regulation)
+    + Cytosome and cytopharynx
++ Reproduction by fission(asecual), autogamy(self-fertilization) and conjugation(use of plasmids)
+
+*** Balantidium coli
++ The only ciliate known to be parasite in human
++ Found in the colon, in humans as well as pigs and other mammals
++ Asymptomatic in healthy individuals
++ In malnurished patients -+ colon dysfunction
+
+* TODO 85. Metazoa: important evolutionary changes associated with the transition to multicellularity. Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
+* 86. Phylum Platyhelminthes: important evolutionary changes. Class Trematoda. Fasciola hepatica.
+*** Phylum Platyhelmnithes
++ Triploblastic(Ectoderm,Mesoderm,Endoderm)
++ First organism with bilateral symmetry and tissues organized into organs
++ no specialized circulatory and respiratory organs
++ Characteristics:
+    + Flattened shape that allows oxygen and nutrients to pass through their bodies by diffusion
+    + One opening for ingestion and egestion
+    + Nevrous system :
+        + A pair of anterior ganglia, two longitudinal nerve cords, interconnected by transverse nerves
+    + Excretory system :
+        + protonephridia and their associated ducts
+    + Reproductive system :
+        + Hermaphrodites
+*** Class Trematoda(Flukes)
++ Worm-like
++ Hermaphrodites :
+    + Usually with testes
+    + Usually a single ovarium
+    + a pair of vitelline glands on either body side for yolk production
+    + ootype(fertilization place)
+    + elongated uterus(egg maturation place)
++ Aseual reproduction of the larval stages
++ **Trematodes infect mollusks as the first host**
+*** Fasciola Hepatica
++ Life Cycle :
+    + **Metacercariae** on freshwater plants are ingested by herbivorous mammals e.g sheep, cattle or humans(incidental host)
+    + Migration of the organism through the intestinal wall, then liver parenchyma into biliarry ducts
+    + Adult fluke release eggs into the biliary ducts, which are passed in the stool
+    + Snails serve as intermediate host
++ Transmission by consumption of contaminated freshwater plants
++ Clinical features :
+    + Acute phase :
+        + fever, right upper quadrant pain, hepatomegaly
+    + Chronic billiary phase :
+        + Diarrhea, vomiting, biliarry obstruction
++ Diagnosis :
+    + Eosinophilia and detection of eggs in stool
+
+* 87. Dicrocoelium dendriticum (D. lanceatum).
++ Liver fluke, Belongs to the Class Trematoda(flukes)
++ Two intermediate hosts(Snail, ant) -+ Mainly found in grazing animals
++ Life cycle :
+    + Grazing animal(e.g cow) ingests ant with metacercaria
+    + Matures into adult fluke in the bile duct of liver
+    + Eggs are passed in feces
+    + Snail digests eggs from animal feces, where they hatch and mature into cercaria
+    + Cercaria are found in snail slime, which ants ingest
+    + Metacercaria encyst in ant
++ Transmission to humans is rare
++ Clinical features :
+    + Mild symptoms, digestive distrurbances and diarrhea
+    + May cause in hepatomegaly or cirrhosis in heavier infections
++ Morphology :
+    + Similar to Clonorchis sinensis, distinguished by testes in the anterior body, as opposed to the Clonorchis sinensis whose testes are located in the posterior
+    + The posterior is where the uterus is, antiorly an oral sucker is found
+
+* 88. Opisthorchis felineus. Genus Schistosoma and its species.
+*** Opisthorchis felinewus
++ Cat liver fluke (trematode parasite)
++ Two intermediate hosts :
+    + Snail, freshwater fish
++ definitive host are fish-eating mammals such as dogs,cats and humans
+
+*** Genus Schistosoma
++ free-living Schistosoma spp. cercariae are found in aquatic environments
+    + Swimmers high risk group
++ snails are intermediate host of Schistosoma spp.
++ Schistosoma spp. mature in the liver
++ Migrate against the portal flow
++ Eggs of **Schistosoma mansosi** have a **lateral spine**
++ Eggs of **Schistosoma japonicum** have a **small spine**(appear round)
++ Eggs of **Schistosoma haematobium** have a **Large terminal spine**
++ Schistosoma spp. cause swimmer's itch(allergic reaction that manifests as rash, usually on lower legs)
++ Schistosoma spp. cause **cirrhosis** and **periportal fibrosis** which may lead to portal hypertension
++ Hepatitis caused by schistosomiasis can present with jaundice
++ Schistosoma haematobium infects urinary tract, which presents with hematuria
+    +Schistosomiasis is a +*risk factor** for squamous cell bladder cancer
+
+* 89. Class Cestoda. Diphyllobothrium latum.
+*** Class Cestoda
++ Parasites in all vertebrates
++ Adult form is intestinal
++ Pass through feces
++ Larval stages in tissues(cysticercus)
++ Absorp nutrients through the skin, **NO digestive system**
++ Parts :
+    + Scolex
+        + rostellum of hooks - T.Solium
+        + 4 suckers - T. Saginata,
+    + Neckpiece for budding new proglottids
+
+*** Diphyllobothrium latum
++ Largest tapeworm - can reach 10meters
++ Infection by eating raw or under cooked fish
++ Scolex:
+    + 2 bothria
++ Proglottids can be seen in stool exam
++ Adults can shed up to a million eggs a day
++ Clinical features :
+    + B12 deficiency, which may lead to megaloblastic anemia
++ Treament :
+    + Praziquantel
+
+* 90. Taenia saginata. Taenia solium.
++ Taenia saginata and Taenia soluium are tapeworms(Cestodes)
++ Both cause Intestinal Taeniasis, only T.Solium can cause cysticercosis
+*** Taenia Saginata
++ Beef tapeworm
++ Transmission :
+    + Infestion of larvae(cysticerci) in raw or undercooked beef
++ Clinical features :
+    + Often asymptomatic
+    + May cause abdominal pain, weight loss and vomiting
+    + Eosinophilia
++ Hosts :
+    + Cattle - intermediate host
+    + Human - Definitive host
++ Morphology :
+    + Scolex with 4 suckers, no rostellum.
+    + Gravid proglottid with more than 12 uterine branches on each side
+
+
+*** Taenia Solium
++ Pork tapeworm
++ Transmission :
+    + Ingestion of larvae in raw or undercooked pork -+ Intestinal taeniasis
+    + Fecal-oral: eggs are ingested from contaminated water -+ Cysticercosis
++ Clinical features :
+    + Often asymptomatic
+    + May cause abdominal pain, weight loss and vomiting
+    + Eosinophilia
+    + May cause cysticerci accumulation in subcutaneous tissue, muscles and CNS
++ Hosts :
+    + Pigs - intermediate host
+    + Humans - Definitive host
++ Mophology :
+    + Scolex - rostellum with 2 rows of 4 hooks and suckers
+    + Gravid proglottid - less than 12 uterine brancehs on each side
++ **Neurocysticercosis** is an infection of the CNS that can develop following ingestion of Taenia Solium eggs
+    + Taenia solium eggs can be transmitted via feces-contaminated water
+    + Neurocysticercosis by T.Solium can lead to seizures
+    + Neurocysticercosis shows characteristic cheese-like brain lesions on CT scan
++ Neurocysticercosis occurs if T.Solium disseminates from the small intestine to CNS
++ Treatment :
+    + Praziquantel for common infection, add albendazole+corticosteroids for neurocysticercosis
+
+*** Life cycle
++ This applies to both Taenia spp.
++ Eggs hatch in the human intestine
++ Develop into adult worms
++ Produce proglottids which can detach from the tapeworm and are passed in the feces
+
+
+* 91. Echinococcus granulosus. Hymenolepis nana.
+
++ Both are tapeworms(Cestodes)
+*** Echinococcus
++ Transmission :
+    + Hand-to-mouth
+        + From the fur of the definitive host(e.g dog)
+        + Contaminated dirt(e.g dog feces)
+    + Fecal-oral
+        + Consumption of food/water contaminated with fecal matter
++ Hosts :
+    + Definitive hosts: **Dogs**, cats, foxes
+    + Intermediate hosts : Hoofed animals(e.g **sheep**)
+    + Humans are accidental host(e.g sheep farmets)
++ Clinical features
+    + Cystic echinococcosis
+        + Usually asymptomatic
+        + Single hepatic cyst
+        + Cyst rupture causes anaphylactic reaction
+        + Hepatomegaly -+ **RUQ pain**
+    + Alveolar echinococcosis
+        + Rarely affects humans
+        + Hepatic cyst
+            + Hepatomegaly -+ **RUQ pain**
+            + Cyst that invades and destroys the liver
+**** Life cycle
++ Definitive host consumes hydatid cysts from an intermediate host
++ Adult tapeworms develop and inhabit the small intestine
++ Tapeworms produce eggs that are shed through stool, contaminating the ground
++ eggs are ingested by the intermediate hosts
++ eggs hatch within the intestine and penetrate the intestinal wall
++ travel trhough the bloodstream and into the lymphatic system -+ Liver and other organs
++ Form hydatid cysts
+
+*** Hymenolepis nana
++ Transmission
+    + Ingestion of eggs from contaminated food or water
+    + Infestion of cysticercoids from infected arthropods
++ Clinical features :
+    + Mostly asymptomatic
+    + May cause weight loss, abdominal pain and diarrhea
++ Morphology :
+    + rostellum and **4 suckers**
+    + 3 tester in each proglottid
++ Life cycle :
+    + Ingestion of eggs
+    + Develop into cysticercoid larvae in **small intestine**
+    + Cysticercoids develop into an adult worm in the intestinal lumen
+    + Eggs are passed through stool
+
+* 92. Phylum Nematoda. Ascaris lumbricoides.
+*** Phylum Nematoda
++ Roundworms, males smaller than females, transmitted by arthropod vectors
++ Belong to a newly named group, Ecdysozoa(superphylum)
++ Characteristics of Ecdysozoa :
+    + 3 layered cuticle which is periodicly molted as the animal grows
+        + This process is referred to as **ecdysis**
+    + Protostomes
++ Body structure :
+    + Acellular covering - Cuticle
+    + Hydrostatic skeleton
+    + Sexual dimorphism - Females are larger than males
+*** Ascaris Lumbricoides
++ Giant roundworm, fecal oral transmission, Nematode, Geohelminth
++ Transmission :
+    + Fecal-oral - consumption of contaminated food
++ Life cycle :
+    + Host ingests eggs
+    + Eggs hatch and release larvae
+    + Larvae invade the intestinal walls
+    + Larvae migrate to lungs via portal vain
+    + Larvae migrate to alveoli, trachea and Larynx
+    + Larvae climb up to the mouth and swallowed back into the intestine
+    + Larvae mature into adult worms in intestine, where they lay new eggs
++ Clinical features
+    + Usually asymptomatic
+    + Early symptoms :
+        + Cough, bloody sputum
+        + **Loeffler syndrome** - accumulation of eosinophils in the lungs
+    + Late symptoms :
+        + Weight loss, diarrhea, vomiting
+        + May cause bowerl obstruction at the ileocecal calve
++ Diagnosis
+    + Eosinophilia and presence of eggs in stool
+
+* 93. Enterobius vermicularis. Trichuris trichiura (Trichocephalus trichiurus).
+*** Enterobius vermicularis
++ Human pinworm, Nematode, Humans are the only host
++ Transmission :
+    + Fecal oral
+        + Consumtion of contaminated food/water
+        + Reinfection: fecal-oral after scratching anal region(perianal itching at night)
++ Life cycle :
+    + Eggs hatch and release larvae in the small intestine
+    + Adults establish themselves in the colon
+        + Life span ~ 2 months
+    + Females migrate in the night outside the night and lay eggs in the perianal area
++ Clinical features :
+    + Anal pruritus(especially at night)
+    + Vulvovaginitis, especially in children
++ Diagnosis :
+    + Scotch tape test
+        + Egg detection using tape that has been pressed against the perianal region
+*** Truchuris trichiura
++ Whipworm, Nematode
++ Transmission :
+    + Fecal-oral
++ Life cycle :
+    + host ingests eggs
+    + Eggs hatch and release larvae in the small intestine
+    + Larvae mature into adult worms in colon
+    + Adult worms lay eggs, which are shed in feces
++ Clinical features
+    + Usually asymptmatic, but in children may cause:
+        + Diarrhea
+        + **Rectal collapse**
++ Diagnosis :
+    + Eggs in stool
++ Morphology :
+    + Females larger than males
+    + Females have blunt round posterior end, males end is coiled
+
+* 94. Trichinella spiralis.
+*** Trichinella spiralis
++ Nematodes, biohelminths, females larger than males
++ Transmission
+    + Consumption of undercooked meat(usually pork) containing encysted larvae
+    + Fecal-oral(rarely)
++ Life cycle :
+    + Host ingests meat that contains cysts
+    + Larvae invade the small intestine mucosa
+    + Larvae develop into adult worms
+    + Adult worms release larvae, which then migrate to muscles, where they encyst
++ Clinical features
+    + Intestinal phase :
+        + Diarrhea, vomiting
+    + Muscle phase :
+        + Myosis - Muscle swelling
+        + **Periorbital edema**
+        + Fever
++ Diagnosis :
+    + Eosinophilia
+    + Increased Creatine kinase
+    + Confirmation teset - serological detection of antibodies
+
+* 95. Ancylostoma duodenale. Strongyloides stercoralis.
+*** Ancylostoma duodenale
++ Human hookwrom, nematode
++ Transmission :
+    + Cutaneous penetration of larvae(enters primarly by penetrating feet, e.g by walking on a beach)
++ Life cycle :
+        + Soil contaminated with human feces containing hookworm eggs
+        + Eggs hatch and release larvae
+        + Larvae penetrate skin(usually feet)
+        + Larvae migrate to lungs via bloodstream
+        + Larvae migrate to brochi and trachea
+        + Larvae are swallowed back to the intestine
+        + Larvae mature into adults, colonize intestinal tract
+        + Female hookworms lay eggs in the intestine
+        + Eggs are eliminated with feces
++ Clinical features
+        + At entry site :
+            + pruritus, erythema
+        + **Loeffler syndrome** (pneumonia with eosinophilia)
+        + microcytic anemia(hookwroms ingest blood from the intestinal wall)
++ Diagnosis
+        + Eosinophilia and microcytic anemia
+        + Stool examination fro eggs or worms
+*** Strongyloides sterocalis
++ Threadworm, nematode
++ Transmission :
+    + Cutaneous penetration of larvae(primarily via the feet)
++ Life cycle :
+    + Eggs hatch in the human intestine and release larvae -+ Larvae are excreted with the feces and contaminate soil
+    + Larvae penetrate the skin upon contact with contaminated soil
+    + Larvae migrate to lungs via bloodstream
+    + Larvae migrate to **pharynx** via the alveoli and bronchial system
+    + Larvae are swallowed causing autoinfection
+    + Larvae mature into adult, egg-producing worms in the intestine
+    + Eggs develop into infectious larvae and are excreted in feces
++ Hyperinfection : Some Larvae may penetrate the intestinal and enter the bloodstream
++ Clinical features
+    + Cutaneous phase
+            + Swelling, erythema
+            + Pruritus
+    + Pulmonary phase
+            + cough, hemoptysis, Loffler syndrome
+    + Intestinal phase
+            + Inflammation, abdominal pain with diarrhea
++ Diagnostics :
+        + Eosinophilia and stool examination for mobile rhabditiform larvae
+
+* 96. Dracunculus medinensis. Filarial worms: Wuchereria bancrofti, Loa loa, Onchocerca volvulus.
+*** Dracunculus medinensis
++ Causes Dracunculiasis - Guinea worm disease
++ Transmission :
+    + Consumption of unfiltered water containing copepods
++ Hosts
+    + copepods(intemediate)
+    + Humans(definitive)
++ Life cycle
+    + Humans drinks unfiltered water containing infected copepods
+    + Copepods die and release larvae, which enter the abdominal cavity
+    + After maturation, males die and females migrate towards the surface of the skin
+    + A year after infection, female worm induces a blister on the skin, which ruptures
+        + When lesions comes to contact with water, discomfort is reduced.
+    + The female worm emerges upon contact with water, and releases larvae
++ Worm can be extracted with slow traction by wrapping with a stick, apply antibiotic to wound
+
+*** Wucheeria Bancrofti
++ Thread-like worm, Nematode, causes Lymphatic filariasis and Elephantiasis
++ Transmission
+     + via Mosquitos bite
++ Life cycle :
+    + Introduced larvae via bite wound
+    + Larvae mature in the lympatic system
+    + Adult worms produce microfilariae
+    + Microfilariae are consued by mosquito during a blood meal
+    + Microfilariae mature into larvae
++ Clinical features :
+    + Paiful lumphadenopathy(worms invading lymph nodes -+ inflammation)
+    + Elephantiasis
++ Diagnosis
+    + Blood smear, visualization of microfilariae with Giemsa stain
+
+*** Loa loa
++ Filarial nematode, causes Loiasis
++ Transmission
+    + Deer fly
++ Life cycle
+    + Larvae get into bite woud
+    + Larvae mature into adult worms in subcutaneous tissue
+    + Adult worms produce microfilariae and release them into the bloodstream
+    + Deerfly ingests microfiliariae during blood meal
+    + Microfilariae mature into larvae
++ Clinical features
+    + Calabar swelling -+ transient, localized swelling.
+    + Eye worm -+ Loa loa has a tendency to migrate to subconjuctival tissue
++ Diagnosis
+    + Eosinophilia
+    + Blood smear showing microfilariae
+    + Seeing a worm in patients eye
+*** Onchocerca volvulus
++Onchocerciasis - River blindness
++ Transmission
+    + Bite by blackfly
++ Life cycle
+    + Larvae introduced by bite from darkfly
+    + Larvae mature into worms in subcutaneous tissue
+    + Adult worms produce microfilariae
+    + Microfilariae migrate through subcutaneous tissue
+    + Darkfly ingest microfilariae during blood meal
+    + Microfilariae mature into larvae
++ Clinical feautures
+    + Ocular onchocerciasis
+        + Leads to blindness
+    + Onchocercal skin disease
+        + Subcutaneous nodules
+        + Hyperpigmented papules with skin atrophy
++ Diagnosis
+    + Skin snips - skin bipsy causing microfilariae to leave the skin
++ Treatment
+    + ivermectin
+* 97. Phylum Annelida: important evolutionary changes. Lumbricus terrestris. Hirudo medicinalis.
+*** Phylum Annelida
++Segmented Worms - polychaete worms, oligochaetes worms and leeches
++ All members of this group are segmented - also called metamerism
++ body made up of both longitudinal and circular muscles surrounded by acelular cuticle(secreted by epithelium)
++ All members have chaete(hair like structures projecting from cuticle), except leeches
++ True coelom
+    + Polychaete worms
+        + All are marine worms
+    + Oligochaetes worms
+        + Freshwater worms
+        + Earthworm
+            + burrows through the moist ground, extracting nutrients and aerating the soil
+    + Leeches
+        + less segmented
+        + suckers at each end used for crawl
++ The **important evolutionary changes in annelids are:**
+    + Coelom
+    + Metamerism -Segmentation
+    + Setae
+    + Cerebral ganglia
+    + Blood vessels
+    + Metanephridia
+*** Lumbrius terrestrisl
++ Common earth worm
++ Segmentation
+    + Each segment has muscles and detae
+    + Setae help anchor to the ground, aiding movement
++ Closed circulatory system
+    + Aortic arches that function like a heart
++ Respiration
+    + Breaths through skin
++ Reproduction
+    + Hermaphrodites, but need a mate to reproduce
+*** Hirudo Medicinalis
++ European medicinal leech
++ Leech saliva contains about 100 pharmacologically active substances
+    + includes hirudin, hyaluronidase, vasodilators and anesthetics
+    + These substances are injected in human body during 'sucking'
+    + The proteins in leech saliva reduce pain and swelling
+
+
+
+
+* 98. Phylum Arthropoda: important evolutionary changes. Class Crustacea: general characterization.Class Arachnida. Orders Scorpiones and Araneae.
+*** Phylum Arthropoda
++ Segmented body
+    + Covered by chitin and exoskeleton
+    + Arthropods molt, exoskeleton does not grow with them
++ Open circulatory system
+    + consisting of a dorsal heart which collects blood and pumps it back
++ Nerve system
+    + Well developed sense organs
++ Jointed appendages
+    + antennae, mouthparts and walking legs
+*** Class Crustacea
++ Lobsters, crabs, shrips
++ Most crustaceans are aquatic, the majority are marine
++ All have :
+    + 2 pairs of antennae
+    + 1 pair of eyes(usually on stalks)
+    + a pair of appendages on each body segment
++ Major groups
+    + Branchiopoda e.g Brine shrimp
+    + Maxillopoda e.g Copepod
+    + Ostracoda e.g Ostracod
+    + Malacostraca e.g MANTIS SHRIMP(my fav), Crab
+**** Genus Cyclops
++ Water copepods
++ Intermediate host of Dracunculus and Diphylloborthrium
+*** Class Arachnida
++ Includes spiders, scorpions, harvestman and ticks
++ All arachnids have **8 legs**
++ Almost all are terrestrial
+*** Order Arenae
++ Spiders
++ Air breathing arthropods that have 8 legs and fangs that inject venom
++ Largest order of arachnids
++ Two tagmata :
+    + Cephalothorax
+        + their ganglia are fused in one in the cephalothorax(centralized NS)
+    + Abdomen
+        + Abdomen has appendages that can produce silk
++ Spiders have centralized nervous system
+    + their ganglia are fused into one in the cephalothorax
++ 4 pairs of eyes
++ Reproduce sexually and fertilization is internal
+
+*** Order Scorpiones
++ Scorpions have large pedipalps which end in a chela (hand or pincer)
++ 5 segmented metasoma(tail) that bears a stinger
++ Common genus include
+    + Euscorpius
+        + "small wood scorpions"
+        + varies in color
+        + Venom has local effect
+* 99. Order Acari. Medical importance of ticks and mites.
++ Class of Arachnids
++ Contains mites and ticks
++ 2 tagmata
+    + Cephalothorax
+    + Abdomen
++ Mouth parts may have adapted to biting or stringing
++ They breath through trachea, stigmata and skn itself
++ Ticks are larger than mites
++ Ticks are primarly on land
++ Life cycle :
+    + Egg -+ Prelarval stage -> larval stage -> series of nypmphal stages
++ Important mites include
+    + Sacroptes scabiei
+        + Skin parasite that causes severe itching, especially at night
+        + Transmission : Direct physical contact
++ Important Tick-borne diseases
+    + e.g Lyme dissease - Borrelia, Rocky Mountain Spotted Fever - Ricketsia
+    + Ixodes tick:
+        + transmit both bacterial and viral pathogens
+        + Has no eyes
+* 100. Class Insecta. The role of insects as vectors and mechanical carriers.
+*** Class Insecta
++ Composed of
+    + Three tagmata - Head, thorax and abdomen
+    + Three pairs of walking legs
+    + One pair of antennae on the had
+    + Two pairs of wings
+    + Open circulatory system
+    + Circulatory system in insects does NOT carry oxygen
+        + Insect blood contains 10% hemocytes(blood cells) and 90% blood plasma
+    + **Development**, insects have 3 different manners of development
+        + Ametabolous
+            + Hatching eggs produce **miniature copies of adults**, which to grow undergo **ecdysis**
+        + Holometabolous
+            + Completely different appearance of newly hatched and adults
+            + Larval forms that live in different habitats
+            + Undergo pupa(metamorphosis in cocoon)
+        + Hemimetabolous
+            + The young in these category are called nymphs
+            + nymphs are similar to adults, but smaller, lack winds and sexaully immature
+    + **Digestive System**
+        + Complex digestive tract
+        + Additional structues - glands producing digestive enzymes
+    + Respiration
+       + insects breathe through a tracheal system
+    + Reproduction
+        + two sexes, fertilization is internal in most
+* 101. Pediculus humanus. Phthirius pubis. Cimex lectularius. Pulex irritans.
+*** Pediculus humanus
++ Head louse, does NOT transmist infection, usually refers to Pediculus vestimeti(body louse) as well
++ Lice are obligate, permanent parasites of humans
++ Transmission
+    + contact with an infected human host
+    + Egg laying behavior is temperature dependant, they seek new host if temperature rises(e.g fever)
+        + To attach eggs, female secretes glue from her reproductive organs
+        + Lause eggs are also known as **nits**
+    + Vectors of Ricketsia Prowazeki
+        + Causes Ricketsia Typhi, can lead to explosive epidemics
+    + Vector of Borellia recurrentis
+        + Causes relapsing fever
+*** Phthirius pubis
++ The 'Crab Louse', also known as the pubic louse
++ Obligate ectoparasite of humans
++ They cannot jump and live exclusively on blood
++ Does not transmit disease
+*** Cimex Lectularius
++ Bed Bug
++ Blood feeding parasites of humans and domesticated animals
++ Have been suspected as carriers of leprosy and Q-fever but have never been implicated in the spread of disease to humans
++ Bed bugs are most active at night, their infestations are not easily located
++ They follow hemimetabolous development
+*** Pulex irritans
++ Human flea, prefers human blood, but will feed on other animals
++ Has big legs relative to its size, giving it extensive jumping abilities
++ Transmitted diseases :
+    + Yersinia Pestis - Plague
+    + Ricketsia Typhi
++ Life cycle :
+    + Eggs are shed into the environment by female
+    + Eggs hatch into larvae
+    + Larvae form pupae(cocoo)
+    + Adults hatch, infect host
+* 102. Genus Culex and genus Anopheles: morphological differences. Phlebotomus papatasii.
+*** Genus Culex and Genus Anopheles
++ Mosquitos
++ Life cycle
+    + Female mosquito lay eggs on fresh water
+    + Eggs hatch into larvae within 48h
+    + Larvae develop into pupa ~ in about 5 days, anopheles mosquito takes 5-10 days
+    + Develop into adult mosquitos within 2 days
++ How to distinguish them
+    + Culex mosquito do a C curve when sitting e.g on a wall, while anopheles keeps its back straight
++ Anopheles mosquito is defitive host/vector for Plasmodium/malaria and dengue fever
+*** Phlebotomus papatsii
++ Vector of visceral leishmaniasis
++ Sandfly
++ Carries Leishmania protozoa from infected animals after feeding
++ Yellow color
++ **Difference between sanfly and mosquito**
+    + Mosquitos require aquatic environment to lay eggs, sandfly does not.
+        + Females lay their eggs in soil or any place with decaying organic material
+* 103. Overview of parasitism.parasitism
++ Commensalism
+    + Class of relationship between 2 organisms where one organisms benefits **without** affecting the other
++ Mutualism
+    + Both organisms benefit from each other relationship
++ Amenalism
+    + One is harmed and the other is unaffected
++ Parasitism
+    + Where one benefits while the other is harmed
+**** Main characteristics of Parasites
++ smaller than their host
++ high degree of specialization
++ faster rate of reproduction than thier host
++ reduce host biological fitness while increasing their fitness by exploiting host for resources
+
+**** Types of Parasites
++ Ectoparasites
+    + Live on the surface of host
++ Endoparasites
+    + live inside the host
+**** Hosts
++ Definitive - Primary host
+    + Host where parasite reaches maturity and reproduces sexually
++ Intermediate - Secondary host
+    + a host where the parasite passes its asexual/larval stages
++ Reservoir host
+    + Alternative host

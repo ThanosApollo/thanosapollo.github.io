@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>example site</title>
+<meta name="generator" content="Org Mode" />
+<link rel="stylesheet" type="text/css" href="../themes/src/bigblow_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="../themes/src/bigblow_theme/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="../themes/src/bigblow_theme/css/hideshow.css"/>
+<script type="text/javascript" src="../themes/src/bigblow_theme/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="../themes/src/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="../themes/src/bigblow_theme/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="../themes/src/bigblow_theme/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="../themes/src/bigblow_theme/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="../themes/src/bigblow_theme/js/bigblow.js"></script>
+<script type="text/javascript" src="../themes/src/bigblow_theme/js/hideshow.js"></script>
+<script type="text/javascript" src="../themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">example site</h1>
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org7c6983e">Overview</a>
+<ul>
+<li><a href="#orgd019f63">code</a></li>
+<li><a href="#org5053438">Not code</a>
+<ul>
+<li><a href="#org978babb">inside not code</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org0098f4a">About</a></li>
+<li><a href="#org90d88f8">Medicine</a></li>
+<li><a href="#org2c12fe2">Blog</a>
+<ul>
+<li><a href="#orgef1b718">My experience with guix</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org7c6983e" class="outline-2">
+<h2 id="org7c6983e">Overview</h2>
+<div class="outline-text-2" id="text-org7c6983e">
+<p>
+my example site written in org mode
+</p>
+</div>
+<div id="outline-container-orgd019f63" class="outline-3">
+<h3 id="orgd019f63">code</h3>
+<div class="outline-text-3" id="text-orgd019f63">
+<p>
+Here is a link to my
+#+begin<sub>src</sub> python
+</p>
+
+<p>
+print("hello world")
+</p>
+
+<p>
+#+end<sub>src</sub>&gt;
+</p>
+</div>
+</div>
+<div id="outline-container-org5053438" class="outline-3">
+<h3 id="org5053438">Not code</h3>
+<div class="outline-text-3" id="text-org5053438">
+<p>
+random quote
+</p>
+</div>
+<div id="outline-container-org978babb" class="outline-4">
+<h4 id="org978babb">inside not code</h4>
+</div>
+</div>
+</div>
+<div id="outline-container-org0098f4a" class="outline-2">
+<h2 id="org0098f4a">About</h2>
+<div class="outline-text-2" id="text-org0098f4a">
+<p>
+an examplle site
+</p>
+</div>
+</div>
+
+<div id="outline-container-org90d88f8" class="outline-2">
+<h2 id="org90d88f8">Medicine</h2>
+<div class="outline-text-2" id="text-org90d88f8">
+<ul class="org-ul">
+<li><a href="Microbiology.html">Microbiology</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org2c12fe2" class="outline-2">
+<h2 id="org2c12fe2">Blog</h2>
+<div class="outline-text-2" id="text-org2c12fe2">
+</div>
+<div id="outline-container-orgef1b718" class="outline-3">
+<h3 id="orgef1b718">My experience with guix</h3>
+<div class="outline-text-3" id="text-orgef1b718">
+<p>
+working currently with guix
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.2 (<a href="https://orgmode.org">Org</a> mode 9.5.5)</p>
+</div>
+</body>
+</html>

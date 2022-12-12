@@ -1,0 +1,19 @@
+#+TITLE: example site
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+
+
+* Overview
+my example site written in org mode
+
+Here is a link to my
+#+begin_src python
+
+print("hello world")
+
+#+end_src>
+
+* About
+an examplle site
+
+* Information
+some info testing
