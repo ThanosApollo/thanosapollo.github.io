@@ -22,453 +22,453 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org949d62e">Resources I've used</a></li>
+<li><a href="#orgb73750e">Resources I've used</a></li>
 </ul>
 </li>
-<li><a href="#orgd8da43c">1. Origin and evolution of cells.</a>
+<li><a href="#org8278561">1. Origin and evolution of cells.</a>
 <ul>
-<li><a href="#org333d6aa">Nature constructs cells</a></li>
-<li><a href="#org4bb00cd">RNA World</a></li>
-<li><a href="#org5e6b016">Last Universal Common Ancestor(LUCA)</a></li>
-<li><a href="#org2c78c30">Prokaryotes vs Eukaryotes</a></li>
+<li><a href="#orgac739e7">Nature constructs cells</a></li>
+<li><a href="#org56a3e12">RNA World</a></li>
+<li><a href="#org463afe9">Last Universal Common Ancestor(LUCA)</a></li>
+<li><a href="#org6f8ce40">Prokaryotes vs Eukaryotes</a></li>
 </ul>
 </li>
-<li><a href="#org345389e">2. Proteins. Protein domains. Protein families.</a>
-<ul>
-<li>
-<ul>
-<li><a href="#org8e88ed3">Protein functions</a></li>
-<li><a href="#org60d490b">Protein structure</a></li>
-<li><a href="#org40ebca1">Protein domains</a></li>
-<li><a href="#org0725634">Protein Families</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#orgd68302a">3. Nucleic acids. DNA. RNA</a>
+<li><a href="#org7434ae1">2. Proteins. Protein domains. Protein families.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org8766b8a">Nucleic Acids</a></li>
-<li><a href="#org5be1fa9">RNA structure</a></li>
-<li><a href="#orgb7a8bb9">RNA - types and functions</a></li>
+<li><a href="#orgc4982d9">Protein functions</a></li>
+<li><a href="#org9b112a8">Protein structure</a></li>
+<li><a href="#orgf5b5181">Protein domains</a></li>
+<li><a href="#orge28b9ed">Protein Families</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orgd13fefc">4. Recognition and self-assembly of macromolecules. Cytoskeleton.</a>
+<li><a href="#org74c2843">3. Nucleic acids. DNA. RNA</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org9544b84">Self-assembly of macromolecules</a></li>
-<li><a href="#orgb995d47">Cytoskeleton</a></li>
+<li><a href="#org51d31bb">Nucleic Acids</a></li>
+<li><a href="#org72021fd">RNA structure</a></li>
+<li><a href="#orgd0fc4e8">RNA - types and functions</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org484ebbc"><span class="todo TODO">TODO</span> 5. Transcription.</a></li>
-<li><a href="#org27bd0a6"><span class="todo TODO">TODO</span> 6. RNA processing.</a></li>
-<li><a href="#org9407b36"><span class="todo TODO">TODO</span> 7. Genetic code. Translation.</a></li>
-<li><a href="#orga2e985c"><span class="todo TODO">TODO</span> 8. Proteins after translation: sorting, folding, modifications, degradation.</a></li>
-<li><a href="#org68c8738">9. DNA replication.</a>
+<li><a href="#orgdf1be43">4. Recognition and self-assembly of macromolecules. Cytoskeleton.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org07180ee">DNA Replication</a></li>
+<li><a href="#orgd3ac9ad">Self-assembly of macromolecules</a></li>
+<li><a href="#org7d80637">Cytoskeleton</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org94751c9"><span class="todo TODO">TODO</span> 10. RNA replication. Reverse transcription</a></li>
-<li><a href="#org4f2b076"><span class="todo TODO">TODO</span> 11. DNA repair.</a></li>
-<li><a href="#orgd738dde"><span class="todo TODO">TODO</span> 12. Prokaryotic genome and regulation of gene expression.</a></li>
-<li><a href="#orgd53b39b"><span class="todo TODO">TODO</span> 13. Eukaryotic genome and regulation of gene expression.</a></li>
-<li><a href="#org59ff3a1"><span class="todo TODO">TODO</span> 14. Cytoplasmic (extrachromosomal) inheritance in prokaryotes and eukaryotes.</a></li>
-<li><a href="#org116b1f9"><span class="todo TODO">TODO</span> 15. General (homologous) recombination. Molecular mechanisms of crossing over.</a></li>
-<li><a href="#org3b9086c"><span class="todo TODO">TODO</span> 16. Site-specific recombination.</a></li>
-<li><a href="#org08440b2"><span class="todo TODO">TODO</span> 17. Reproduction of viruses.</a></li>
-<li><a href="#orgf7c5a89"><span class="todo TODO">TODO</span> 18. Chromatin. Nucleosomes.</a></li>
-<li><a href="#org08372cc"><span class="todo TODO">TODO</span> 19. Human karyotype. Types of chromosomes.</a></li>
-<li><a href="#org8b1c461"><span class="todo TODO">TODO</span> 20. Gene mutations. Mechanisms and mutagenic factors.</a></li>
-<li><a href="#org1d7f7f9"><span class="todo TODO">TODO</span> 21. Chromosomal mutations. Evolution of karyotype.</a></li>
-<li><a href="#org8113b62"><span class="todo TODO">TODO</span> 22. Genes and alleles. Dominance and recessivity - mechanisms, medical examples. Penetrance and expressivity.</a></li>
-<li><a href="#org0e339e9"><span class="todo TODO">TODO</span> 23. Phenotype, genotype and allele frequencies. Hardy – Weinberg law.</a></li>
-<li><a href="#orgc4b0ed1"><span class="todo TODO">TODO</span> 24. Factors influencing allele frequencies: mutations, migrations, natural selection.</a></li>
-<li><a href="#orge7adaf0"><span class="todo TODO">TODO</span> 25. Effects of isolation: genetic drift, inbreeding.</a></li>
-<li><a href="#orgd036455"><span class="todo TODO">TODO</span> 26. Quantitative traits.</a></li>
-<li><a href="#orgf5cfeef">27. Cell cycle. Mitosis. Cell cycle control.</a>
+<li><a href="#org885eda8"><span class="todo TODO">TODO</span> 5. Transcription.</a></li>
+<li><a href="#orgba1245f"><span class="todo TODO">TODO</span> 6. RNA processing.</a></li>
+<li><a href="#org788a643"><span class="todo TODO">TODO</span> 7. Genetic code. Translation.</a></li>
+<li><a href="#org1d80bc0"><span class="todo TODO">TODO</span> 8. Proteins after translation: sorting, folding, modifications, degradation.</a></li>
+<li><a href="#org402f551">9. DNA replication.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org676baf0">Interphase</a></li>
-<li><a href="#org523bc16">Mitosis</a></li>
-<li><a href="#org14c343d">Cell cycle control</a></li>
+<li><a href="#org7f4009a">DNA Replication</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org2bf6e1b"><span class="todo TODO">TODO</span> 28. Growth factors, protooncogens, oncogenes, tumor suppressors. Oncogenic viruses</a></li>
-<li><a href="#orgab8a8f6"><span class="todo TODO">TODO</span> 29. Cell senescence. Cell death: apoptosis, necrosis.</a>
+<li><a href="#org020fef0"><span class="todo TODO">TODO</span> 10. RNA replication. Reverse transcription</a></li>
+<li><a href="#org0f73ca9"><span class="todo TODO">TODO</span> 11. DNA repair.</a></li>
+<li><a href="#org6a78f43"><span class="todo TODO">TODO</span> 12. Prokaryotic genome and regulation of gene expression.</a></li>
+<li><a href="#org38c7726"><span class="todo TODO">TODO</span> 13. Eukaryotic genome and regulation of gene expression.</a></li>
+<li><a href="#org5d7766a"><span class="todo TODO">TODO</span> 14. Cytoplasmic (extrachromosomal) inheritance in prokaryotes and eukaryotes.</a></li>
+<li><a href="#org09e6dfb"><span class="todo TODO">TODO</span> 15. General (homologous) recombination. Molecular mechanisms of crossing over.</a></li>
+<li><a href="#orgcf372e3"><span class="todo TODO">TODO</span> 16. Site-specific recombination.</a></li>
+<li><a href="#org45b6543"><span class="todo TODO">TODO</span> 17. Reproduction of viruses.</a></li>
+<li><a href="#org8a53f7d"><span class="todo TODO">TODO</span> 18. Chromatin. Nucleosomes.</a></li>
+<li><a href="#org0159f7e"><span class="todo TODO">TODO</span> 19. Human karyotype. Types of chromosomes.</a></li>
+<li><a href="#orge98e078"><span class="todo TODO">TODO</span> 20. Gene mutations. Mechanisms and mutagenic factors.</a></li>
+<li><a href="#orgee148bd"><span class="todo TODO">TODO</span> 21. Chromosomal mutations. Evolution of karyotype.</a></li>
+<li><a href="#orgbe2c969"><span class="todo TODO">TODO</span> 22. Genes and alleles. Dominance and recessivity - mechanisms, medical examples. Penetrance and expressivity.</a></li>
+<li><a href="#org9f194bd"><span class="todo TODO">TODO</span> 23. Phenotype, genotype and allele frequencies. Hardy – Weinberg law.</a></li>
+<li><a href="#org39df43b"><span class="todo TODO">TODO</span> 24. Factors influencing allele frequencies: mutations, migrations, natural selection.</a></li>
+<li><a href="#org025c8aa"><span class="todo TODO">TODO</span> 25. Effects of isolation: genetic drift, inbreeding.</a></li>
+<li><a href="#org312bc90"><span class="todo TODO">TODO</span> 26. Quantitative traits.</a></li>
+<li><a href="#org38414d9">27. Cell cycle. Mitosis. Cell cycle control.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org9a91dfc">Cell senescence</a></li>
+<li><a href="#orgfe23890">Interphase</a></li>
+<li><a href="#org6d57daf">Mitosis</a></li>
+<li><a href="#orgc537dad">Cell cycle control</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orge897720"><span class="todo TODO">TODO</span> 30. Cell signaling. Cell receptors.</a></li>
-<li><a href="#org1e33576"><span class="todo TODO">TODO</span> 31. Meiosis. Origin of germ cells.</a></li>
-<li><a href="#orgfc1ce9b"><span class="todo TODO">TODO</span> 32. Spermatogenesis. Mammalian spermatozoa.</a></li>
-<li><a href="#org33861f1"><span class="todo TODO">TODO</span> 33. Oogenesis. Mature mammalian ova.</a></li>
-<li><a href="#org4b1ed2f"><span class="todo TODO">TODO</span> 34. Fertilization. Interaction of maternal and paternal genomes.</a></li>
-<li><a href="#org1944c0d"><span class="todo TODO">TODO</span> 35. Assisted reproduction: IVF, ICSI.</a></li>
-<li><a href="#orgde5945e"><span class="todo TODO">TODO</span> 36. Embryonic development – early stages (zygote to neurula).</a></li>
-<li><a href="#org759b7c6"><span class="todo TODO">TODO</span> 37. Embryonic development – regulative and mosaic. Morphogens and embryonic induction.</a></li>
-<li><a href="#org97eb0c6"><span class="todo TODO">TODO</span> 38. Preimplantation mammalian embryo.</a></li>
-<li><a href="#org941a451">39. Sex determination and differentiation.</a>
+<li><a href="#org16c4569"><span class="todo TODO">TODO</span> 28. Growth factors, protooncogens, oncogenes, tumor suppressors. Oncogenic viruses</a></li>
+<li><a href="#org79fc614"><span class="todo TODO">TODO</span> 29. Cell senescence. Cell death: apoptosis, necrosis.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org381e384">Genotypic sex determination</a></li>
+<li><a href="#orga5dad7c">Cell senescence</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org3f2293c"><span class="todo TODO">TODO</span> 40. Methods of karyotyping and chromosome analysis.</a></li>
-<li><a href="#org91561cc"><span class="todo TODO">TODO</span> 41. Basic methods in molecular biology – electrophoresis, PCR, blotting, sequencing.</a></li>
-<li><a href="#orgbfc8bf3"><span class="todo TODO">TODO</span> 42. Immunological methods. Diagnosis of viral infections.</a></li>
-<li><a href="#orgb1bd9bf"><span class="todo TODO">TODO</span> 43. Recombinant DNA technology – restriction endonucleases, DNA vectors, recombinant proteins.</a></li>
-<li><a href="#org60f4906"><span class="todo TODO">TODO</span> 44. Cell micro-manipulations.</a></li>
-<li><a href="#org9003272"><span class="todo TODO">TODO</span> 45. Transgenic animals. Gene therapy.</a></li>
-<li><a href="#org645bfe1">46. Innate immunity.</a>
+<li><a href="#orgadfb7cc"><span class="todo TODO">TODO</span> 30. Cell signaling. Cell receptors.</a></li>
+<li><a href="#orgeffcb3d"><span class="todo TODO">TODO</span> 31. Meiosis. Origin of germ cells.</a></li>
+<li><a href="#orge09b4cb"><span class="todo TODO">TODO</span> 32. Spermatogenesis. Mammalian spermatozoa.</a></li>
+<li><a href="#org2d08f3a"><span class="todo TODO">TODO</span> 33. Oogenesis. Mature mammalian ova.</a></li>
+<li><a href="#orge699ff7"><span class="todo TODO">TODO</span> 34. Fertilization. Interaction of maternal and paternal genomes.</a></li>
+<li><a href="#orgd91d93c"><span class="todo TODO">TODO</span> 35. Assisted reproduction: IVF, ICSI.</a></li>
+<li><a href="#orgbb9dc5a"><span class="todo TODO">TODO</span> 36. Embryonic development – early stages (zygote to neurula).</a></li>
+<li><a href="#orgd460b77"><span class="todo TODO">TODO</span> 37. Embryonic development – regulative and mosaic. Morphogens and embryonic induction.</a></li>
+<li><a href="#orgb10c695"><span class="todo TODO">TODO</span> 38. Preimplantation mammalian embryo.</a></li>
+<li><a href="#org4948adf">39. Sex determination and differentiation.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#orgbdb6efd">Barriers</a></li>
-<li><a href="#org8698e5c">Internal defenses | Tissues</a></li>
+<li><a href="#org418a576">Genotypic sex determination</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org51243fc">47. Structure of antibodies.</a>
+<li><a href="#org489d3d2"><span class="todo TODO">TODO</span> 40. Methods of karyotyping and chromosome analysis.</a></li>
+<li><a href="#orge914d7e"><span class="todo TODO">TODO</span> 41. Basic methods in molecular biology – electrophoresis, PCR, blotting, sequencing.</a></li>
+<li><a href="#orge51c7e6"><span class="todo TODO">TODO</span> 42. Immunological methods. Diagnosis of viral infections.</a></li>
+<li><a href="#org37e60b3"><span class="todo TODO">TODO</span> 43. Recombinant DNA technology – restriction endonucleases, DNA vectors, recombinant proteins.</a></li>
+<li><a href="#org81373ca"><span class="todo TODO">TODO</span> 44. Cell micro-manipulations.</a></li>
+<li><a href="#orgfb2d114"><span class="todo TODO">TODO</span> 45. Transgenic animals. Gene therapy.</a></li>
+<li><a href="#org8d0af17">46. Innate immunity.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#orga1d8b6c">Antibodies | Structure</a></li>
+<li><a href="#org0b49812">Barriers</a></li>
+<li><a href="#org89f44f4">Internal defenses | Tissues</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org90ec973">48. Functions of antibodies.</a>
+<li><a href="#orgebbd64d">47. Structure of antibodies.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org2e25e5e">How antibodies work</a></li>
-<li><a href="#orgac598e0">Functions and Usage</a></li>
+<li><a href="#org9e970f7">Antibodies | Structure</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org2ee7f88"><span class="todo TODO">TODO</span> 49. Molecules of cell-mediated immunity.</a></li>
-<li><a href="#orgf1fb399"><span class="todo TODO">TODO</span> 50. Cytotoxic and helper T lymphocytes.</a></li>
-<li><a href="#org88c05ce"><span class="todo TODO">TODO</span> 51. Genetic basis of antibodies and T-cell receptors.</a></li>
-<li><a href="#orgf3ec9b3"><span class="todo TODO">TODO</span> 52. Lymphocyte differentiation in central lymphoid organs.</a></li>
-<li><a href="#org606476b"><span class="todo TODO">TODO</span> 53. Lymphocyte differentiation in peripheral lymphoid organs. Immune response</a></li>
-<li><a href="#org0eeafa3"><span class="todo TODO">TODO</span> 54. Immune memory.</a></li>
-<li><a href="#org72ce70e"><span class="todo TODO">TODO</span> 55. Immune tolerance. Regulatory T lymphocytes.</a></li>
-<li><a href="#org6baa490"><span class="todo TODO">TODO</span> 56. Transplantation immunity.</a></li>
-<li><a href="#org98ebdda"><span class="todo TODO">TODO</span> 57. Antitumor immunity. Evolution of immunity.</a></li>
-<li><a href="#orgdb478e5"><span class="todo TODO">TODO</span> 58. Blood group alloantigens. ABO and H blood groups.</a></li>
-<li><a href="#org1621528"><span class="todo TODO">TODO</span> 59. Rhesus blood groups.</a></li>
-<li><a href="#orgb3f25cc"><span class="todo TODO">TODO</span> 60. Animal evolution before vertebrates.</a></li>
-<li><a href="#org967272c"><span class="todo TODO">TODO</span> 61. Sequence of evolutionary innovations in vertebrate classes</a></li>
-<li><a href="#orgd8d55da">62. Phylogeny and development of the skull</a>
+<li><a href="#orga211d86">48. Functions of antibodies.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org66304d7"><span class="todo TODO">TODO</span> Composition</a></li>
-<li><a href="#orgef1c9a6">Phylogeny</a></li>
+<li><a href="#org47c0a71">How antibodies work</a></li>
+<li><a href="#orgd242b5c">Functions and Usage</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org7aa0764"><span class="todo TODO">TODO</span> 63. Phylogeny and development of the postcranial skeleton</a></li>
-<li><a href="#org0d9656c">64. Phylogeny and development of the skin</a>
+<li><a href="#orgb703ff2"><span class="todo TODO">TODO</span> 49. Molecules of cell-mediated immunity.</a></li>
+<li><a href="#org81146ae"><span class="todo TODO">TODO</span> 50. Cytotoxic and helper T lymphocytes.</a></li>
+<li><a href="#orgada80a9"><span class="todo TODO">TODO</span> 51. Genetic basis of antibodies and T-cell receptors.</a></li>
+<li><a href="#org487660f"><span class="todo TODO">TODO</span> 52. Lymphocyte differentiation in central lymphoid organs.</a></li>
+<li><a href="#org12dcf9a"><span class="todo TODO">TODO</span> 53. Lymphocyte differentiation in peripheral lymphoid organs. Immune response</a></li>
+<li><a href="#org65b4702"><span class="todo TODO">TODO</span> 54. Immune memory.</a></li>
+<li><a href="#org0fca5d5"><span class="todo TODO">TODO</span> 55. Immune tolerance. Regulatory T lymphocytes.</a></li>
+<li><a href="#orgca24aa6"><span class="todo TODO">TODO</span> 56. Transplantation immunity.</a></li>
+<li><a href="#org343728c"><span class="todo TODO">TODO</span> 57. Antitumor immunity. Evolution of immunity.</a></li>
+<li><a href="#orga57915a"><span class="todo TODO">TODO</span> 58. Blood group alloantigens. ABO and H blood groups.</a></li>
+<li><a href="#org0442191"><span class="todo TODO">TODO</span> 59. Rhesus blood groups.</a></li>
+<li><a href="#orgd8f1aee"><span class="todo TODO">TODO</span> 60. Animal evolution before vertebrates.</a></li>
+<li><a href="#org925ce2f"><span class="todo TODO">TODO</span> 61. Sequence of evolutionary innovations in vertebrate classes</a></li>
+<li><a href="#org08d9447">62. Phylogeny and development of the skull</a>
 <ul>
 <li>
 <ul>
-<li><a href="#orgea88957">Skin</a></li>
-<li><a href="#orga4e31af">Phylogeny of the skin</a></li>
-<li><a href="#org758082e">Skin development</a></li>
+<li><a href="#orgcc67eaf"><span class="todo TODO">TODO</span> Composition</a></li>
+<li><a href="#org4b07a31">Phylogeny</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org2ad28ac"><span class="todo TODO">TODO</span> 65. Phylogeny and development of the nervous system (brain and spinal cord)</a>
+<li><a href="#org4a1f67a"><span class="todo TODO">TODO</span> 63. Phylogeny and development of the postcranial skeleton</a></li>
+<li><a href="#orgf63204a">64. Phylogeny and development of the skin</a>
 <ul>
 <li>
 <ul>
-<li><a href="#orgd7113d0">Phylogeny of nervous system</a></li>
-<li><a href="#org96c03c3">Development of brain and spinal cord</a></li>
+<li><a href="#orga80a038">Skin</a></li>
+<li><a href="#orgf143b30">Phylogeny of the skin</a></li>
+<li><a href="#org0bffeac">Skin development</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org2ea7a7e"><span class="todo TODO">TODO</span> 66. Phylogeny and development of the skin sense organs, taste, and olfactory organs.</a></li>
-<li><a href="#org48f1f93"><span class="todo TODO">TODO</span> 67. Phylogeny and development of the organ of balance and hearing.</a></li>
-<li><a href="#orge027d11"><span class="todo TODO">TODO</span> 68. Phylogeny and development of organ of vision.</a></li>
-<li><a href="#org1071b27"><span class="todo TODO">TODO</span> 69. Phylogeny and development of digestive system.</a></li>
-<li><a href="#org79caa43"><span class="todo TODO">TODO</span> 70. Phylogeny and development of circulatory system.</a></li>
-<li><a href="#org8654b13"><span class="todo TODO">TODO</span> 71. Phylogeny and development of respiratory system.</a></li>
-<li><a href="#orgbc7509e"><span class="todo TODO">TODO</span> 72. Phylogeny and development of excretory system.</a></li>
-<li><a href="#org7d0fdf1"><span class="todo TODO">TODO</span> 73. Phylogeny and development of reproductive system.</a></li>
-<li><a href="#org50dd898"><span class="todo TODO">TODO</span> 74. Mechanisms of evolution. Anagenesis.</a></li>
-<li><a href="#orgba8a14c"><span class="todo TODO">TODO</span> 75. Speciation (cladogenesis). Macroevolution.</a></li>
-<li><a href="#org75eae64"><span class="todo TODO">TODO</span> 76. Human evolution.</a></li>
-<li><a href="#org24cfbb3"><span class="todo TODO">TODO</span> 77. Molecular evolution.</a></li>
-<li><a href="#orge3404a3">78. Protozoa. Phylum Sarcomastigophora. Subphylum Mastigophora (Flagellata). Trypanosoma brucei gambiense, Trypanosoma brucei rhodesiense. Trypanosoma cruzi.</a>
+<li><a href="#orgcabf195"><span class="todo TODO">TODO</span> 65. Phylogeny and development of the nervous system (brain and spinal cord)</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org4cbb3a8">Trypanosoma brucei</a></li>
-<li><a href="#orgde1bc75">Trypanosoma cruzi</a></li>
+<li><a href="#org9ff7532">Phylogeny of nervous system</a></li>
+<li><a href="#org07d1208">Development of brain and spinal cord</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orgcb961c6">79. Leishmania donovani. Leishmania tropica. Leishmania braziliensis.</a>
+<li><a href="#org454f853"><span class="todo TODO">TODO</span> 66. Phylogeny and development of the skin sense organs, taste, and olfactory organs.</a></li>
+<li><a href="#org3eeef84"><span class="todo TODO">TODO</span> 67. Phylogeny and development of the organ of balance and hearing.</a></li>
+<li><a href="#org2eeab47"><span class="todo TODO">TODO</span> 68. Phylogeny and development of organ of vision.</a></li>
+<li><a href="#org349281f"><span class="todo TODO">TODO</span> 69. Phylogeny and development of digestive system.</a></li>
+<li><a href="#org2d0fa94"><span class="todo TODO">TODO</span> 70. Phylogeny and development of circulatory system.</a></li>
+<li><a href="#org8cfadea"><span class="todo TODO">TODO</span> 71. Phylogeny and development of respiratory system.</a></li>
+<li><a href="#org4d64e64"><span class="todo TODO">TODO</span> 72. Phylogeny and development of excretory system.</a></li>
+<li><a href="#org693c90c"><span class="todo TODO">TODO</span> 73. Phylogeny and development of reproductive system.</a></li>
+<li><a href="#org1083988"><span class="todo TODO">TODO</span> 74. Mechanisms of evolution. Anagenesis.</a></li>
+<li><a href="#org3828dd3"><span class="todo TODO">TODO</span> 75. Speciation (cladogenesis). Macroevolution.</a></li>
+<li><a href="#org3d787eb"><span class="todo TODO">TODO</span> 76. Human evolution.</a></li>
+<li><a href="#org1fe6505"><span class="todo TODO">TODO</span> 77. Molecular evolution.</a></li>
+<li><a href="#org3856289">78. Protozoa. Phylum Sarcomastigophora. Subphylum Mastigophora (Flagellata). Trypanosoma brucei gambiense, Trypanosoma brucei rhodesiense. Trypanosoma cruzi.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#orgeff6822">Leishmania braziliensis &amp; Leishmania Tropica</a></li>
-<li><a href="#org33f6d60">Leishmania donovani</a></li>
+<li><a href="#org0fbf929">Trypanosoma brucei</a></li>
+<li><a href="#org0f72602">Trypanosoma cruzi</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org8070c17">80. Trichomonas vaginalis. Trichomonas tenax. Giardia lamblia (Lamblia intestinalis).</a>
+<li><a href="#org14db42c">79. Leishmania donovani. Leishmania tropica. Leishmania braziliensis.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org49e87db">Trcihonomas vaginalis</a></li>
-<li><a href="#org3f5d199">Trichonomonas tenax</a></li>
-<li><a href="#org06cf18c">Giardia Lamblia</a></li>
+<li><a href="#org203b5bc">Leishmania braziliensis &amp; Leishmania Tropica</a></li>
+<li><a href="#org37dcd66">Leishmania donovani</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org03030a3">81. Subphylum Sarcodina. Entamoeba histolytica. Entamoeba dispar. Entamoeba gingivalis.</a>
+<li><a href="#orge151da3">80. Trichomonas vaginalis. Trichomonas tenax. Giardia lamblia (Lamblia intestinalis).</a>
 <ul>
 <li>
 <ul>
-<li><a href="#orgf70e79c">Entamoeba Histolytica</a></li>
-<li><a href="#org4ec3fac">Entamoeba dispar</a></li>
-<li><a href="#orga390757">Entamoeba gingivalis</a></li>
+<li><a href="#org3d0884a">Trcihonomas vaginalis</a></li>
+<li><a href="#org25f9d7f">Trichonomonas tenax</a></li>
+<li><a href="#org01f80f4">Giardia Lamblia</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org07fa2a0">82. Phylum Apicomplexa. Toxoplasma gondii.</a>
+<li><a href="#orgcf7a587">81. Subphylum Sarcodina. Entamoeba histolytica. Entamoeba dispar. Entamoeba gingivalis.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#orgcde88c2">Phylum Apicomplexa</a></li>
-<li><a href="#org2371523">Toxoplasma gondii</a></li>
+<li><a href="#orgce3f6ec">Entamoeba Histolytica</a></li>
+<li><a href="#org0df8505">Entamoeba dispar</a></li>
+<li><a href="#org36697d2">Entamoeba gingivalis</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orgc94add4">83. Plasmodium vivax. Plasmodium malariae. Plasmodium falciparum. Morphological differences in the erythrocyte schizogony of the genus Plasmodium.</a>
+<li><a href="#org07a8947">82. Phylum Apicomplexa. Toxoplasma gondii.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org9d97414">Plasmodium Falciparum</a></li>
-<li><a href="#orgdfbb134">Plasmodium Vivax</a></li>
-<li><a href="#orge6941b2">Plasmodium Malariae</a></li>
-<li><a href="#org88dcb63">Life cycle</a></li>
-<li><a href="#org083c588">Morphological differences</a></li>
+<li><a href="#orgd24abfe">Phylum Apicomplexa</a></li>
+<li><a href="#org8277c4f">Toxoplasma gondii</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orge7eb12c">84. Phylum Ciliophora. Balantidium coli.</a>
+<li><a href="#orgc093d6b">83. Plasmodium vivax. Plasmodium malariae. Plasmodium falciparum. Morphological differences in the erythrocyte schizogony of the genus Plasmodium.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org189a7ff">Phylum Ciliophora</a></li>
-<li><a href="#org21c6d02">Balantidium coli</a></li>
+<li><a href="#orgc1290d6">Plasmodium Falciparum</a></li>
+<li><a href="#org164a407">Plasmodium Vivax</a></li>
+<li><a href="#org00abb04">Plasmodium Malariae</a></li>
+<li><a href="#org77b5091">Life cycle</a></li>
+<li><a href="#org4d62269">Morphological differences</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orge359740"><span class="todo TODO">TODO</span> 85. Metazoa: important evolutionary changes associated with the transition to multicellularity. Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.</a></li>
-<li><a href="#orgdffa116">86. Phylum Platyhelminthes: important evolutionary changes. Class Trematoda. Fasciola hepatica.</a>
+<li><a href="#org9b36bda">84. Phylum Ciliophora. Balantidium coli.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org5fb3be2">Phylum Platyhelmnithes</a></li>
-<li><a href="#org93be552">Class Trematoda(Flukes)</a></li>
-<li><a href="#orgf9c3911">Fasciola Hepatica</a></li>
+<li><a href="#orgab8e31c">Phylum Ciliophora</a></li>
+<li><a href="#org392bdfb">Balantidium coli</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org2ed23cf">87. Dicrocoelium dendriticum (D. lanceatum).</a></li>
-<li><a href="#org154f83a">88. Opisthorchis felineus. Genus Schistosoma and its species.</a>
+<li><a href="#orgd75e169"><span class="todo TODO">TODO</span> 85. Metazoa: important evolutionary changes associated with the transition to multicellularity. Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.</a></li>
+<li><a href="#org32c87d1">86. Phylum Platyhelminthes: important evolutionary changes. Class Trematoda. Fasciola hepatica.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org7b08739">Opisthorchis felinewus</a></li>
-<li><a href="#orgdcba053">Genus Schistosoma</a></li>
+<li><a href="#org838e9db">Phylum Platyhelmnithes</a></li>
+<li><a href="#orgfc96ba7">Class Trematoda(Flukes)</a></li>
+<li><a href="#org24e8165">Fasciola Hepatica</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org79b9cb9">89. Class Cestoda. Diphyllobothrium latum.</a>
+<li><a href="#org39a41e6">87. Dicrocoelium dendriticum (D. lanceatum).</a></li>
+<li><a href="#org9926fe1">88. Opisthorchis felineus. Genus Schistosoma and its species.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org08b81f5">Class Cestoda</a></li>
-<li><a href="#org4eb2f79">Diphyllobothrium latum</a></li>
+<li><a href="#orge26e620">Opisthorchis felinewus</a></li>
+<li><a href="#org102d1bf">Genus Schistosoma</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org6c5bd69">90. Taenia saginata. Taenia solium.</a>
+<li><a href="#org9135163">89. Class Cestoda. Diphyllobothrium latum.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#orgf591456">Taenia Saginata</a></li>
-<li><a href="#orgbb13d24">Taenia Solium</a></li>
-<li><a href="#orgf0dbf91">Life cycle</a></li>
+<li><a href="#org8ded451">Class Cestoda</a></li>
+<li><a href="#org071cd95">Diphyllobothrium latum</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org55888cb">91. Echinococcus granulosus. Hymenolepis nana.</a>
+<li><a href="#org47aaa35">90. Taenia saginata. Taenia solium.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#orgd135c33">Echinococcus</a></li>
-<li><a href="#orga0a36e5">Hymenolepis nana</a></li>
+<li><a href="#orgf9b39b7">Taenia Saginata</a></li>
+<li><a href="#org4b79126">Taenia Solium</a></li>
+<li><a href="#orgc5c3637">Life cycle</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orge6c0d69">92. Phylum Nematoda. Ascaris lumbricoides.</a>
+<li><a href="#orga0a586c">91. Echinococcus granulosus. Hymenolepis nana.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#orgae42535">Phylum Nematoda</a></li>
-<li><a href="#orgd5a3eff">Ascaris Lumbricoides</a></li>
+<li><a href="#orgc52c6dd">Echinococcus</a></li>
+<li><a href="#org89593fc">Hymenolepis nana</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org2ac94c5">93. Enterobius vermicularis. Trichuris trichiura (Trichocephalus trichiurus).</a>
+<li><a href="#orgec719bb">92. Phylum Nematoda. Ascaris lumbricoides.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#orge15951a">Enterobius vermicularis</a></li>
-<li><a href="#orgb3662ff">Truchuris trichiura</a></li>
+<li><a href="#org9a4e6c0">Phylum Nematoda</a></li>
+<li><a href="#org5fd9cfd">Ascaris Lumbricoides</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org123d183">94. Trichinella spiralis.</a>
+<li><a href="#org8f74164">93. Enterobius vermicularis. Trichuris trichiura (Trichocephalus trichiurus).</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org09f319e">Trichinella spiralis</a></li>
+<li><a href="#org1ca2272">Enterobius vermicularis</a></li>
+<li><a href="#org077d7d7">Truchuris trichiura</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orgb6dd909">95. Ancylostoma duodenale. Strongyloides stercoralis.</a>
+<li><a href="#org57acfe9">94. Trichinella spiralis.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org74c4437">Ancylostoma duodenale</a></li>
-<li><a href="#orga0f55d9">Strongyloides sterocalis</a></li>
+<li><a href="#org7068ae0">Trichinella spiralis</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orgf7a197e">96. Dracunculus medinensis. Filarial worms: Wuchereria bancrofti, Loa loa, Onchocerca volvulus.</a>
+<li><a href="#orgb8e3774">95. Ancylostoma duodenale. Strongyloides stercoralis.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#orgf83f953">Dracunculus medinensis</a></li>
-<li><a href="#orgcaedafa">Wucheeria Bancrofti</a></li>
-<li><a href="#orgee4ec70">Loa loa</a></li>
-<li><a href="#orgaf40882">Onchocerca volvulus</a></li>
+<li><a href="#org1e0cfd2">Ancylostoma duodenale</a></li>
+<li><a href="#org9c3b34d">Strongyloides sterocalis</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org3c8ea1e">97. Phylum Annelida: important evolutionary changes. Lumbricus terrestris. Hirudo medicinalis.</a>
+<li><a href="#org4012408">96. Dracunculus medinensis. Filarial worms: Wuchereria bancrofti, Loa loa, Onchocerca volvulus.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org5c348c1">Phylum Annelida</a></li>
-<li><a href="#org6cd46b1">Lumbrius terrestrisl</a></li>
-<li><a href="#org6875e1a">Hirudo Medicinalis</a></li>
+<li><a href="#orgc908d6d">Dracunculus medinensis</a></li>
+<li><a href="#orga40a3ff">Wucheeria Bancrofti</a></li>
+<li><a href="#orga564ba3">Loa loa</a></li>
+<li><a href="#org7fb815c">Onchocerca volvulus</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orgdbccaba">98. Phylum Arthropoda: important evolutionary changes. Class Crustacea: general characterization.Class Arachnida. Orders Scorpiones and Araneae.</a>
+<li><a href="#orgff1baac">97. Phylum Annelida: important evolutionary changes. Lumbricus terrestris. Hirudo medicinalis.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#orgeba3a6c">Phylum Arthropoda</a></li>
-<li><a href="#org7cbea01">Class Crustacea</a></li>
-<li><a href="#org48d5ddb">Class Arachnida</a></li>
-<li><a href="#orgba1b1f7">Order Arenae</a></li>
-<li><a href="#org686eb9f">Order Scorpiones</a></li>
+<li><a href="#org82de1bf">Phylum Annelida</a></li>
+<li><a href="#org67d10ac">Lumbrius terrestrisl</a></li>
+<li><a href="#org0fe598b">Hirudo Medicinalis</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orge127b2e">99. Order Acari. Medical importance of ticks and mites.</a></li>
-<li><a href="#orgff72475">100. Class Insecta. The role of insects as vectors and mechanical carriers.</a>
+<li><a href="#orge386c28">98. Phylum Arthropoda: important evolutionary changes. Class Crustacea: general characterization.Class Arachnida. Orders Scorpiones and Araneae.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org88a4a03">Class Insecta</a></li>
+<li><a href="#orgef2a9f2">Phylum Arthropoda</a></li>
+<li><a href="#org06157f0">Class Crustacea</a></li>
+<li><a href="#org17f3de1">Class Arachnida</a></li>
+<li><a href="#org50cb9fb">Order Arenae</a></li>
+<li><a href="#org2465050">Order Scorpiones</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org4a8aff2">101. Pediculus humanus. Phthirius pubis. Cimex lectularius. Pulex irritans.</a>
+<li><a href="#org23b65a7">99. Order Acari. Medical importance of ticks and mites.</a></li>
+<li><a href="#orga621a89">100. Class Insecta. The role of insects as vectors and mechanical carriers.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org45198bc">Pediculus humanus</a></li>
-<li><a href="#orga069669">Phthirius pubis</a></li>
-<li><a href="#orgc5fa149">Cimex Lectularius</a></li>
-<li><a href="#org1921e56">Pulex irritans</a></li>
+<li><a href="#org1971bc7">Class Insecta</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org1c27784">102. Genus Culex and genus Anopheles: morphological differences. Phlebotomus papatasii.</a>
+<li><a href="#org4f235a7">101. Pediculus humanus. Phthirius pubis. Cimex lectularius. Pulex irritans.</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org8e7663c">Genus Culex and Genus Anopheles</a></li>
-<li><a href="#org7c31b29">Phlebotomus papatsii</a></li>
+<li><a href="#org5058d1d">Pediculus humanus</a></li>
+<li><a href="#org7b65c8d">Phthirius pubis</a></li>
+<li><a href="#orgd706a1c">Cimex Lectularius</a></li>
+<li><a href="#org896569a">Pulex irritans</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org0d8839b">103. Overview of parasitism.parasitism</a></div>
+<li><a href="#orgffb4d6b">102. Genus Culex and genus Anopheles: morphological differences. Phlebotomus papatasii.</a>
+<ul>
+<li>
+<ul>
+<li><a href="#orga17a29c">Genus Culex and Genus Anopheles</a></li>
+<li><a href="#orgdc388fc">Phlebotomus papatsii</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orga2cd826">103. Overview of parasitism.parasitism</a></div>
 </div>
 
-<div id="outline-container-org949d62e" class="outline-3">
-<h3 id="org949d62e">Resources I've used</h3>
-<div class="outline-text-3" id="text-org949d62e">
+<div id="outline-container-orgb73750e" class="outline-3">
+<h3 id="orgb73750e">Resources I've used</h3>
+<div class="outline-text-3" id="text-orgb73750e">
 <ul class="org-ul">
 <li><a href="https://drive.google.com/drive/folders/1dprI1xs3aOIDYshw3NtjGgUI32Jnz-3m">University Lectures</a></li>
 <li><a href="https://www.ncbi.nlm.nih.gov/">National Center for Biotechnology Information</a></li>
@@ -481,13 +481,13 @@
 
 
 
-<div id="outline-container-orgd8da43c" class="outline-2">
-<h2 id="orgd8da43c">1. Origin and evolution of cells.</h2>
-<div class="outline-text-2" id="text-orgd8da43c">
+<div id="outline-container-org8278561" class="outline-2">
+<h2 id="org8278561">1. Origin and evolution of cells.</h2>
+<div class="outline-text-2" id="text-org8278561">
 </div>
-<div id="outline-container-org333d6aa" class="outline-3">
-<h3 id="org333d6aa">Nature constructs cells</h3>
-<div class="outline-text-3" id="text-org333d6aa">
+<div id="outline-container-orgac739e7" class="outline-3">
+<h3 id="orgac739e7">Nature constructs cells</h3>
+<div class="outline-text-3" id="text-orgac739e7">
 <ul class="org-ul">
 <li>The primitive atmosphere was devoid of molecular oxygen</li>
 <li>This allowed interaction of carbon,hydrogen and with other atoms, resulting in formation of organic molecules</li>
@@ -499,9 +499,9 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-org4bb00cd" class="outline-3">
-<h3 id="org4bb00cd">RNA World</h3>
-<div class="outline-text-3" id="text-org4bb00cd">
+<div id="outline-container-org56a3e12" class="outline-3">
+<h3 id="org56a3e12">RNA World</h3>
+<div class="outline-text-3" id="text-org56a3e12">
 <ul class="org-ul">
 <li><i>only</i> RNA can both replicate and catalyze reactions
 <ul class="org-ul">
@@ -512,9 +512,9 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-org5e6b016" class="outline-3">
-<h3 id="org5e6b016">Last Universal Common Ancestor(LUCA)</h3>
-<div class="outline-text-3" id="text-org5e6b016">
+<div id="outline-container-org463afe9" class="outline-3">
+<h3 id="org463afe9">Last Universal Common Ancestor(LUCA)</h3>
+<div class="outline-text-3" id="text-org463afe9">
 <ul class="org-ul">
 <li>All early organisms died out without leaving any descendants, except one, which gave rise to all extant organisms.
 <ul class="org-ul">
@@ -525,9 +525,9 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-org2c78c30" class="outline-3">
-<h3 id="org2c78c30">Prokaryotes vs Eukaryotes</h3>
-<div class="outline-text-3" id="text-org2c78c30">
+<div id="outline-container-org6f8ce40" class="outline-3">
+<h3 id="org6f8ce40">Prokaryotes vs Eukaryotes</h3>
+<div class="outline-text-3" id="text-org6f8ce40">
 <ul class="org-ul">
 <li>Prokaryotes are simpler than eukaryotes(e.g absence of nucleus), and have evolved earlier. For a long time, life on Earth has been prokaryotic-only</li>
 <li>In order to know basic life functions and the minimum equipment of life structures, you must study the prokaryotic cell. In many respects, it is <b>the cell</b></li>
@@ -621,13 +621,13 @@
 </div>
 </div>
 
-<div id="outline-container-org345389e" class="outline-2">
-<h2 id="org345389e">2. Proteins. Protein domains. Protein families.</h2>
-<div class="outline-text-2" id="text-org345389e">
+<div id="outline-container-org7434ae1" class="outline-2">
+<h2 id="org7434ae1">2. Proteins. Protein domains. Protein families.</h2>
+<div class="outline-text-2" id="text-org7434ae1">
 </div>
-<div id="outline-container-org8e88ed3" class="outline-4">
-<h4 id="org8e88ed3">Protein functions</h4>
-<div class="outline-text-4" id="text-org8e88ed3">
+<div id="outline-container-orgc4982d9" class="outline-4">
+<h4 id="orgc4982d9">Protein functions</h4>
+<div class="outline-text-4" id="text-orgc4982d9">
 <ul class="org-ul">
 <li>Structural</li>
 <li>Movement</li>
@@ -638,9 +638,9 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-org60d490b" class="outline-4">
-<h4 id="org60d490b">Protein structure</h4>
-<div class="outline-text-4" id="text-org60d490b">
+<div id="outline-container-org9b112a8" class="outline-4">
+<h4 id="org9b112a8">Protein structure</h4>
+<div class="outline-text-4" id="text-org9b112a8">
 <ul class="org-ul">
 <li><b>Primary structure</b>
 <ul class="org-ul">
@@ -702,9 +702,9 @@
 </div>
 </div>
 
-<div id="outline-container-org40ebca1" class="outline-4">
-<h4 id="org40ebca1">Protein domains</h4>
-<div class="outline-text-4" id="text-org40ebca1">
+<div id="outline-container-orgf5b5181" class="outline-4">
+<h4 id="orgf5b5181">Protein domains</h4>
+<div class="outline-text-4" id="text-orgf5b5181">
 <ul class="org-ul">
 <li>Tertiary structure packs the alpha helices and/or beta sheets in globular units called <b><b>domains</b></b></li>
 <li>Some proteins have a single domain while others have two or more</li>
@@ -713,9 +713,9 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-org0725634" class="outline-4">
-<h4 id="org0725634">Protein Families</h4>
-<div class="outline-text-4" id="text-org0725634">
+<div id="outline-container-orge28b9ed" class="outline-4">
+<h4 id="orge28b9ed">Protein Families</h4>
+<div class="outline-text-4" id="text-orge28b9ed">
 <ul class="org-ul">
 <li>A group of evolutionarily-related proteins</li>
 <li>Share a corresponding gene family, leading to significant sequence similarity</li>
@@ -728,13 +728,13 @@
 </div>
 </div>
 </div>
-<div id="outline-container-orgd68302a" class="outline-2">
-<h2 id="orgd68302a">3. Nucleic acids. DNA. RNA</h2>
-<div class="outline-text-2" id="text-orgd68302a">
+<div id="outline-container-org74c2843" class="outline-2">
+<h2 id="org74c2843">3. Nucleic acids. DNA. RNA</h2>
+<div class="outline-text-2" id="text-org74c2843">
 </div>
-<div id="outline-container-org8766b8a" class="outline-4">
-<h4 id="org8766b8a">Nucleic Acids</h4>
-<div class="outline-text-4" id="text-org8766b8a">
+<div id="outline-container-org51d31bb" class="outline-4">
+<h4 id="org51d31bb">Nucleic Acids</h4>
+<div class="outline-text-4" id="text-org51d31bb">
 <ul class="org-ul">
 <li>Long Linear chains of nucleotides linked by phosphodiester bonds, forming a backbone</li>
 <li>Nucleic acids are macromolecules responsible for storage, transmission and retrieval of genetic information</li>
@@ -742,8 +742,8 @@
 </ul>
 </div>
 <ul class="org-ul">
-<li><a id="orgc8dd49f"></a>Structure<br />
-<div class="outline-text-5" id="text-orgc8dd49f">
+<li><a id="orgdef52da"></a>Structure<br />
+<div class="outline-text-5" id="text-orgdef52da">
 <ul class="org-ul">
 <li>Polymers of nucleotides</li>
 <li>Each nucleotide consists of
@@ -757,8 +757,8 @@
 </ul>
 </div>
 </li>
-<li><a id="orgf4faf5b"></a>Formation<br />
-<div class="outline-text-5" id="text-orgf4faf5b">
+<li><a id="org32c5a47"></a>Formation<br />
+<div class="outline-text-5" id="text-org32c5a47">
 <ul class="org-ul">
 <li>Nitrogenous base binds to the 1' atom of the pentose -+  forms nucleoside</li>
 <li>Phosphate reacts with the 5' hydroxyl group of the pentose -+  forms nucleotide * such nucleotides are called monophosphates * one or more phosphates may join the first one, forming nucleoside diphosphate, triphosphate etc. <b>*</b> Nucleic chain * Nucleic acids are composed of nucleic chains, same as proteins are composed of polypeptide chains</li>
@@ -773,8 +773,8 @@
 </ul>
 </div>
 </li>
-<li><a id="org0602a3a"></a>Complementarity<br />
-<div class="outline-text-5" id="text-org0602a3a">
+<li><a id="orgb03b789"></a>Complementarity<br />
+<div class="outline-text-5" id="text-orgb03b789">
 <ul class="org-ul">
 <li>Nitrogenous bases bind specifically by hydrogen bonds according to the complementary rule
 <ul class="org-ul">
@@ -785,8 +785,8 @@
 </div>
 </li>
 
-<li><a id="org36025f5"></a>The double helix and base stacking<br />
-<div class="outline-text-5" id="text-org36025f5">
+<li><a id="orgd8330a9"></a>The double helix and base stacking<br />
+<div class="outline-text-5" id="text-orgd8330a9">
 <ul class="org-ul">
 <li>Nitrogenous bases are **hydrophobic**(minimize their contact with water)</li>
 <li>When two complementary strands bind, their bases stack together like cards to <b><b>exclude water molecules</b></b>
@@ -798,8 +798,8 @@
 </ul>
 </div>
 </li>
-<li><a id="orgc8559b2"></a>DNA - helix types and functions<br />
-<div class="outline-text-5" id="text-orgc8559b2">
+<li><a id="orge7b2915"></a>DNA - helix types and functions<br />
+<div class="outline-text-5" id="text-orge7b2915">
 <ul class="org-ul">
 <li>There are three types of double helices: A,B and Z</li>
 <li><b><b>B DNA</b></b>
@@ -822,8 +822,8 @@
 </ul>
 </div>
 </li>
-<li><a id="org94b908e"></a>DNA sense<br />
-<div class="outline-text-5" id="text-org94b908e">
+<li><a id="org4ee4096"></a>DNA sense<br />
+<div class="outline-text-5" id="text-org4ee4096">
 <ul class="org-ul">
 <li>To identify DNA strands, they are scored as the 'sense' and 'antisense'
 <ul class="org-ul">
@@ -837,9 +837,9 @@
 </li>
 </ul>
 </div>
-<div id="outline-container-org5be1fa9" class="outline-4">
-<h4 id="org5be1fa9">RNA structure</h4>
-<div class="outline-text-4" id="text-org5be1fa9">
+<div id="outline-container-org72021fd" class="outline-4">
+<h4 id="org72021fd">RNA structure</h4>
+<div class="outline-text-4" id="text-org72021fd">
 <ul class="org-ul">
 <li>RNA molecules are linear molecules, much smaller than DNA</li>
 <li>Single stranded
@@ -856,13 +856,13 @@
 </div>
 </div>
 
-<div id="outline-container-orgb7a8bb9" class="outline-4">
-<h4 id="orgb7a8bb9">RNA - types and functions</h4>
-<div class="outline-text-4" id="text-orgb7a8bb9">
+<div id="outline-container-orgd0fc4e8" class="outline-4">
+<h4 id="orgd0fc4e8">RNA - types and functions</h4>
+<div class="outline-text-4" id="text-orgd0fc4e8">
 </div>
 <ul class="org-ul">
-<li><a id="org407ba26"></a>RNAs involved in transcription or replication<br />
-<div class="outline-text-5" id="text-org407ba26">
+<li><a id="org74dfa4a"></a>RNAs involved in transcription or replication<br />
+<div class="outline-text-5" id="text-org74dfa4a">
 <ul class="org-ul">
 <li>mRNA - Messenger RNA : Encodes amino acid sequence of a polypeptide</li>
 <li>tRNA - Transfer RNA : Brings amino acids to ribosomes during translation</li>
@@ -898,13 +898,13 @@
 </div>
 </div>
 
-<div id="outline-container-orgd13fefc" class="outline-2">
-<h2 id="orgd13fefc">4. Recognition and self-assembly of macromolecules. Cytoskeleton.</h2>
-<div class="outline-text-2" id="text-orgd13fefc">
+<div id="outline-container-orgdf1be43" class="outline-2">
+<h2 id="orgdf1be43">4. Recognition and self-assembly of macromolecules. Cytoskeleton.</h2>
+<div class="outline-text-2" id="text-orgdf1be43">
 </div>
-<div id="outline-container-org9544b84" class="outline-4">
-<h4 id="org9544b84">Self-assembly of macromolecules</h4>
-<div class="outline-text-4" id="text-org9544b84">
+<div id="outline-container-orgd3ac9ad" class="outline-4">
+<h4 id="orgd3ac9ad">Self-assembly of macromolecules</h4>
+<div class="outline-text-4" id="text-orgd3ac9ad">
 <ul class="org-ul">
 <li>Ability of macromolecules to recognize each other and specifically bind spontaneously, forming supermolecular structures
 <ul class="org-ul">
@@ -928,13 +928,13 @@
 </div>
 </div>
 
-<div id="outline-container-orgb995d47" class="outline-4">
-<h4 id="orgb995d47">Cytoskeleton</h4>
-<div class="outline-text-4" id="text-orgb995d47">
+<div id="outline-container-org7d80637" class="outline-4">
+<h4 id="org7d80637">Cytoskeleton</h4>
+<div class="outline-text-4" id="text-org7d80637">
 </div>
 <ul class="org-ul">
-<li><a id="org4dae41b"></a>Types - Ranked by size<br />
-<div class="outline-text-5" id="text-org4dae41b">
+<li><a id="org94c00ff"></a>Types - Ranked by size<br />
+<div class="outline-text-5" id="text-org94c00ff">
 <ul class="org-ul">
 <li>Microfilaments
 <ul class="org-ul">
@@ -957,8 +957,8 @@
 </div>
 </li>
 
-<li><a id="org26a822b"></a>Microtubules<br />
-<div class="outline-text-5" id="text-org26a822b">
+<li><a id="org5ddd237"></a>Microtubules<br />
+<div class="outline-text-5" id="text-org5ddd237">
 <ul class="org-ul">
 <li>Self-assemble from dimers composed of alpha and beta tubulin. Energy from GTP is used</li>
 <li>Microtubules are hollow tubes <b>with a diameter of 25nm</b></li>
@@ -972,8 +972,8 @@
 </div>
 </li>
 
-<li><a id="orgc46ac2f"></a>Microfilament composition, assembly and polarity<br />
-<div class="outline-text-5" id="text-orgc46ac2f">
+<li><a id="orgce0994b"></a>Microfilament composition, assembly and polarity<br />
+<div class="outline-text-5" id="text-orgce0994b">
 <ul class="org-ul">
 <li>Microfilaments are assembled from actin using ATP energy. The single soluble actin molecules are called <b><b>globular (G-) actin</b></b> while those included in microfilaments are called <b><b>fibrillar (F-) actin</b></b></li>
 <li>Acting molecules are arranged in a double helix
@@ -995,8 +995,8 @@
 </div>
 </li>
 
-<li><a id="org1b96f3f"></a>Intermediate filaments<br />
-<div class="outline-text-5" id="text-org1b96f3f">
+<li><a id="org0e516ee"></a>Intermediate filaments<br />
+<div class="outline-text-5" id="text-org0e516ee">
 <ul class="org-ul">
 <li>Size less than microtubules and bigger than microfilaments</li>
 <li><b><b>Fibrous proteins with the 'coiled coil' motif</b></b></li>
@@ -1018,13 +1018,13 @@
 </div>
 </div>
 
-<div id="outline-container-org484ebbc" class="outline-2">
-<h2 id="org484ebbc"><span class="todo TODO">TODO</span> 5. Transcription.</h2>
-<div class="outline-text-2" id="text-org484ebbc">
+<div id="outline-container-org885eda8" class="outline-2">
+<h2 id="org885eda8"><span class="todo TODO">TODO</span> 5. Transcription.</h2>
+<div class="outline-text-2" id="text-org885eda8">
 </div>
 <ul class="org-ul">
-<li><a id="org0de8cf7"></a>General characteristics<br />
-<div class="outline-text-5" id="text-org0de8cf7">
+<li><a id="org64558f1"></a>General characteristics<br />
+<div class="outline-text-5" id="text-org64558f1">
 <ul class="org-ul">
 <li>DNA function is to just store genetic information
 <ul class="org-ul">
@@ -1050,25 +1050,25 @@ L
 </li>
 </ul>
 </div>
-<div id="outline-container-org27bd0a6" class="outline-2">
-<h2 id="org27bd0a6"><span class="todo TODO">TODO</span> 6. RNA processing.</h2>
+<div id="outline-container-orgba1245f" class="outline-2">
+<h2 id="orgba1245f"><span class="todo TODO">TODO</span> 6. RNA processing.</h2>
 </div>
 
-<div id="outline-container-org9407b36" class="outline-2">
-<h2 id="org9407b36"><span class="todo TODO">TODO</span> 7. Genetic code. Translation.</h2>
+<div id="outline-container-org788a643" class="outline-2">
+<h2 id="org788a643"><span class="todo TODO">TODO</span> 7. Genetic code. Translation.</h2>
 </div>
 
-<div id="outline-container-orga2e985c" class="outline-2">
-<h2 id="orga2e985c"><span class="todo TODO">TODO</span> 8. Proteins after translation: sorting, folding, modifications, degradation.</h2>
+<div id="outline-container-org1d80bc0" class="outline-2">
+<h2 id="org1d80bc0"><span class="todo TODO">TODO</span> 8. Proteins after translation: sorting, folding, modifications, degradation.</h2>
 </div>
 
-<div id="outline-container-org68c8738" class="outline-2">
-<h2 id="org68c8738">9. DNA replication.</h2>
-<div class="outline-text-2" id="text-org68c8738">
+<div id="outline-container-org402f551" class="outline-2">
+<h2 id="org402f551">9. DNA replication.</h2>
+<div class="outline-text-2" id="text-org402f551">
 </div>
-<div id="outline-container-org07180ee" class="outline-4">
-<h4 id="org07180ee">DNA Replication</h4>
-<div class="outline-text-4" id="text-org07180ee">
+<div id="outline-container-org7f4009a" class="outline-4">
+<h4 id="org7f4009a">DNA Replication</h4>
+<div class="outline-text-4" id="text-org7f4009a">
 <ul class="org-ul">
 <li>Semiconservative
 <ul class="org-ul">
@@ -1084,8 +1084,8 @@ L
 </ul>
 </div>
 <ul class="org-ul">
-<li><a id="orgfe08c2d"></a>Initiation<br />
-<div class="outline-text-5" id="text-orgfe08c2d">
+<li><a id="orgd813b7f"></a>Initiation<br />
+<div class="outline-text-5" id="text-orgd813b7f">
 <ul class="org-ul">
 <li>Starts at <b>origin of replication(ori)</b>
 <ul class="org-ul">
@@ -1121,8 +1121,8 @@ L
 </ul>
 </div>
 </li>
-<li><a id="orgbaed1b4"></a>Elongation<br />
-<div class="outline-text-5" id="text-orgbaed1b4">
+<li><a id="org23331dc"></a>Elongation<br />
+<div class="outline-text-5" id="text-org23331dc">
 <ul class="org-ul">
 <li><b>Primer Synthesis</b>
 <ul class="org-ul">
@@ -1138,8 +1138,8 @@ L
 </ul>
 </div>
 </li>
-<li><a id="orge1477a9"></a>Termination<br />
-<div class="outline-text-5" id="text-orge1477a9">
+<li><a id="org5a11aa0"></a>Termination<br />
+<div class="outline-text-5" id="text-org5a11aa0">
 <ul class="org-ul">
 <li>Initiated by binding termination proteins to termination sequences, <i>usually when helicases meet</i></li>
 </ul>
@@ -1148,8 +1148,8 @@ L
 
 
 
-<li><a id="orgc36dd28"></a>Enzymes<br />
-<div class="outline-text-5" id="text-orgc36dd28">
+<li><a id="org0b82d5f"></a>Enzymes<br />
+<div class="outline-text-5" id="text-org0b82d5f">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -1226,8 +1226,8 @@ L
 </div>
 </li>
 
-<li><a id="org511201d"></a>Telomeres<br />
-<div class="outline-text-5" id="text-org511201d">
+<li><a id="orgf30cce4"></a>Telomeres<br />
+<div class="outline-text-5" id="text-orgf30cce4">
 <ul class="org-ul">
 <li>Telomeres do NOT code for RNA</li>
 <li>Each time DNA replicates, telomeres get shorter</li>
@@ -1240,62 +1240,62 @@ L
 </div>
 </div>
 
-<div id="outline-container-org94751c9" class="outline-2">
-<h2 id="org94751c9"><span class="todo TODO">TODO</span> 10. RNA replication. Reverse transcription</h2>
+<div id="outline-container-org020fef0" class="outline-2">
+<h2 id="org020fef0"><span class="todo TODO">TODO</span> 10. RNA replication. Reverse transcription</h2>
 </div>
 
-<div id="outline-container-org4f2b076" class="outline-2">
-<h2 id="org4f2b076"><span class="todo TODO">TODO</span> 11. DNA repair.</h2>
+<div id="outline-container-org0f73ca9" class="outline-2">
+<h2 id="org0f73ca9"><span class="todo TODO">TODO</span> 11. DNA repair.</h2>
 </div>
 
-<div id="outline-container-orgd738dde" class="outline-2">
-<h2 id="orgd738dde"><span class="todo TODO">TODO</span> 12. Prokaryotic genome and regulation of gene expression.</h2>
+<div id="outline-container-org6a78f43" class="outline-2">
+<h2 id="org6a78f43"><span class="todo TODO">TODO</span> 12. Prokaryotic genome and regulation of gene expression.</h2>
 </div>
-<div id="outline-container-orgd53b39b" class="outline-2">
-<h2 id="orgd53b39b"><span class="todo TODO">TODO</span> 13. Eukaryotic genome and regulation of gene expression.</h2>
+<div id="outline-container-org38c7726" class="outline-2">
+<h2 id="org38c7726"><span class="todo TODO">TODO</span> 13. Eukaryotic genome and regulation of gene expression.</h2>
 </div>
-<div id="outline-container-org59ff3a1" class="outline-2">
-<h2 id="org59ff3a1"><span class="todo TODO">TODO</span> 14. Cytoplasmic (extrachromosomal) inheritance in prokaryotes and eukaryotes.</h2>
+<div id="outline-container-org5d7766a" class="outline-2">
+<h2 id="org5d7766a"><span class="todo TODO">TODO</span> 14. Cytoplasmic (extrachromosomal) inheritance in prokaryotes and eukaryotes.</h2>
 </div>
-<div id="outline-container-org116b1f9" class="outline-2">
-<h2 id="org116b1f9"><span class="todo TODO">TODO</span> 15. General (homologous) recombination. Molecular mechanisms of crossing over.</h2>
+<div id="outline-container-org09e6dfb" class="outline-2">
+<h2 id="org09e6dfb"><span class="todo TODO">TODO</span> 15. General (homologous) recombination. Molecular mechanisms of crossing over.</h2>
 </div>
-<div id="outline-container-org3b9086c" class="outline-2">
-<h2 id="org3b9086c"><span class="todo TODO">TODO</span> 16. Site-specific recombination.</h2>
+<div id="outline-container-orgcf372e3" class="outline-2">
+<h2 id="orgcf372e3"><span class="todo TODO">TODO</span> 16. Site-specific recombination.</h2>
 </div>
-<div id="outline-container-org08440b2" class="outline-2">
-<h2 id="org08440b2"><span class="todo TODO">TODO</span> 17. Reproduction of viruses.</h2>
+<div id="outline-container-org45b6543" class="outline-2">
+<h2 id="org45b6543"><span class="todo TODO">TODO</span> 17. Reproduction of viruses.</h2>
 </div>
-<div id="outline-container-orgf7c5a89" class="outline-2">
-<h2 id="orgf7c5a89"><span class="todo TODO">TODO</span> 18. Chromatin. Nucleosomes.</h2>
+<div id="outline-container-org8a53f7d" class="outline-2">
+<h2 id="org8a53f7d"><span class="todo TODO">TODO</span> 18. Chromatin. Nucleosomes.</h2>
 </div>
-<div id="outline-container-org08372cc" class="outline-2">
-<h2 id="org08372cc"><span class="todo TODO">TODO</span> 19. Human karyotype. Types of chromosomes.</h2>
+<div id="outline-container-org0159f7e" class="outline-2">
+<h2 id="org0159f7e"><span class="todo TODO">TODO</span> 19. Human karyotype. Types of chromosomes.</h2>
 </div>
-<div id="outline-container-org8b1c461" class="outline-2">
-<h2 id="org8b1c461"><span class="todo TODO">TODO</span> 20. Gene mutations. Mechanisms and mutagenic factors.</h2>
+<div id="outline-container-orge98e078" class="outline-2">
+<h2 id="orge98e078"><span class="todo TODO">TODO</span> 20. Gene mutations. Mechanisms and mutagenic factors.</h2>
 </div>
-<div id="outline-container-org1d7f7f9" class="outline-2">
-<h2 id="org1d7f7f9"><span class="todo TODO">TODO</span> 21. Chromosomal mutations. Evolution of karyotype.</h2>
+<div id="outline-container-orgee148bd" class="outline-2">
+<h2 id="orgee148bd"><span class="todo TODO">TODO</span> 21. Chromosomal mutations. Evolution of karyotype.</h2>
 </div>
-<div id="outline-container-org8113b62" class="outline-2">
-<h2 id="org8113b62"><span class="todo TODO">TODO</span> 22. Genes and alleles. Dominance and recessivity - mechanisms, medical examples. Penetrance and expressivity.</h2>
+<div id="outline-container-orgbe2c969" class="outline-2">
+<h2 id="orgbe2c969"><span class="todo TODO">TODO</span> 22. Genes and alleles. Dominance and recessivity - mechanisms, medical examples. Penetrance and expressivity.</h2>
 </div>
-<div id="outline-container-org0e339e9" class="outline-2">
-<h2 id="org0e339e9"><span class="todo TODO">TODO</span> 23. Phenotype, genotype and allele frequencies. Hardy – Weinberg law.</h2>
+<div id="outline-container-org9f194bd" class="outline-2">
+<h2 id="org9f194bd"><span class="todo TODO">TODO</span> 23. Phenotype, genotype and allele frequencies. Hardy – Weinberg law.</h2>
 </div>
-<div id="outline-container-orgc4b0ed1" class="outline-2">
-<h2 id="orgc4b0ed1"><span class="todo TODO">TODO</span> 24. Factors influencing allele frequencies: mutations, migrations, natural selection.</h2>
+<div id="outline-container-org39df43b" class="outline-2">
+<h2 id="org39df43b"><span class="todo TODO">TODO</span> 24. Factors influencing allele frequencies: mutations, migrations, natural selection.</h2>
 </div>
-<div id="outline-container-orge7adaf0" class="outline-2">
-<h2 id="orge7adaf0"><span class="todo TODO">TODO</span> 25. Effects of isolation: genetic drift, inbreeding.</h2>
+<div id="outline-container-org025c8aa" class="outline-2">
+<h2 id="org025c8aa"><span class="todo TODO">TODO</span> 25. Effects of isolation: genetic drift, inbreeding.</h2>
 </div>
-<div id="outline-container-orgd036455" class="outline-2">
-<h2 id="orgd036455"><span class="todo TODO">TODO</span> 26. Quantitative traits.</h2>
+<div id="outline-container-org312bc90" class="outline-2">
+<h2 id="org312bc90"><span class="todo TODO">TODO</span> 26. Quantitative traits.</h2>
 </div>
-<div id="outline-container-orgf5cfeef" class="outline-2">
-<h2 id="orgf5cfeef">27. Cell cycle. Mitosis. Cell cycle control.</h2>
-<div class="outline-text-2" id="text-orgf5cfeef">
+<div id="outline-container-org38414d9" class="outline-2">
+<h2 id="org38414d9">27. Cell cycle. Mitosis. Cell cycle control.</h2>
+<div class="outline-text-2" id="text-org38414d9">
 <ul class="org-ul">
 <li><b>Cell cycle</b>
 <ul class="org-ul">
@@ -1316,9 +1316,9 @@ L
 </ul></li>
 </ul>
 </div>
-<div id="outline-container-org676baf0" class="outline-4">
-<h4 id="org676baf0">Interphase</h4>
-<div class="outline-text-4" id="text-org676baf0">
+<div id="outline-container-orgfe23890" class="outline-4">
+<h4 id="orgfe23890">Interphase</h4>
+<div class="outline-text-4" id="text-orgfe23890">
 <ul class="org-ul">
 <li>Cells spend most their lives in interphase. <i>Cells are not actively dividing in this phase</i></li>
 <li>Includes G1,S,S phases of cell cycle
@@ -1330,13 +1330,13 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-org523bc16" class="outline-4">
-<h4 id="org523bc16">Mitosis</h4>
-<div class="outline-text-4" id="text-org523bc16">
+<div id="outline-container-org6d57daf" class="outline-4">
+<h4 id="org6d57daf">Mitosis</h4>
+<div class="outline-text-4" id="text-org6d57daf">
 </div>
 <ul class="org-ul">
-<li><a id="org652904f"></a>Prophase<br />
-<div class="outline-text-5" id="text-org652904f">
+<li><a id="orgca6fa86"></a>Prophase<br />
+<div class="outline-text-5" id="text-orgca6fa86">
 <ul class="org-ul">
 <li>Chromosomes become visible under microscope</li>
 <li>Centrioles seperate and move to opposite poles, provide attachment for the spindle fibers
@@ -1347,8 +1347,8 @@ L
 </ul>
 </div>
 </li>
-<li><a id="orge7d5d5b"></a>Metaphase<br />
-<div class="outline-text-5" id="text-orge7d5d5b">
+<li><a id="orgc30ca55"></a>Metaphase<br />
+<div class="outline-text-5" id="text-orgc30ca55">
 <ul class="org-ul">
 <li>Chromosomes composed of sister chromatids move toward the center of the cell. <i>This are is called equatorial plate</i></li>
 <li>Chromosomes appear as dark, thick filamentous structures that are attched to spindle fibers.</li>
@@ -1356,41 +1356,41 @@ L
 </ul>
 </div>
 </li>
-<li><a id="orgf38eb3b"></a>Anaphase<br />
-<div class="outline-text-5" id="text-orgf38eb3b">
+<li><a id="orgf2b29d0"></a>Anaphase<br />
+<div class="outline-text-5" id="text-orgf2b29d0">
 <ul class="org-ul">
 <li>Centromere divide and sister chromatids, <i>now referred to as chromosomes</i> move to opposite poles of the cell</li>
 <li>If mitosis proceeds correctly, the same number and type of chromosomes will be found at each pole</li>
 </ul>
 </div>
 </li>
-<li><a id="org8df2728"></a>Telophase<br />
-<div class="outline-text-5" id="text-org8df2728">
+<li><a id="org10696eb"></a>Telophase<br />
+<div class="outline-text-5" id="text-org10696eb">
 <ul class="org-ul">
 <li>Chromosomes reach the opposite poles and begin to lengthen.</li>
 <li>Spindle fibers dissolve and a nuclear membrane forms around each mass of chromatin</li>
 </ul>
 </div>
 </li>
-<li><a id="orgb35ced8"></a>Cytokinesis<br />
-<div class="outline-text-5" id="text-orgb35ced8">
+<li><a id="orgef3f67e"></a>Cytokinesis<br />
+<div class="outline-text-5" id="text-orgef3f67e">
 <ul class="org-ul">
 <li>Division of cytoplasm</li>
 </ul>
 </div>
 </li>
-<li><a id="org77bbd75"></a>Mitosis in intracellular parasites<br />
+<li><a id="orgdf8805c"></a>Mitosis in intracellular parasites<br />
 <ul class="org-ul">
-<li><a id="org81138d0"></a>Endodyogeny<br />
-<div class="outline-text-6" id="text-org81138d0">
+<li><a id="orgf7db154"></a>Endodyogeny<br />
+<div class="outline-text-6" id="text-orgf7db154">
 <ul class="org-ul">
 <li>Formation of two daughter cells, surrounded by their own membrane, while still in mother cell</li>
 <li>e.g Toxoplasma gondii</li>
 </ul>
 </div>
 </li>
-<li><a id="orga073c14"></a>Endopolyogeny<br />
-<div class="outline-text-6" id="text-orga073c14">
+<li><a id="orga5b5358"></a>Endopolyogeny<br />
+<div class="outline-text-6" id="text-orga5b5358">
 <ul class="org-ul">
 <li>Formation of many daughter cells, each surrounded by its own membrane while still in mother cell</li>
 </ul>
@@ -1400,9 +1400,9 @@ L
 </li>
 </ul>
 </div>
-<div id="outline-container-org14c343d" class="outline-4">
-<h4 id="org14c343d">Cell cycle control</h4>
-<div class="outline-text-4" id="text-org14c343d">
+<div id="outline-container-orgc537dad" class="outline-4">
+<h4 id="orgc537dad">Cell cycle control</h4>
+<div class="outline-text-4" id="text-orgc537dad">
 <ul class="org-ul">
 <li>For each checkpoint permission needs to be granted, mediated by hormones and growth factors</li>
 <li><b>G1 Checkpoint</b>
@@ -1425,16 +1425,16 @@ L
 
 
 
-<div id="outline-container-org2bf6e1b" class="outline-2">
-<h2 id="org2bf6e1b"><span class="todo TODO">TODO</span> 28. Growth factors, protooncogens, oncogenes, tumor suppressors. Oncogenic viruses</h2>
+<div id="outline-container-org16c4569" class="outline-2">
+<h2 id="org16c4569"><span class="todo TODO">TODO</span> 28. Growth factors, protooncogens, oncogenes, tumor suppressors. Oncogenic viruses</h2>
 </div>
-<div id="outline-container-orgab8a8f6" class="outline-2">
-<h2 id="orgab8a8f6"><span class="todo TODO">TODO</span> 29. Cell senescence. Cell death: apoptosis, necrosis.</h2>
-<div class="outline-text-2" id="text-orgab8a8f6">
+<div id="outline-container-org79fc614" class="outline-2">
+<h2 id="org79fc614"><span class="todo TODO">TODO</span> 29. Cell senescence. Cell death: apoptosis, necrosis.</h2>
+<div class="outline-text-2" id="text-org79fc614">
 </div>
-<div id="outline-container-org9a91dfc" class="outline-4">
-<h4 id="org9a91dfc">Cell senescence</h4>
-<div class="outline-text-4" id="text-org9a91dfc">
+<div id="outline-container-orga5dad7c" class="outline-4">
+<h4 id="orga5dad7c">Cell senescence</h4>
+<div class="outline-text-4" id="text-orga5dad7c">
 <ul class="org-ul">
 <li>Cell sensescence -&gt; Age related damage
 <ul class="org-ul">
@@ -1444,8 +1444,8 @@ L
 </ul>
 </div>
 <ul class="org-ul">
-<li><a id="org19d7b3e"></a>Telomeres<br />
-<div class="outline-text-5" id="text-org19d7b3e">
+<li><a id="org31a1144"></a>Telomeres<br />
+<div class="outline-text-5" id="text-org31a1144">
 <ul class="org-ul">
 <li>Telomeres consist of non-coding double stranded repeats DNA sequences(TTAGGG)</li>
 <li>In the leading strand synthesis continues until the end of the chromosome is reached; however, on the lagging strand there is no place for a primer to be made for the DNA gragment to be copied at the end of the chromosome</li>
@@ -1456,57 +1456,57 @@ L
 </div>
 </div>
 
-<div id="outline-container-orge897720" class="outline-2">
-<h2 id="orge897720"><span class="todo TODO">TODO</span> 30. Cell signaling. Cell receptors.</h2>
+<div id="outline-container-orgadfb7cc" class="outline-2">
+<h2 id="orgadfb7cc"><span class="todo TODO">TODO</span> 30. Cell signaling. Cell receptors.</h2>
 </div>
-<div id="outline-container-org1e33576" class="outline-2">
-<h2 id="org1e33576"><span class="todo TODO">TODO</span> 31. Meiosis. Origin of germ cells.</h2>
+<div id="outline-container-orgeffcb3d" class="outline-2">
+<h2 id="orgeffcb3d"><span class="todo TODO">TODO</span> 31. Meiosis. Origin of germ cells.</h2>
 </div>
-<div id="outline-container-orgfc1ce9b" class="outline-2">
-<h2 id="orgfc1ce9b"><span class="todo TODO">TODO</span> 32. Spermatogenesis. Mammalian spermatozoa.</h2>
+<div id="outline-container-orge09b4cb" class="outline-2">
+<h2 id="orge09b4cb"><span class="todo TODO">TODO</span> 32. Spermatogenesis. Mammalian spermatozoa.</h2>
 </div>
-<div id="outline-container-org33861f1" class="outline-2">
-<h2 id="org33861f1"><span class="todo TODO">TODO</span> 33. Oogenesis. Mature mammalian ova.</h2>
+<div id="outline-container-org2d08f3a" class="outline-2">
+<h2 id="org2d08f3a"><span class="todo TODO">TODO</span> 33. Oogenesis. Mature mammalian ova.</h2>
 </div>
-<div id="outline-container-org4b1ed2f" class="outline-2">
-<h2 id="org4b1ed2f"><span class="todo TODO">TODO</span> 34. Fertilization. Interaction of maternal and paternal genomes.</h2>
+<div id="outline-container-orge699ff7" class="outline-2">
+<h2 id="orge699ff7"><span class="todo TODO">TODO</span> 34. Fertilization. Interaction of maternal and paternal genomes.</h2>
 </div>
-<div id="outline-container-org1944c0d" class="outline-2">
-<h2 id="org1944c0d"><span class="todo TODO">TODO</span> 35. Assisted reproduction: IVF, ICSI.</h2>
+<div id="outline-container-orgd91d93c" class="outline-2">
+<h2 id="orgd91d93c"><span class="todo TODO">TODO</span> 35. Assisted reproduction: IVF, ICSI.</h2>
 </div>
-<div id="outline-container-orgde5945e" class="outline-2">
-<h2 id="orgde5945e"><span class="todo TODO">TODO</span> 36. Embryonic development – early stages (zygote to neurula).</h2>
+<div id="outline-container-orgbb9dc5a" class="outline-2">
+<h2 id="orgbb9dc5a"><span class="todo TODO">TODO</span> 36. Embryonic development – early stages (zygote to neurula).</h2>
 </div>
-<div id="outline-container-org759b7c6" class="outline-2">
-<h2 id="org759b7c6"><span class="todo TODO">TODO</span> 37. Embryonic development – regulative and mosaic. Morphogens and embryonic induction.</h2>
+<div id="outline-container-orgd460b77" class="outline-2">
+<h2 id="orgd460b77"><span class="todo TODO">TODO</span> 37. Embryonic development – regulative and mosaic. Morphogens and embryonic induction.</h2>
 </div>
-<div id="outline-container-org97eb0c6" class="outline-2">
-<h2 id="org97eb0c6"><span class="todo TODO">TODO</span> 38. Preimplantation mammalian embryo.</h2>
+<div id="outline-container-orgb10c695" class="outline-2">
+<h2 id="orgb10c695"><span class="todo TODO">TODO</span> 38. Preimplantation mammalian embryo.</h2>
 </div>
-<div id="outline-container-org941a451" class="outline-2">
-<h2 id="org941a451">39. Sex determination and differentiation.</h2>
-<div class="outline-text-2" id="text-org941a451">
+<div id="outline-container-org4948adf" class="outline-2">
+<h2 id="org4948adf">39. Sex determination and differentiation.</h2>
+<div class="outline-text-2" id="text-org4948adf">
 </div>
 <ul class="org-ul">
-<li><a id="orgfecf58f"></a>Hermaphrodites<br />
-<div class="outline-text-5" id="text-orgfecf58f">
+<li><a id="org87daed1"></a>Hermaphrodites<br />
+<div class="outline-text-5" id="text-org87daed1">
 <ul class="org-ul">
 <li>Most plants and some worms that contain both male and female sexual organs | <i>simultaneous hermaphrodites</i></li>
 <li>Some fish such as clown-fish are born males and change into females(dominant one becomes female) |  <i>sequential hermaphrodites</i></li>
 </ul>
 </div>
 </li>
-<li><a id="orgaf78678"></a>Temperature dependant sex determination<br />
-<div class="outline-text-5" id="text-orgaf78678">
+<li><a id="org5735510"></a>Temperature dependant sex determination<br />
+<div class="outline-text-5" id="text-org5735510">
 <ul class="org-ul">
 <li>sex determination in some species of reptiles the sex is determined by the temperature at which the egg is incubated</li>
 </ul>
 </div>
 </li>
 </ul>
-<div id="outline-container-org381e384" class="outline-4">
-<h4 id="org381e384">Genotypic sex determination</h4>
-<div class="outline-text-4" id="text-org381e384">
+<div id="outline-container-org418a576" class="outline-4">
+<h4 id="org418a576">Genotypic sex determination</h4>
+<div class="outline-text-4" id="text-org418a576">
 <ul class="org-ul">
 <li>Male heterogamety, <i>XY sex chromosomes</i>. The males produce spermatozoa that carry either X or Y
 <ul class="org-ul">
@@ -1526,8 +1526,8 @@ L
 </ul>
 </div>
 <ul class="org-ul">
-<li><a id="orgb650f31"></a>Primary Sex Determination<br />
-<div class="outline-text-5" id="text-orgb650f31">
+<li><a id="org064a887"></a>Primary Sex Determination<br />
+<div class="outline-text-5" id="text-org064a887">
 <ul class="org-ul">
 <li><b>Determination of gonads</b>
 <ul class="org-ul">
@@ -1538,8 +1538,8 @@ L
 </ul>
 </div>
 </li>
-<li><a id="orgcecb04f"></a>Secondary Sex Determination<br />
-<div class="outline-text-5" id="text-orgcecb04f">
+<li><a id="org7952758"></a>Secondary Sex Determination<br />
+<div class="outline-text-5" id="text-org7952758">
 <ul class="org-ul">
 <li><b>Bodily phenotypes outside of gonads</b>
 <ul class="org-ul">
@@ -1551,8 +1551,8 @@ L
 </ul>
 </div>
 </li>
-<li><a id="org0d5b2cb"></a>Sex chromosomes<br />
-<div class="outline-text-5" id="text-org0d5b2cb">
+<li><a id="org78ff26c"></a>Sex chromosomes<br />
+<div class="outline-text-5" id="text-org78ff26c">
 <ul class="org-ul">
 <li>Sex chromosomes may be:</li>
 </ul>
@@ -1618,27 +1618,27 @@ L
 </div>
 </div>
 
-<div id="outline-container-org3f2293c" class="outline-2">
-<h2 id="org3f2293c"><span class="todo TODO">TODO</span> 40. Methods of karyotyping and chromosome analysis.</h2>
+<div id="outline-container-org489d3d2" class="outline-2">
+<h2 id="org489d3d2"><span class="todo TODO">TODO</span> 40. Methods of karyotyping and chromosome analysis.</h2>
 </div>
-<div id="outline-container-org91561cc" class="outline-2">
-<h2 id="org91561cc"><span class="todo TODO">TODO</span> 41. Basic methods in molecular biology – electrophoresis, PCR, blotting, sequencing.</h2>
+<div id="outline-container-orge914d7e" class="outline-2">
+<h2 id="orge914d7e"><span class="todo TODO">TODO</span> 41. Basic methods in molecular biology – electrophoresis, PCR, blotting, sequencing.</h2>
 </div>
-<div id="outline-container-orgbfc8bf3" class="outline-2">
-<h2 id="orgbfc8bf3"><span class="todo TODO">TODO</span> 42. Immunological methods. Diagnosis of viral infections.</h2>
+<div id="outline-container-orge51c7e6" class="outline-2">
+<h2 id="orge51c7e6"><span class="todo TODO">TODO</span> 42. Immunological methods. Diagnosis of viral infections.</h2>
 </div>
-<div id="outline-container-orgb1bd9bf" class="outline-2">
-<h2 id="orgb1bd9bf"><span class="todo TODO">TODO</span> 43. Recombinant DNA technology – restriction endonucleases, DNA vectors, recombinant proteins.</h2>
+<div id="outline-container-org37e60b3" class="outline-2">
+<h2 id="org37e60b3"><span class="todo TODO">TODO</span> 43. Recombinant DNA technology – restriction endonucleases, DNA vectors, recombinant proteins.</h2>
 </div>
-<div id="outline-container-org60f4906" class="outline-2">
-<h2 id="org60f4906"><span class="todo TODO">TODO</span> 44. Cell micro-manipulations.</h2>
+<div id="outline-container-org81373ca" class="outline-2">
+<h2 id="org81373ca"><span class="todo TODO">TODO</span> 44. Cell micro-manipulations.</h2>
 </div>
-<div id="outline-container-org9003272" class="outline-2">
-<h2 id="org9003272"><span class="todo TODO">TODO</span> 45. Transgenic animals. Gene therapy.</h2>
+<div id="outline-container-orgfb2d114" class="outline-2">
+<h2 id="orgfb2d114"><span class="todo TODO">TODO</span> 45. Transgenic animals. Gene therapy.</h2>
 </div>
-<div id="outline-container-org645bfe1" class="outline-2">
-<h2 id="org645bfe1">46. Innate immunity.</h2>
-<div class="outline-text-2" id="text-org645bfe1">
+<div id="outline-container-org8d0af17" class="outline-2">
+<h2 id="org8d0af17">46. Innate immunity.</h2>
+<div class="outline-text-2" id="text-org8d0af17">
 <ul class="org-ul">
 <li>Innate/natural immunity is :
 <ul class="org-ul">
@@ -1647,9 +1647,9 @@ L
 </ul></li>
 </ul>
 </div>
-<div id="outline-container-orgbdb6efd" class="outline-4">
-<h4 id="orgbdb6efd">Barriers</h4>
-<div class="outline-text-4" id="text-orgbdb6efd">
+<div id="outline-container-org0b49812" class="outline-4">
+<h4 id="org0b49812">Barriers</h4>
+<div class="outline-text-4" id="text-org0b49812">
 <ul class="org-ul">
 <li>Physical barrier; Skin
 <ul class="org-ul">
@@ -1661,16 +1661,16 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-org8698e5c" class="outline-4">
-<h4 id="org8698e5c">Internal defenses | Tissues</h4>
-<div class="outline-text-4" id="text-org8698e5c">
+<div id="outline-container-org89f44f4" class="outline-4">
+<h4 id="org89f44f4">Internal defenses | Tissues</h4>
+<div class="outline-text-4" id="text-org89f44f4">
 <ul class="org-ul">
 <li>Two types <b>humoral</b> (macromolecule solutions) and <b>cellular</b> (based on direct action of cells)</li>
 </ul>
 </div>
 <ul class="org-ul">
-<li><a id="orgd6c9909"></a>Cellular defenses<br />
-<div class="outline-text-5" id="text-orgd6c9909">
+<li><a id="org0273edc"></a>Cellular defenses<br />
+<div class="outline-text-5" id="text-org0273edc">
 <ul class="org-ul">
 <li>Consist of leukocytes
 <ul class="org-ul">
@@ -1786,8 +1786,8 @@ L
 </table>
 </div>
 </li>
-<li><a id="org54bafdf"></a>Humoral defenses | Complement<br />
-<div class="outline-text-5" id="text-org54bafdf">
+<li><a id="orgdfa373d"></a>Humoral defenses | Complement<br />
+<div class="outline-text-5" id="text-orgdfa373d">
 <ul class="org-ul">
 <li>Most important humoral defense is a set of plasma proteins called <b>complement system</b>,
 <ul class="org-ul">
@@ -1820,8 +1820,8 @@ L
 </ul>
 </div>
 </li>
-<li><a id="org93ac3cb"></a><span class="todo TODO">TODO</span> Inflammation<br />
-<div class="outline-text-5" id="text-org93ac3cb">
+<li><a id="org141a96b"></a><span class="todo TODO">TODO</span> Inflammation<br />
+<div class="outline-text-5" id="text-org141a96b">
 <ul class="org-ul">
 <li>Inflammation is activation of local innate immunity, both cellular and humoral, usually due to injury
 <ul class="org-ul">
@@ -1839,16 +1839,16 @@ L
 </div>
 </div>
 
-<div id="outline-container-org51243fc" class="outline-2">
-<h2 id="org51243fc">47. Structure of antibodies.</h2>
-<div class="outline-text-2" id="text-org51243fc">
+<div id="outline-container-orgebbd64d" class="outline-2">
+<h2 id="orgebbd64d">47. Structure of antibodies.</h2>
+<div class="outline-text-2" id="text-orgebbd64d">
 <ul class="org-ul">
 <li>Antibodies/immunoglobulins are protective proteins produced by the immune system in response to the presence of a foreign substance, <i>called an antigen</i></li>
 </ul>
 </div>
-<div id="outline-container-orga1d8b6c" class="outline-4">
-<h4 id="orga1d8b6c">Antibodies | Structure</h4>
-<div class="outline-text-4" id="text-orga1d8b6c">
+<div id="outline-container-org9e970f7" class="outline-4">
+<h4 id="org9e970f7">Antibodies | Structure</h4>
+<div class="outline-text-4" id="text-org9e970f7">
 <ul class="org-ul">
 <li>Antibodies are divided into five classes based on their structure and immune function
 <ul class="org-ul">
@@ -1887,16 +1887,16 @@ L
 </div>
 </div>
 </div>
-<div id="outline-container-org90ec973" class="outline-2">
-<h2 id="org90ec973">48. Functions of antibodies.</h2>
-<div class="outline-text-2" id="text-org90ec973">
+<div id="outline-container-orga211d86" class="outline-2">
+<h2 id="orga211d86">48. Functions of antibodies.</h2>
+<div class="outline-text-2" id="text-orga211d86">
 <ul class="org-ul">
 <li>Antibodies/immunoglobulins are protective proteins produced by the immune system in response to the presence of a foreign substance, <i>called an antigen</i></li>
 </ul>
 </div>
-<div id="outline-container-org2e25e5e" class="outline-4">
-<h4 id="org2e25e5e">How antibodies work</h4>
-<div class="outline-text-4" id="text-org2e25e5e">
+<div id="outline-container-org47c0a71" class="outline-4">
+<h4 id="org47c0a71">How antibodies work</h4>
+<div class="outline-text-4" id="text-org47c0a71">
 <ul class="org-ul">
 <li>Antibodies are produced by B lymphocytes(B cells)
 <ul class="org-ul">
@@ -1907,13 +1907,13 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-orgac598e0" class="outline-4">
-<h4 id="orgac598e0">Functions and Usage</h4>
-<div class="outline-text-4" id="text-orgac598e0">
+<div id="outline-container-orgd242b5c" class="outline-4">
+<h4 id="orgd242b5c">Functions and Usage</h4>
+<div class="outline-text-4" id="text-orgd242b5c">
 </div>
 <ul class="org-ul">
-<li><a id="orgc7ecda7"></a>Neutralization of toxins<br />
-<div class="outline-text-5" id="text-orgc7ecda7">
+<li><a id="org4d83b66"></a>Neutralization of toxins<br />
+<div class="outline-text-5" id="text-org4d83b66">
 <ul class="org-ul">
 <li>Antibodies against toxins are called <b>antitoxins</b>
 <ul class="org-ul">
@@ -1925,8 +1925,8 @@ L
 </ul>
 </div>
 </li>
-<li><a id="org8ea2556"></a>Consequences of antigen binding<br />
-<div class="outline-text-5" id="text-org8ea2556">
+<li><a id="org15ee034"></a>Consequences of antigen binding<br />
+<div class="outline-text-5" id="text-org15ee034">
 <ul class="org-ul">
 <li><b>antibodies have no toxic activity</b>
 <ul class="org-ul">
@@ -1945,8 +1945,8 @@ L
 </ul>
 </div>
 </li>
-<li><a id="orgae4d3b3"></a>Functions of different immunoglobulin classes<br />
-<div class="outline-text-5" id="text-orgae4d3b3">
+<li><a id="org17f3fb4"></a>Functions of different immunoglobulin classes<br />
+<div class="outline-text-5" id="text-org17f3fb4">
 <ul class="org-ul">
 <li><b>IgG</b>
 <ul class="org-ul">
@@ -1980,52 +1980,52 @@ L
 </div>
 </div>
 
-<div id="outline-container-org2ee7f88" class="outline-2">
-<h2 id="org2ee7f88"><span class="todo TODO">TODO</span> 49. Molecules of cell-mediated immunity.</h2>
+<div id="outline-container-orgb703ff2" class="outline-2">
+<h2 id="orgb703ff2"><span class="todo TODO">TODO</span> 49. Molecules of cell-mediated immunity.</h2>
 </div>
-<div id="outline-container-orgf1fb399" class="outline-2">
-<h2 id="orgf1fb399"><span class="todo TODO">TODO</span> 50. Cytotoxic and helper T lymphocytes.</h2>
+<div id="outline-container-org81146ae" class="outline-2">
+<h2 id="org81146ae"><span class="todo TODO">TODO</span> 50. Cytotoxic and helper T lymphocytes.</h2>
 </div>
-<div id="outline-container-org88c05ce" class="outline-2">
-<h2 id="org88c05ce"><span class="todo TODO">TODO</span> 51. Genetic basis of antibodies and T-cell receptors.</h2>
+<div id="outline-container-orgada80a9" class="outline-2">
+<h2 id="orgada80a9"><span class="todo TODO">TODO</span> 51. Genetic basis of antibodies and T-cell receptors.</h2>
 </div>
-<div id="outline-container-orgf3ec9b3" class="outline-2">
-<h2 id="orgf3ec9b3"><span class="todo TODO">TODO</span> 52. Lymphocyte differentiation in central lymphoid organs.</h2>
+<div id="outline-container-org487660f" class="outline-2">
+<h2 id="org487660f"><span class="todo TODO">TODO</span> 52. Lymphocyte differentiation in central lymphoid organs.</h2>
 </div>
-<div id="outline-container-org606476b" class="outline-2">
-<h2 id="org606476b"><span class="todo TODO">TODO</span> 53. Lymphocyte differentiation in peripheral lymphoid organs. Immune response</h2>
+<div id="outline-container-org12dcf9a" class="outline-2">
+<h2 id="org12dcf9a"><span class="todo TODO">TODO</span> 53. Lymphocyte differentiation in peripheral lymphoid organs. Immune response</h2>
 </div>
-<div id="outline-container-org0eeafa3" class="outline-2">
-<h2 id="org0eeafa3"><span class="todo TODO">TODO</span> 54. Immune memory.</h2>
+<div id="outline-container-org65b4702" class="outline-2">
+<h2 id="org65b4702"><span class="todo TODO">TODO</span> 54. Immune memory.</h2>
 </div>
-<div id="outline-container-org72ce70e" class="outline-2">
-<h2 id="org72ce70e"><span class="todo TODO">TODO</span> 55. Immune tolerance. Regulatory T lymphocytes.</h2>
+<div id="outline-container-org0fca5d5" class="outline-2">
+<h2 id="org0fca5d5"><span class="todo TODO">TODO</span> 55. Immune tolerance. Regulatory T lymphocytes.</h2>
 </div>
-<div id="outline-container-org6baa490" class="outline-2">
-<h2 id="org6baa490"><span class="todo TODO">TODO</span> 56. Transplantation immunity.</h2>
+<div id="outline-container-orgca24aa6" class="outline-2">
+<h2 id="orgca24aa6"><span class="todo TODO">TODO</span> 56. Transplantation immunity.</h2>
 </div>
-<div id="outline-container-org98ebdda" class="outline-2">
-<h2 id="org98ebdda"><span class="todo TODO">TODO</span> 57. Antitumor immunity. Evolution of immunity.</h2>
+<div id="outline-container-org343728c" class="outline-2">
+<h2 id="org343728c"><span class="todo TODO">TODO</span> 57. Antitumor immunity. Evolution of immunity.</h2>
 </div>
-<div id="outline-container-orgdb478e5" class="outline-2">
-<h2 id="orgdb478e5"><span class="todo TODO">TODO</span> 58. Blood group alloantigens. ABO and H blood groups.</h2>
+<div id="outline-container-orga57915a" class="outline-2">
+<h2 id="orga57915a"><span class="todo TODO">TODO</span> 58. Blood group alloantigens. ABO and H blood groups.</h2>
 </div>
-<div id="outline-container-org1621528" class="outline-2">
-<h2 id="org1621528"><span class="todo TODO">TODO</span> 59. Rhesus blood groups.</h2>
+<div id="outline-container-org0442191" class="outline-2">
+<h2 id="org0442191"><span class="todo TODO">TODO</span> 59. Rhesus blood groups.</h2>
 </div>
-<div id="outline-container-orgb3f25cc" class="outline-2">
-<h2 id="orgb3f25cc"><span class="todo TODO">TODO</span> 60. Animal evolution before vertebrates.</h2>
+<div id="outline-container-orgd8f1aee" class="outline-2">
+<h2 id="orgd8f1aee"><span class="todo TODO">TODO</span> 60. Animal evolution before vertebrates.</h2>
 </div>
-<div id="outline-container-org967272c" class="outline-2">
-<h2 id="org967272c"><span class="todo TODO">TODO</span> 61. Sequence of evolutionary innovations in vertebrate classes</h2>
+<div id="outline-container-org925ce2f" class="outline-2">
+<h2 id="org925ce2f"><span class="todo TODO">TODO</span> 61. Sequence of evolutionary innovations in vertebrate classes</h2>
 </div>
-<div id="outline-container-orgd8d55da" class="outline-2">
-<h2 id="orgd8d55da">62. Phylogeny and development of the skull</h2>
-<div class="outline-text-2" id="text-orgd8d55da">
+<div id="outline-container-org08d9447" class="outline-2">
+<h2 id="org08d9447">62. Phylogeny and development of the skull</h2>
+<div class="outline-text-2" id="text-org08d9447">
 </div>
-<div id="outline-container-org66304d7" class="outline-4">
-<h4 id="org66304d7"><span class="todo TODO">TODO</span> Composition</h4>
-<div class="outline-text-4" id="text-org66304d7">
+<div id="outline-container-orgcc67eaf" class="outline-4">
+<h4 id="orgcc67eaf"><span class="todo TODO">TODO</span> Composition</h4>
+<div class="outline-text-4" id="text-orgcc67eaf">
 <ul class="org-ul">
 <li><b>Neurocranium</b>
 <ul class="org-ul">
@@ -2037,9 +2037,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-orgef1c9a6" class="outline-4">
-<h4 id="orgef1c9a6">Phylogeny</h4>
-<div class="outline-text-4" id="text-orgef1c9a6">
+<div id="outline-container-org4b07a31" class="outline-4">
+<h4 id="org4b07a31">Phylogeny</h4>
+<div class="outline-text-4" id="text-org4b07a31">
 <ul class="org-ul">
 <li>The first big step; <b>Hardening of the feeding apparatus</b>, jaws were invented; massive and able to carry teeth
 <ul class="org-ul">
@@ -2058,16 +2058,16 @@ L
 </div>
 </div>
 
-<div id="outline-container-org7aa0764" class="outline-2">
-<h2 id="org7aa0764"><span class="todo TODO">TODO</span> 63. Phylogeny and development of the postcranial skeleton</h2>
+<div id="outline-container-org4a1f67a" class="outline-2">
+<h2 id="org4a1f67a"><span class="todo TODO">TODO</span> 63. Phylogeny and development of the postcranial skeleton</h2>
 </div>
-<div id="outline-container-org0d9656c" class="outline-2">
-<h2 id="org0d9656c">64. Phylogeny and development of the skin</h2>
-<div class="outline-text-2" id="text-org0d9656c">
+<div id="outline-container-orgf63204a" class="outline-2">
+<h2 id="orgf63204a">64. Phylogeny and development of the skin</h2>
+<div class="outline-text-2" id="text-orgf63204a">
 </div>
-<div id="outline-container-orgea88957" class="outline-4">
-<h4 id="orgea88957">Skin</h4>
-<div class="outline-text-4" id="text-orgea88957">
+<div id="outline-container-orga80a038" class="outline-4">
+<h4 id="orga80a038">Skin</h4>
+<div class="outline-text-4" id="text-orga80a038">
 <ul class="org-ul">
 <li><i>The outer covering of the body in all vertebrates</i></li>
 <li>Provides protections
@@ -2093,13 +2093,13 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-orga4e31af" class="outline-4">
-<h4 id="orga4e31af">Phylogeny of the skin</h4>
-<div class="outline-text-4" id="text-orga4e31af">
+<div id="outline-container-orgf143b30" class="outline-4">
+<h4 id="orgf143b30">Phylogeny of the skin</h4>
+<div class="outline-text-4" id="text-orgf143b30">
 </div>
 <ul class="org-ul">
-<li><a id="org72dad59"></a>Evolutionary innovations in Fishes<br />
-<div class="outline-text-5" id="text-org72dad59">
+<li><a id="org14ff915"></a>Evolutionary innovations in Fishes<br />
+<div class="outline-text-5" id="text-org14ff915">
 <ul class="org-ul">
 <li>Epidermis in fishes is made of <b>living cells</b> <i>with relatively low keratin content</i>, covering dermal scales</li>
 <li>Within the epidermis, unicellular mucous glands reside, their secretions make fish slippery and difficult to catch
@@ -2109,8 +2109,8 @@ L
 </ul>
 </div>
 </li>
-<li><a id="org7878314"></a>Evolutionary innovations in Amphibians<br />
-<div class="outline-text-5" id="text-org7878314">
+<li><a id="orgae0f6b8"></a>Evolutionary innovations in Amphibians<br />
+<div class="outline-text-5" id="text-orgae0f6b8">
 <ul class="org-ul">
 <li>When vertebrates invaded land, the epidermis evolved a cornified layer(<b>stratun corneum</b>), found first in amphibians
 <ul class="org-ul">
@@ -2124,8 +2124,8 @@ L
 </ul>
 </div>
 </li>
-<li><a id="org061832b"></a>Evolutionary innovations in Amniotes<br />
-<div class="outline-text-5" id="text-org061832b">
+<li><a id="org3f809c9"></a>Evolutionary innovations in Amniotes<br />
+<div class="outline-text-5" id="text-org3f809c9">
 <ul class="org-ul">
 <li>Stratum corneum is best developed in reptiles, forming a dense waterproof covering of their body</li>
 <li>Reptilian <b>epidermis</b> is dry, <b>almost devoid of skin glands</b>, except for scent glands around the mouth</li>
@@ -2136,8 +2136,8 @@ L
 </ul>
 </div>
 </li>
-<li><a id="org2f68951"></a>Evolutionary innovations in mammals<br />
-<div class="outline-text-5" id="text-org2f68951">
+<li><a id="org8eee54d"></a>Evolutionary innovations in mammals<br />
+<div class="outline-text-5" id="text-org8eee54d">
 <ul class="org-ul">
 <li><b>General</b>
 <ul class="org-ul">
@@ -2163,9 +2163,9 @@ L
 </li>
 </ul>
 </div>
-<div id="outline-container-org758082e" class="outline-4">
-<h4 id="org758082e">Skin development</h4>
-<div class="outline-text-4" id="text-org758082e">
+<div id="outline-container-org0bffeac" class="outline-4">
+<h4 id="org0bffeac">Skin development</h4>
+<div class="outline-text-4" id="text-org0bffeac">
 <ul class="org-ul">
 <li>Multi-step process consisting of
 <ul class="org-ul">
@@ -2177,8 +2177,8 @@ L
 </ul>
 </div>
 <ul class="org-ul">
-<li><a id="org09ccb4c"></a>Epidermal specification<br />
-<div class="outline-text-5" id="text-org09ccb4c">
+<li><a id="org842e18c"></a>Epidermal specification<br />
+<div class="outline-text-5" id="text-org842e18c">
 <ul class="org-ul">
 <li>Embryonic skin development begins after gastrulation
 <ul class="org-ul">
@@ -2195,16 +2195,16 @@ L
 </ul>
 </div>
 </li>
-<li><a id="orge7b0310"></a>Epidermal commitment<br />
-<div class="outline-text-5" id="text-orge7b0310">
+<li><a id="org2f3355d"></a>Epidermal commitment<br />
+<div class="outline-text-5" id="text-org2f3355d">
 <ul class="org-ul">
 <li>The single layer of multipotent epithelial cells <i>initially</i> express keratins K8/K18</li>
 <li>This is <b>replaced by K5/K14 expression</b> prior to stratification, <i>marking the beginning of epidermal commitment</i></li>
 </ul>
 </div>
 </li>
-<li><a id="orge020e5b"></a>Stratification &amp; Terminal differentiation<br />
-<div class="outline-text-5" id="text-orge020e5b">
+<li><a id="org8ec86d9"></a>Stratification &amp; Terminal differentiation<br />
+<div class="outline-text-5" id="text-org8ec86d9">
 <ul class="org-ul">
 <li>Multipotent epithelial cells in the surface of the ectoderm <b>become the embryonic epidermal basal layer of the stratifying epidermis</b>
 <ul class="org-ul">
@@ -2222,8 +2222,8 @@ L
 </ul>
 </div>
 </li>
-<li><a id="orgb77e4a1"></a>Growth of epidermal appendages<br />
-<div class="outline-text-5" id="text-orgb77e4a1">
+<li><a id="orgc310649"></a>Growth of epidermal appendages<br />
+<div class="outline-text-5" id="text-orgc310649">
 <ul class="org-ul">
 <li>Development of the epidermis includes the formation of the epidermal appendages such as hair follicles and sweat glands.</li>
 <li>During development, cells of the basal epidermal layer form buds, which are primitive cells of organ development</li>
@@ -2235,21 +2235,21 @@ L
 </div>
 </div>
 
-<div id="outline-container-org2ad28ac" class="outline-2">
-<h2 id="org2ad28ac"><span class="todo TODO">TODO</span> 65. Phylogeny and development of the nervous system (brain and spinal cord)</h2>
-<div class="outline-text-2" id="text-org2ad28ac">
+<div id="outline-container-orgcabf195" class="outline-2">
+<h2 id="orgcabf195"><span class="todo TODO">TODO</span> 65. Phylogeny and development of the nervous system (brain and spinal cord)</h2>
+<div class="outline-text-2" id="text-orgcabf195">
 </div>
-<div id="outline-container-orgd7113d0" class="outline-4">
-<h4 id="orgd7113d0">Phylogeny of nervous system</h4>
+<div id="outline-container-org9ff7532" class="outline-4">
+<h4 id="org9ff7532">Phylogeny of nervous system</h4>
 </div>
 
-<div id="outline-container-org96c03c3" class="outline-4">
-<h4 id="org96c03c3">Development of brain and spinal cord</h4>
-<div class="outline-text-4" id="text-org96c03c3">
+<div id="outline-container-org07d1208" class="outline-4">
+<h4 id="org07d1208">Development of brain and spinal cord</h4>
+<div class="outline-text-4" id="text-org07d1208">
 </div>
 <ul class="org-ul">
-<li><a id="org6b52e2b"></a>Neural tube<br />
-<div class="outline-text-5" id="text-org6b52e2b">
+<li><a id="org6e28449"></a>Neural tube<br />
+<div class="outline-text-5" id="text-org6e28449">
 <ul class="org-ul">
 <li>Neuroectodermal tissues differentiate and thicken into <b>neural plate</b></li>
 <li>Neural plate <b>bends dorsally</b> <i>with the two ends joining at the neural plate boarders</i>, developing into <b>neural crest</b></li>
@@ -2259,8 +2259,8 @@ L
 </ul>
 </div>
 </li>
-<li><a id="orgf24e460"></a>Gray &amp; White matter<br />
-<div class="outline-text-5" id="text-orgf24e460">
+<li><a id="org572d6da"></a>Gray &amp; White matter<br />
+<div class="outline-text-5" id="text-org572d6da">
 <ul class="org-ul">
 <li><i>Gray matter consists primarily of neuronal cell bodies that contain nuclei, white matter mainly of myelinated axons</i></li>
 <li>Differentiation of grey and white matter goes together with neuronal maturation, <i>the axons emerging from the neuroblasts form layers of white matter</i></li>
@@ -2285,49 +2285,49 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-org2ea7a7e" class="outline-2">
-<h2 id="org2ea7a7e"><span class="todo TODO">TODO</span> 66. Phylogeny and development of the skin sense organs, taste, and olfactory organs.</h2>
+<div id="outline-container-org454f853" class="outline-2">
+<h2 id="org454f853"><span class="todo TODO">TODO</span> 66. Phylogeny and development of the skin sense organs, taste, and olfactory organs.</h2>
 </div>
-<div id="outline-container-org48f1f93" class="outline-2">
-<h2 id="org48f1f93"><span class="todo TODO">TODO</span> 67. Phylogeny and development of the organ of balance and hearing.</h2>
+<div id="outline-container-org3eeef84" class="outline-2">
+<h2 id="org3eeef84"><span class="todo TODO">TODO</span> 67. Phylogeny and development of the organ of balance and hearing.</h2>
 </div>
-<div id="outline-container-orge027d11" class="outline-2">
-<h2 id="orge027d11"><span class="todo TODO">TODO</span> 68. Phylogeny and development of organ of vision.</h2>
+<div id="outline-container-org2eeab47" class="outline-2">
+<h2 id="org2eeab47"><span class="todo TODO">TODO</span> 68. Phylogeny and development of organ of vision.</h2>
 </div>
-<div id="outline-container-org1071b27" class="outline-2">
-<h2 id="org1071b27"><span class="todo TODO">TODO</span> 69. Phylogeny and development of digestive system.</h2>
+<div id="outline-container-org349281f" class="outline-2">
+<h2 id="org349281f"><span class="todo TODO">TODO</span> 69. Phylogeny and development of digestive system.</h2>
 </div>
-<div id="outline-container-org79caa43" class="outline-2">
-<h2 id="org79caa43"><span class="todo TODO">TODO</span> 70. Phylogeny and development of circulatory system.</h2>
+<div id="outline-container-org2d0fa94" class="outline-2">
+<h2 id="org2d0fa94"><span class="todo TODO">TODO</span> 70. Phylogeny and development of circulatory system.</h2>
 </div>
-<div id="outline-container-org8654b13" class="outline-2">
-<h2 id="org8654b13"><span class="todo TODO">TODO</span> 71. Phylogeny and development of respiratory system.</h2>
+<div id="outline-container-org8cfadea" class="outline-2">
+<h2 id="org8cfadea"><span class="todo TODO">TODO</span> 71. Phylogeny and development of respiratory system.</h2>
 </div>
-<div id="outline-container-orgbc7509e" class="outline-2">
-<h2 id="orgbc7509e"><span class="todo TODO">TODO</span> 72. Phylogeny and development of excretory system.</h2>
+<div id="outline-container-org4d64e64" class="outline-2">
+<h2 id="org4d64e64"><span class="todo TODO">TODO</span> 72. Phylogeny and development of excretory system.</h2>
 </div>
-<div id="outline-container-org7d0fdf1" class="outline-2">
-<h2 id="org7d0fdf1"><span class="todo TODO">TODO</span> 73. Phylogeny and development of reproductive system.</h2>
+<div id="outline-container-org693c90c" class="outline-2">
+<h2 id="org693c90c"><span class="todo TODO">TODO</span> 73. Phylogeny and development of reproductive system.</h2>
 </div>
-<div id="outline-container-org50dd898" class="outline-2">
-<h2 id="org50dd898"><span class="todo TODO">TODO</span> 74. Mechanisms of evolution. Anagenesis.</h2>
+<div id="outline-container-org1083988" class="outline-2">
+<h2 id="org1083988"><span class="todo TODO">TODO</span> 74. Mechanisms of evolution. Anagenesis.</h2>
 </div>
-<div id="outline-container-orgba8a14c" class="outline-2">
-<h2 id="orgba8a14c"><span class="todo TODO">TODO</span> 75. Speciation (cladogenesis). Macroevolution.</h2>
+<div id="outline-container-org3828dd3" class="outline-2">
+<h2 id="org3828dd3"><span class="todo TODO">TODO</span> 75. Speciation (cladogenesis). Macroevolution.</h2>
 </div>
-<div id="outline-container-org75eae64" class="outline-2">
-<h2 id="org75eae64"><span class="todo TODO">TODO</span> 76. Human evolution.</h2>
+<div id="outline-container-org3d787eb" class="outline-2">
+<h2 id="org3d787eb"><span class="todo TODO">TODO</span> 76. Human evolution.</h2>
 </div>
-<div id="outline-container-org24cfbb3" class="outline-2">
-<h2 id="org24cfbb3"><span class="todo TODO">TODO</span> 77. Molecular evolution.</h2>
+<div id="outline-container-org1fe6505" class="outline-2">
+<h2 id="org1fe6505"><span class="todo TODO">TODO</span> 77. Molecular evolution.</h2>
 </div>
-<div id="outline-container-orge3404a3" class="outline-2">
-<h2 id="orge3404a3">78. Protozoa. Phylum Sarcomastigophora. Subphylum Mastigophora (Flagellata). Trypanosoma brucei gambiense, Trypanosoma brucei rhodesiense. Trypanosoma cruzi.</h2>
-<div class="outline-text-2" id="text-orge3404a3">
+<div id="outline-container-org3856289" class="outline-2">
+<h2 id="org3856289">78. Protozoa. Phylum Sarcomastigophora. Subphylum Mastigophora (Flagellata). Trypanosoma brucei gambiense, Trypanosoma brucei rhodesiense. Trypanosoma cruzi.</h2>
+<div class="outline-text-2" id="text-org3856289">
 </div>
-<div id="outline-container-org4cbb3a8" class="outline-4">
-<h4 id="org4cbb3a8">Trypanosoma brucei</h4>
-<div class="outline-text-4" id="text-org4cbb3a8">
+<div id="outline-container-org0fbf929" class="outline-4">
+<h4 id="org0fbf929">Trypanosoma brucei</h4>
+<div class="outline-text-4" id="text-org0fbf929">
 <ul class="org-ul">
 <li>Causes African trypanosomiasis(Sleeping sickness)</li>
 <li>Trypanosoma brucei is a hemoflagellate protozoan(flagellated/trypomastigote in the blood, amastigote in tissue)</li>
@@ -2363,9 +2363,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-orgde1bc75" class="outline-4">
-<h4 id="orgde1bc75">Trypanosoma cruzi</h4>
-<div class="outline-text-4" id="text-orgde1bc75">
+<div id="outline-container-org0f72602" class="outline-4">
+<h4 id="org0f72602">Trypanosoma cruzi</h4>
+<div class="outline-text-4" id="text-org0f72602">
 <ul class="org-ul">
 <li>Causes Chagas Disease
 <ul class="org-ul">
@@ -2418,9 +2418,9 @@ L
 </div>
 </div>
 
-<div id="outline-container-orgcb961c6" class="outline-2">
-<h2 id="orgcb961c6">79. Leishmania donovani. Leishmania tropica. Leishmania braziliensis.</h2>
-<div class="outline-text-2" id="text-orgcb961c6">
+<div id="outline-container-org14db42c" class="outline-2">
+<h2 id="org14db42c">79. Leishmania donovani. Leishmania tropica. Leishmania braziliensis.</h2>
+<div class="outline-text-2" id="text-org14db42c">
 <ul class="org-ul">
 <li>Blood protozoan</li>
 <li>Vector <b><b>transmission by sandfly</b></b></li>
@@ -2430,9 +2430,9 @@ L
 </ul></li>
 </ul>
 </div>
-<div id="outline-container-orgeff6822" class="outline-4">
-<h4 id="orgeff6822">Leishmania braziliensis &amp; Leishmania Tropica</h4>
-<div class="outline-text-4" id="text-orgeff6822">
+<div id="outline-container-org203b5bc" class="outline-4">
+<h4 id="org203b5bc">Leishmania braziliensis &amp; Leishmania Tropica</h4>
+<div class="outline-text-4" id="text-org203b5bc">
 <ul class="org-ul">
 <li>Leishmania braziliensis : Found in south America(Brazil)</li>
 <li>Leishmania tropica: Europe, Africa</li>
@@ -2444,9 +2444,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-org33f6d60" class="outline-4">
-<h4 id="org33f6d60">Leishmania donovani</h4>
-<div class="outline-text-4" id="text-org33f6d60">
+<div id="outline-container-org37dcd66" class="outline-4">
+<h4 id="org37dcd66">Leishmania donovani</h4>
+<div class="outline-text-4" id="text-org37dcd66">
 <ul class="org-ul">
 <li>Causes Visceral leishmaniasis(kalazar, black fever)</li>
 <li>Spiking fever</li>
@@ -2461,13 +2461,13 @@ L
 </div>
 </div>
 
-<div id="outline-container-org8070c17" class="outline-2">
-<h2 id="org8070c17">80. Trichomonas vaginalis. Trichomonas tenax. Giardia lamblia (Lamblia intestinalis).</h2>
-<div class="outline-text-2" id="text-org8070c17">
+<div id="outline-container-orge151da3" class="outline-2">
+<h2 id="orge151da3">80. Trichomonas vaginalis. Trichomonas tenax. Giardia lamblia (Lamblia intestinalis).</h2>
+<div class="outline-text-2" id="text-orge151da3">
 </div>
-<div id="outline-container-org49e87db" class="outline-4">
-<h4 id="org49e87db">Trcihonomas vaginalis</h4>
-<div class="outline-text-4" id="text-org49e87db">
+<div id="outline-container-org3d0884a" class="outline-4">
+<h4 id="org3d0884a">Trcihonomas vaginalis</h4>
+<div class="outline-text-4" id="text-org3d0884a">
 <ul class="org-ul">
 <li>Anaerobic, motile protozoan with flagella</li>
 <li>Does not encyst and does not survive outside of the body</li>
@@ -2490,18 +2490,18 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-org3f5d199" class="outline-4">
-<h4 id="org3f5d199">Trichonomonas tenax</h4>
-<div class="outline-text-4" id="text-org3f5d199">
+<div id="outline-container-org25f9d7f" class="outline-4">
+<h4 id="org25f9d7f">Trichonomonas tenax</h4>
+<div class="outline-text-4" id="text-org25f9d7f">
 <ul class="org-ul">
 <li>Anaerobic, motile protozoan with flagella</li>
 <li>Found in oral cavity, causes gingivostomatitis, but commony asymptomatic</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org06cf18c" class="outline-4">
-<h4 id="org06cf18c">Giardia Lamblia</h4>
-<div class="outline-text-4" id="text-org06cf18c">
+<div id="outline-container-org01f80f4" class="outline-4">
+<h4 id="org01f80f4">Giardia Lamblia</h4>
+<div class="outline-text-4" id="text-org01f80f4">
 <ul class="org-ul">
 <li>Anaerobic flagellated protozoan in the small intestine</li>
 <li>Fecal-oral transmission
@@ -2538,13 +2538,13 @@ L
 </div>
 </div>
 
-<div id="outline-container-org03030a3" class="outline-2">
-<h2 id="org03030a3">81. Subphylum Sarcodina. Entamoeba histolytica. Entamoeba dispar. Entamoeba gingivalis.</h2>
-<div class="outline-text-2" id="text-org03030a3">
+<div id="outline-container-orgcf7a587" class="outline-2">
+<h2 id="orgcf7a587">81. Subphylum Sarcodina. Entamoeba histolytica. Entamoeba dispar. Entamoeba gingivalis.</h2>
+<div class="outline-text-2" id="text-orgcf7a587">
 </div>
-<div id="outline-container-orgf70e79c" class="outline-4">
-<h4 id="orgf70e79c">Entamoeba Histolytica</h4>
-<div class="outline-text-4" id="text-orgf70e79c">
+<div id="outline-container-orgce3f6ec" class="outline-4">
+<h4 id="orgce3f6ec">Entamoeba Histolytica</h4>
+<div class="outline-text-4" id="text-orgce3f6ec">
 <ul class="org-ul">
 <li>Intestinal protozoan
 <ul class="org-ul">
@@ -2581,9 +2581,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-org4ec3fac" class="outline-4">
-<h4 id="org4ec3fac">Entamoeba dispar</h4>
-<div class="outline-text-4" id="text-org4ec3fac">
+<div id="outline-container-org0df8505" class="outline-4">
+<h4 id="org0df8505">Entamoeba dispar</h4>
+<div class="outline-text-4" id="text-org0df8505">
 <ul class="org-ul">
 <li>nonpathogenic species in the large intestine</li>
 <li>similar to E.Histolytica but never ingests RBCs</li>
@@ -2592,9 +2592,9 @@ L
 </div>
 </div>
 
-<div id="outline-container-orga390757" class="outline-4">
-<h4 id="orga390757">Entamoeba gingivalis</h4>
-<div class="outline-text-4" id="text-orga390757">
+<div id="outline-container-org36697d2" class="outline-4">
+<h4 id="org36697d2">Entamoeba gingivalis</h4>
+<div class="outline-text-4" id="text-org36697d2">
 <ul class="org-ul">
 <li>the first amoeba described in humans</li>
 <li>associated with gum disease</li>
@@ -2604,13 +2604,13 @@ L
 </div>
 </div>
 
-<div id="outline-container-org07fa2a0" class="outline-2">
-<h2 id="org07fa2a0">82. Phylum Apicomplexa. Toxoplasma gondii.</h2>
-<div class="outline-text-2" id="text-org07fa2a0">
+<div id="outline-container-org07a8947" class="outline-2">
+<h2 id="org07a8947">82. Phylum Apicomplexa. Toxoplasma gondii.</h2>
+<div class="outline-text-2" id="text-org07a8947">
 </div>
-<div id="outline-container-orgcde88c2" class="outline-4">
-<h4 id="orgcde88c2">Phylum Apicomplexa</h4>
-<div class="outline-text-4" id="text-orgcde88c2">
+<div id="outline-container-orgd24abfe" class="outline-4">
+<h4 id="orgd24abfe">Phylum Apicomplexa</h4>
+<div class="outline-text-4" id="text-orgd24abfe">
 <ul class="org-ul">
 <li>Posses a unique organelle, called apicoplast(nonphosynthetic plasmid)
 <ul class="org-ul">
@@ -2620,9 +2620,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-org2371523" class="outline-4">
-<h4 id="org2371523">Toxoplasma gondii</h4>
-<div class="outline-text-4" id="text-org2371523">
+<div id="outline-container-org8277c4f" class="outline-4">
+<h4 id="org8277c4f">Toxoplasma gondii</h4>
+<div class="outline-text-4" id="text-org8277c4f">
 <ul class="org-ul">
 <li>Toxoplasma gondii is a CNS protozoan</li>
 <li>Obligate intracellular</li>
@@ -2669,9 +2669,9 @@ L
 </div>
 </div>
 
-<div id="outline-container-orgc94add4" class="outline-2">
-<h2 id="orgc94add4">83. Plasmodium vivax. Plasmodium malariae. Plasmodium falciparum. Morphological differences in the erythrocyte schizogony of the genus Plasmodium.</h2>
-<div class="outline-text-2" id="text-orgc94add4">
+<div id="outline-container-orgc093d6b" class="outline-2">
+<h2 id="orgc093d6b">83. Plasmodium vivax. Plasmodium malariae. Plasmodium falciparum. Morphological differences in the erythrocyte schizogony of the genus Plasmodium.</h2>
+<div class="outline-text-2" id="text-orgc093d6b">
 <ul class="org-ul">
 <li>Genus Plasmodium belongs to the Phylum Apicomplexa</li>
 <li>Plasmodium spp. are blood protozoa that cause malaria
@@ -2683,9 +2683,9 @@ L
 </ul>
 </div>
 
-<div id="outline-container-org9d97414" class="outline-4">
-<h4 id="org9d97414">Plasmodium Falciparum</h4>
-<div class="outline-text-4" id="text-org9d97414">
+<div id="outline-container-orgc1290d6" class="outline-4">
+<h4 id="orgc1290d6">Plasmodium Falciparum</h4>
+<div class="outline-text-4" id="text-orgc1290d6">
 <ul class="org-ul">
 <li>Endemic to sub-Saharan Africa and Southeast Asia</li>
 <li>Irregular fever pattern</li>
@@ -2700,9 +2700,9 @@ L
 </div>
 </div>
 
-<div id="outline-container-orgdfbb134" class="outline-4">
-<h4 id="orgdfbb134">Plasmodium Vivax</h4>
-<div class="outline-text-4" id="text-orgdfbb134">
+<div id="outline-container-org164a407" class="outline-4">
+<h4 id="org164a407">Plasmodium Vivax</h4>
+<div class="outline-text-4" id="text-org164a407">
 <ul class="org-ul">
 <li>Endemic to Southeast Asia, Americas, Africa</li>
 <li>P.Vivax produce hypnozoites(dormant stage) that can persist in the liver and cause relapse of malaria weeks or months later</li>
@@ -2711,9 +2711,9 @@ L
 </div>
 </div>
 
-<div id="outline-container-orge6941b2" class="outline-4">
-<h4 id="orge6941b2">Plasmodium Malariae</h4>
-<div class="outline-text-4" id="text-orge6941b2">
+<div id="outline-container-org00abb04" class="outline-4">
+<h4 id="org00abb04">Plasmodium Malariae</h4>
+<div class="outline-text-4" id="text-org00abb04">
 <ul class="org-ul">
 <li>Endemic to sub-Saharan Africa, Southeast Asia and South America</li>
 <li>Produce fever spikes every 72hours(quartan fever)</li>
@@ -2721,9 +2721,9 @@ L
 </div>
 </div>
 
-<div id="outline-container-org88dcb63" class="outline-4">
-<h4 id="org88dcb63">Life cycle</h4>
-<div class="outline-text-4" id="text-org88dcb63">
+<div id="outline-container-org77b5091" class="outline-4">
+<h4 id="org77b5091">Life cycle</h4>
+<div class="outline-text-4" id="text-org77b5091">
 <ul class="org-ul">
 <li>female mosquito takes a blood meal and injects <b>sporozoites</b> into the bloodstream, <b><b>beginning the exoerythrogenic cycle</b></b></li>
 <li>Plasmodium sporozoites migrate to the liver where they infect hepatocytes</li>
@@ -2740,9 +2740,9 @@ L
 </div>
 </div>
 
-<div id="outline-container-org083c588" class="outline-4">
-<h4 id="org083c588">Morphological differences</h4>
-<div class="outline-text-4" id="text-org083c588">
+<div id="outline-container-org4d62269" class="outline-4">
+<h4 id="org4d62269">Morphological differences</h4>
+<div class="outline-text-4" id="text-org4d62269">
 <ul class="org-ul">
 <li>P.Falciparum gametocytes appear banana-shaped</li>
 <li>P.vivax induce morphological changes in infected RBCs that are visible on microscopy -+ <b><b>Schuffner dots</b></b></li>
@@ -2760,13 +2760,13 @@ L
 </div>
 </div>
 
-<div id="outline-container-orge7eb12c" class="outline-2">
-<h2 id="orge7eb12c">84. Phylum Ciliophora. Balantidium coli.</h2>
-<div class="outline-text-2" id="text-orge7eb12c">
+<div id="outline-container-org9b36bda" class="outline-2">
+<h2 id="org9b36bda">84. Phylum Ciliophora. Balantidium coli.</h2>
+<div class="outline-text-2" id="text-org9b36bda">
 </div>
-<div id="outline-container-org189a7ff" class="outline-4">
-<h4 id="org189a7ff">Phylum Ciliophora</h4>
-<div class="outline-text-4" id="text-org189a7ff">
+<div id="outline-container-orgab8e31c" class="outline-4">
+<h4 id="orgab8e31c">Phylum Ciliophora</h4>
+<div class="outline-text-4" id="text-orgab8e31c">
 <ul class="org-ul">
 <li>Complex protozoans, found in lakes, rivers, oceans and soil</li>
 <li>Ectosymbiotic, endosymbiotic and sometimes parasites</li>
@@ -2789,9 +2789,9 @@ L
 </div>
 </div>
 
-<div id="outline-container-org21c6d02" class="outline-4">
-<h4 id="org21c6d02">Balantidium coli</h4>
-<div class="outline-text-4" id="text-org21c6d02">
+<div id="outline-container-org392bdfb" class="outline-4">
+<h4 id="org392bdfb">Balantidium coli</h4>
+<div class="outline-text-4" id="text-org392bdfb">
 <ul class="org-ul">
 <li>The only ciliate known to be parasite in human</li>
 <li>Found in the colon, in humans as well as pigs and other mammals</li>
@@ -2802,16 +2802,16 @@ L
 </div>
 </div>
 
-<div id="outline-container-orge359740" class="outline-2">
-<h2 id="orge359740"><span class="todo TODO">TODO</span> 85. Metazoa: important evolutionary changes associated with the transition to multicellularity. Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.</h2>
+<div id="outline-container-orgd75e169" class="outline-2">
+<h2 id="orgd75e169"><span class="todo TODO">TODO</span> 85. Metazoa: important evolutionary changes associated with the transition to multicellularity. Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.</h2>
 </div>
-<div id="outline-container-orgdffa116" class="outline-2">
-<h2 id="orgdffa116">86. Phylum Platyhelminthes: important evolutionary changes. Class Trematoda. Fasciola hepatica.</h2>
-<div class="outline-text-2" id="text-orgdffa116">
+<div id="outline-container-org32c87d1" class="outline-2">
+<h2 id="org32c87d1">86. Phylum Platyhelminthes: important evolutionary changes. Class Trematoda. Fasciola hepatica.</h2>
+<div class="outline-text-2" id="text-org32c87d1">
 </div>
-<div id="outline-container-org5fb3be2" class="outline-4">
-<h4 id="org5fb3be2">Phylum Platyhelmnithes</h4>
-<div class="outline-text-4" id="text-org5fb3be2">
+<div id="outline-container-org838e9db" class="outline-4">
+<h4 id="org838e9db">Phylum Platyhelmnithes</h4>
+<div class="outline-text-4" id="text-org838e9db">
 <ul class="org-ul">
 <li>Triploblastic(Ectoderm,Mesoderm,Endoderm)</li>
 <li>First organism with bilateral symmetry and tissues organized into organs</li>
@@ -2836,9 +2836,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-org93be552" class="outline-4">
-<h4 id="org93be552">Class Trematoda(Flukes)</h4>
-<div class="outline-text-4" id="text-org93be552">
+<div id="outline-container-orgfc96ba7" class="outline-4">
+<h4 id="orgfc96ba7">Class Trematoda(Flukes)</h4>
+<div class="outline-text-4" id="text-orgfc96ba7">
 <ul class="org-ul">
 <li>Worm-like</li>
 <li>Hermaphrodites :
@@ -2854,9 +2854,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf9c3911" class="outline-4">
-<h4 id="orgf9c3911">Fasciola Hepatica</h4>
-<div class="outline-text-4" id="text-orgf9c3911">
+<div id="outline-container-org24e8165" class="outline-4">
+<h4 id="org24e8165">Fasciola Hepatica</h4>
+<div class="outline-text-4" id="text-org24e8165">
 <ul class="org-ul">
 <li>Life Cycle :
 <ul class="org-ul">
@@ -2886,9 +2886,9 @@ L
 </div>
 </div>
 
-<div id="outline-container-org2ed23cf" class="outline-2">
-<h2 id="org2ed23cf">87. Dicrocoelium dendriticum (D. lanceatum).</h2>
-<div class="outline-text-2" id="text-org2ed23cf">
+<div id="outline-container-org39a41e6" class="outline-2">
+<h2 id="org39a41e6">87. Dicrocoelium dendriticum (D. lanceatum).</h2>
+<div class="outline-text-2" id="text-org39a41e6">
 <ul class="org-ul">
 <li>Liver fluke, Belongs to the Class Trematoda(flukes)</li>
 <li>Two intermediate hosts(Snail, ant) -+ Mainly found in grazing animals</li>
@@ -2916,13 +2916,13 @@ L
 </div>
 </div>
 
-<div id="outline-container-org154f83a" class="outline-2">
-<h2 id="org154f83a">88. Opisthorchis felineus. Genus Schistosoma and its species.</h2>
-<div class="outline-text-2" id="text-org154f83a">
+<div id="outline-container-org9926fe1" class="outline-2">
+<h2 id="org9926fe1">88. Opisthorchis felineus. Genus Schistosoma and its species.</h2>
+<div class="outline-text-2" id="text-org9926fe1">
 </div>
-<div id="outline-container-org7b08739" class="outline-4">
-<h4 id="org7b08739">Opisthorchis felinewus</h4>
-<div class="outline-text-4" id="text-org7b08739">
+<div id="outline-container-orge26e620" class="outline-4">
+<h4 id="orge26e620">Opisthorchis felinewus</h4>
+<div class="outline-text-4" id="text-orge26e620">
 <ul class="org-ul">
 <li>Cat liver fluke (trematode parasite)</li>
 <li>Two intermediate hosts :
@@ -2934,9 +2934,9 @@ L
 </div>
 </div>
 
-<div id="outline-container-orgdcba053" class="outline-4">
-<h4 id="orgdcba053">Genus Schistosoma</h4>
-<div class="outline-text-4" id="text-orgdcba053">
+<div id="outline-container-org102d1bf" class="outline-4">
+<h4 id="org102d1bf">Genus Schistosoma</h4>
+<div class="outline-text-4" id="text-org102d1bf">
 <ul class="org-ul">
 <li>free-living Schistosoma spp. cercariae are found in aquatic environments
 <ul class="org-ul">
@@ -2958,13 +2958,13 @@ L
 </div>
 </div>
 
-<div id="outline-container-org79b9cb9" class="outline-2">
-<h2 id="org79b9cb9">89. Class Cestoda. Diphyllobothrium latum.</h2>
-<div class="outline-text-2" id="text-org79b9cb9">
+<div id="outline-container-org9135163" class="outline-2">
+<h2 id="org9135163">89. Class Cestoda. Diphyllobothrium latum.</h2>
+<div class="outline-text-2" id="text-org9135163">
 </div>
-<div id="outline-container-org08b81f5" class="outline-4">
-<h4 id="org08b81f5">Class Cestoda</h4>
-<div class="outline-text-4" id="text-org08b81f5">
+<div id="outline-container-org8ded451" class="outline-4">
+<h4 id="org8ded451">Class Cestoda</h4>
+<div class="outline-text-4" id="text-org8ded451">
 <ul class="org-ul">
 <li>Parasites in all vertebrates</li>
 <li>Adult form is intestinal</li>
@@ -2984,9 +2984,9 @@ L
 </div>
 </div>
 
-<div id="outline-container-org4eb2f79" class="outline-4">
-<h4 id="org4eb2f79">Diphyllobothrium latum</h4>
-<div class="outline-text-4" id="text-org4eb2f79">
+<div id="outline-container-org071cd95" class="outline-4">
+<h4 id="org071cd95">Diphyllobothrium latum</h4>
+<div class="outline-text-4" id="text-org071cd95">
 <ul class="org-ul">
 <li>Largest tapeworm - can reach 10meters</li>
 <li>Infection by eating raw or under cooked fish</li>
@@ -3009,17 +3009,17 @@ L
 </div>
 </div>
 
-<div id="outline-container-org6c5bd69" class="outline-2">
-<h2 id="org6c5bd69">90. Taenia saginata. Taenia solium.</h2>
-<div class="outline-text-2" id="text-org6c5bd69">
+<div id="outline-container-org47aaa35" class="outline-2">
+<h2 id="org47aaa35">90. Taenia saginata. Taenia solium.</h2>
+<div class="outline-text-2" id="text-org47aaa35">
 <ul class="org-ul">
 <li>Taenia saginata and Taenia soluium are tapeworms(Cestodes)</li>
 <li>Both cause Intestinal Taeniasis, only T.Solium can cause cysticercosis</li>
 </ul>
 </div>
-<div id="outline-container-orgf591456" class="outline-4">
-<h4 id="orgf591456">Taenia Saginata</h4>
-<div class="outline-text-4" id="text-orgf591456">
+<div id="outline-container-orgf9b39b7" class="outline-4">
+<h4 id="orgf9b39b7">Taenia Saginata</h4>
+<div class="outline-text-4" id="text-orgf9b39b7">
 <ul class="org-ul">
 <li>Beef tapeworm</li>
 <li>Transmission :
@@ -3047,9 +3047,9 @@ L
 </div>
 
 
-<div id="outline-container-orgbb13d24" class="outline-4">
-<h4 id="orgbb13d24">Taenia Solium</h4>
-<div class="outline-text-4" id="text-orgbb13d24">
+<div id="outline-container-org4b79126" class="outline-4">
+<h4 id="org4b79126">Taenia Solium</h4>
+<div class="outline-text-4" id="text-org4b79126">
 <ul class="org-ul">
 <li>Pork tapeworm</li>
 <li>Transmission :
@@ -3089,9 +3089,9 @@ L
 </div>
 </div>
 
-<div id="outline-container-orgf0dbf91" class="outline-4">
-<h4 id="orgf0dbf91">Life cycle</h4>
-<div class="outline-text-4" id="text-orgf0dbf91">
+<div id="outline-container-orgc5c3637" class="outline-4">
+<h4 id="orgc5c3637">Life cycle</h4>
+<div class="outline-text-4" id="text-orgc5c3637">
 <ul class="org-ul">
 <li>This applies to both Taenia spp.</li>
 <li>Eggs hatch in the human intestine</li>
@@ -3103,16 +3103,16 @@ L
 </div>
 
 
-<div id="outline-container-org55888cb" class="outline-2">
-<h2 id="org55888cb">91. Echinococcus granulosus. Hymenolepis nana.</h2>
-<div class="outline-text-2" id="text-org55888cb">
+<div id="outline-container-orga0a586c" class="outline-2">
+<h2 id="orga0a586c">91. Echinococcus granulosus. Hymenolepis nana.</h2>
+<div class="outline-text-2" id="text-orga0a586c">
 <ul class="org-ul">
 <li>Both are tapeworms(Cestodes)</li>
 </ul>
 </div>
-<div id="outline-container-orgd135c33" class="outline-4">
-<h4 id="orgd135c33">Echinococcus</h4>
-<div class="outline-text-4" id="text-orgd135c33">
+<div id="outline-container-orgc52c6dd" class="outline-4">
+<h4 id="orgc52c6dd">Echinococcus</h4>
+<div class="outline-text-4" id="text-orgc52c6dd">
 <ul class="org-ul">
 <li>Transmission :
 <ul class="org-ul">
@@ -3154,8 +3154,8 @@ L
 </ul>
 </div>
 <ul class="org-ul">
-<li><a id="orgee3732c"></a>Life cycle<br />
-<div class="outline-text-5" id="text-orgee3732c">
+<li><a id="org0db0147"></a>Life cycle<br />
+<div class="outline-text-5" id="text-org0db0147">
 <ul class="org-ul">
 <li>Definitive host consumes hydatid cysts from an intermediate host</li>
 <li>Adult tapeworms develop and inhabit the small intestine</li>
@@ -3170,9 +3170,9 @@ L
 </ul>
 </div>
 
-<div id="outline-container-orga0a36e5" class="outline-4">
-<h4 id="orga0a36e5">Hymenolepis nana</h4>
-<div class="outline-text-4" id="text-orga0a36e5">
+<div id="outline-container-org89593fc" class="outline-4">
+<h4 id="org89593fc">Hymenolepis nana</h4>
+<div class="outline-text-4" id="text-org89593fc">
 <ul class="org-ul">
 <li>Transmission
 <ul class="org-ul">
@@ -3201,13 +3201,13 @@ L
 </div>
 </div>
 
-<div id="outline-container-orge6c0d69" class="outline-2">
-<h2 id="orge6c0d69">92. Phylum Nematoda. Ascaris lumbricoides.</h2>
-<div class="outline-text-2" id="text-orge6c0d69">
+<div id="outline-container-orgec719bb" class="outline-2">
+<h2 id="orgec719bb">92. Phylum Nematoda. Ascaris lumbricoides.</h2>
+<div class="outline-text-2" id="text-orgec719bb">
 </div>
-<div id="outline-container-orgae42535" class="outline-4">
-<h4 id="orgae42535">Phylum Nematoda</h4>
-<div class="outline-text-4" id="text-orgae42535">
+<div id="outline-container-org9a4e6c0" class="outline-4">
+<h4 id="org9a4e6c0">Phylum Nematoda</h4>
+<div class="outline-text-4" id="text-org9a4e6c0">
 <ul class="org-ul">
 <li>Roundworms, males smaller than females, transmitted by arthropod vectors</li>
 <li>Belong to a newly named group, Ecdysozoa(superphylum)</li>
@@ -3228,9 +3228,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-orgd5a3eff" class="outline-4">
-<h4 id="orgd5a3eff">Ascaris Lumbricoides</h4>
-<div class="outline-text-4" id="text-orgd5a3eff">
+<div id="outline-container-org5fd9cfd" class="outline-4">
+<h4 id="org5fd9cfd">Ascaris Lumbricoides</h4>
+<div class="outline-text-4" id="text-org5fd9cfd">
 <ul class="org-ul">
 <li>Giant roundworm, fecal oral transmission, Nematode, Geohelminth</li>
 <li>Transmission :
@@ -3270,13 +3270,13 @@ L
 </div>
 </div>
 
-<div id="outline-container-org2ac94c5" class="outline-2">
-<h2 id="org2ac94c5">93. Enterobius vermicularis. Trichuris trichiura (Trichocephalus trichiurus).</h2>
-<div class="outline-text-2" id="text-org2ac94c5">
+<div id="outline-container-org8f74164" class="outline-2">
+<h2 id="org8f74164">93. Enterobius vermicularis. Trichuris trichiura (Trichocephalus trichiurus).</h2>
+<div class="outline-text-2" id="text-org8f74164">
 </div>
-<div id="outline-container-orge15951a" class="outline-4">
-<h4 id="orge15951a">Enterobius vermicularis</h4>
-<div class="outline-text-4" id="text-orge15951a">
+<div id="outline-container-org1ca2272" class="outline-4">
+<h4 id="org1ca2272">Enterobius vermicularis</h4>
+<div class="outline-text-4" id="text-org1ca2272">
 <ul class="org-ul">
 <li>Human pinworm, Nematode, Humans are the only host</li>
 <li>Transmission :
@@ -3311,9 +3311,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-orgb3662ff" class="outline-4">
-<h4 id="orgb3662ff">Truchuris trichiura</h4>
-<div class="outline-text-4" id="text-orgb3662ff">
+<div id="outline-container-org077d7d7" class="outline-4">
+<h4 id="org077d7d7">Truchuris trichiura</h4>
+<div class="outline-text-4" id="text-org077d7d7">
 <ul class="org-ul">
 <li>Whipworm, Nematode</li>
 <li>Transmission :
@@ -3349,13 +3349,13 @@ L
 </div>
 </div>
 
-<div id="outline-container-org123d183" class="outline-2">
-<h2 id="org123d183">94. Trichinella spiralis.</h2>
-<div class="outline-text-2" id="text-org123d183">
+<div id="outline-container-org57acfe9" class="outline-2">
+<h2 id="org57acfe9">94. Trichinella spiralis.</h2>
+<div class="outline-text-2" id="text-org57acfe9">
 </div>
-<div id="outline-container-org09f319e" class="outline-4">
-<h4 id="org09f319e">Trichinella spiralis</h4>
-<div class="outline-text-4" id="text-org09f319e">
+<div id="outline-container-org7068ae0" class="outline-4">
+<h4 id="org7068ae0">Trichinella spiralis</h4>
+<div class="outline-text-4" id="text-org7068ae0">
 <ul class="org-ul">
 <li>Nematodes, biohelminths, females larger than males</li>
 <li>Transmission
@@ -3394,13 +3394,13 @@ L
 </div>
 </div>
 
-<div id="outline-container-orgb6dd909" class="outline-2">
-<h2 id="orgb6dd909">95. Ancylostoma duodenale. Strongyloides stercoralis.</h2>
-<div class="outline-text-2" id="text-orgb6dd909">
+<div id="outline-container-orgb8e3774" class="outline-2">
+<h2 id="orgb8e3774">95. Ancylostoma duodenale. Strongyloides stercoralis.</h2>
+<div class="outline-text-2" id="text-orgb8e3774">
 </div>
-<div id="outline-container-org74c4437" class="outline-4">
-<h4 id="org74c4437">Ancylostoma duodenale</h4>
-<div class="outline-text-4" id="text-org74c4437">
+<div id="outline-container-org1e0cfd2" class="outline-4">
+<h4 id="org1e0cfd2">Ancylostoma duodenale</h4>
+<div class="outline-text-4" id="text-org1e0cfd2">
 <ul class="org-ul">
 <li>Human hookwrom, nematode</li>
 <li>Transmission :
@@ -3436,9 +3436,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-orga0f55d9" class="outline-4">
-<h4 id="orga0f55d9">Strongyloides sterocalis</h4>
-<div class="outline-text-4" id="text-orga0f55d9">
+<div id="outline-container-org9c3b34d" class="outline-4">
+<h4 id="org9c3b34d">Strongyloides sterocalis</h4>
+<div class="outline-text-4" id="text-org9c3b34d">
 <ul class="org-ul">
 <li>Threadworm, nematode</li>
 <li>Transmission :
@@ -3481,13 +3481,13 @@ L
 </div>
 </div>
 
-<div id="outline-container-orgf7a197e" class="outline-2">
-<h2 id="orgf7a197e">96. Dracunculus medinensis. Filarial worms: Wuchereria bancrofti, Loa loa, Onchocerca volvulus.</h2>
-<div class="outline-text-2" id="text-orgf7a197e">
+<div id="outline-container-org4012408" class="outline-2">
+<h2 id="org4012408">96. Dracunculus medinensis. Filarial worms: Wuchereria bancrofti, Loa loa, Onchocerca volvulus.</h2>
+<div class="outline-text-2" id="text-org4012408">
 </div>
-<div id="outline-container-orgf83f953" class="outline-4">
-<h4 id="orgf83f953">Dracunculus medinensis</h4>
-<div class="outline-text-4" id="text-orgf83f953">
+<div id="outline-container-orgc908d6d" class="outline-4">
+<h4 id="orgc908d6d">Dracunculus medinensis</h4>
+<div class="outline-text-4" id="text-orgc908d6d">
 <ul class="org-ul">
 <li>Causes Dracunculiasis - Guinea worm disease</li>
 <li>Transmission :
@@ -3515,9 +3515,9 @@ L
 </div>
 </div>
 
-<div id="outline-container-orgcaedafa" class="outline-4">
-<h4 id="orgcaedafa">Wucheeria Bancrofti</h4>
-<div class="outline-text-4" id="text-orgcaedafa">
+<div id="outline-container-orga40a3ff" class="outline-4">
+<h4 id="orga40a3ff">Wucheeria Bancrofti</h4>
+<div class="outline-text-4" id="text-orga40a3ff">
 <ul class="org-ul">
 <li>Thread-like worm, Nematode, causes Lymphatic filariasis and Elephantiasis</li>
 <li>Transmission
@@ -3545,9 +3545,9 @@ L
 </div>
 </div>
 
-<div id="outline-container-orgee4ec70" class="outline-4">
-<h4 id="orgee4ec70">Loa loa</h4>
-<div class="outline-text-4" id="text-orgee4ec70">
+<div id="outline-container-orga564ba3" class="outline-4">
+<h4 id="orga564ba3">Loa loa</h4>
+<div class="outline-text-4" id="text-orga564ba3">
 <ul class="org-ul">
 <li>Filarial nematode, causes Loiasis</li>
 <li>Transmission
@@ -3576,9 +3576,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-orgaf40882" class="outline-4">
-<h4 id="orgaf40882">Onchocerca volvulus</h4>
-<div class="outline-text-4" id="text-orgaf40882">
+<div id="outline-container-org7fb815c" class="outline-4">
+<h4 id="org7fb815c">Onchocerca volvulus</h4>
+<div class="outline-text-4" id="text-org7fb815c">
 <p>
 +Onchocerciasis - River blindness
 </p>
@@ -3620,13 +3620,13 @@ L
 </div>
 </div>
 </div>
-<div id="outline-container-org3c8ea1e" class="outline-2">
-<h2 id="org3c8ea1e">97. Phylum Annelida: important evolutionary changes. Lumbricus terrestris. Hirudo medicinalis.</h2>
-<div class="outline-text-2" id="text-org3c8ea1e">
+<div id="outline-container-orgff1baac" class="outline-2">
+<h2 id="orgff1baac">97. Phylum Annelida: important evolutionary changes. Lumbricus terrestris. Hirudo medicinalis.</h2>
+<div class="outline-text-2" id="text-orgff1baac">
 </div>
-<div id="outline-container-org5c348c1" class="outline-4">
-<h4 id="org5c348c1">Phylum Annelida</h4>
-<div class="outline-text-4" id="text-org5c348c1">
+<div id="outline-container-org82de1bf" class="outline-4">
+<h4 id="org82de1bf">Phylum Annelida</h4>
+<div class="outline-text-4" id="text-org82de1bf">
 <p>
 +Segmented Worms - polychaete worms, oligochaetes worms and leeches
 </p>
@@ -3666,9 +3666,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-org6cd46b1" class="outline-4">
-<h4 id="org6cd46b1">Lumbrius terrestrisl</h4>
-<div class="outline-text-4" id="text-org6cd46b1">
+<div id="outline-container-org67d10ac" class="outline-4">
+<h4 id="org67d10ac">Lumbrius terrestrisl</h4>
+<div class="outline-text-4" id="text-org67d10ac">
 <ul class="org-ul">
 <li>Common earth worm</li>
 <li>Segmentation
@@ -3691,9 +3691,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-org6875e1a" class="outline-4">
-<h4 id="org6875e1a">Hirudo Medicinalis</h4>
-<div class="outline-text-4" id="text-org6875e1a">
+<div id="outline-container-org0fe598b" class="outline-4">
+<h4 id="org0fe598b">Hirudo Medicinalis</h4>
+<div class="outline-text-4" id="text-org0fe598b">
 <ul class="org-ul">
 <li>European medicinal leech</li>
 <li>Leech saliva contains about 100 pharmacologically active substances
@@ -3710,13 +3710,13 @@ L
 
 
 
-<div id="outline-container-orgdbccaba" class="outline-2">
-<h2 id="orgdbccaba">98. Phylum Arthropoda: important evolutionary changes. Class Crustacea: general characterization.Class Arachnida. Orders Scorpiones and Araneae.</h2>
-<div class="outline-text-2" id="text-orgdbccaba">
+<div id="outline-container-orge386c28" class="outline-2">
+<h2 id="orge386c28">98. Phylum Arthropoda: important evolutionary changes. Class Crustacea: general characterization.Class Arachnida. Orders Scorpiones and Araneae.</h2>
+<div class="outline-text-2" id="text-orge386c28">
 </div>
-<div id="outline-container-orgeba3a6c" class="outline-4">
-<h4 id="orgeba3a6c">Phylum Arthropoda</h4>
-<div class="outline-text-4" id="text-orgeba3a6c">
+<div id="outline-container-orgef2a9f2" class="outline-4">
+<h4 id="orgef2a9f2">Phylum Arthropoda</h4>
+<div class="outline-text-4" id="text-orgef2a9f2">
 <ul class="org-ul">
 <li>Segmented body
 <ul class="org-ul">
@@ -3738,9 +3738,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-org7cbea01" class="outline-4">
-<h4 id="org7cbea01">Class Crustacea</h4>
-<div class="outline-text-4" id="text-org7cbea01">
+<div id="outline-container-org06157f0" class="outline-4">
+<h4 id="org06157f0">Class Crustacea</h4>
+<div class="outline-text-4" id="text-org06157f0">
 <ul class="org-ul">
 <li>Lobsters, crabs, shrips</li>
 <li>Most crustaceans are aquatic, the majority are marine</li>
@@ -3760,8 +3760,8 @@ L
 </ul>
 </div>
 <ul class="org-ul">
-<li><a id="org6b95c54"></a>Genus Cyclops<br />
-<div class="outline-text-5" id="text-org6b95c54">
+<li><a id="orgb145999"></a>Genus Cyclops<br />
+<div class="outline-text-5" id="text-orgb145999">
 <ul class="org-ul">
 <li>Water copepods</li>
 <li>Intermediate host of Dracunculus and Diphylloborthrium</li>
@@ -3770,9 +3770,9 @@ L
 </li>
 </ul>
 </div>
-<div id="outline-container-org48d5ddb" class="outline-4">
-<h4 id="org48d5ddb">Class Arachnida</h4>
-<div class="outline-text-4" id="text-org48d5ddb">
+<div id="outline-container-org17f3de1" class="outline-4">
+<h4 id="org17f3de1">Class Arachnida</h4>
+<div class="outline-text-4" id="text-org17f3de1">
 <ul class="org-ul">
 <li>Includes spiders, scorpions, harvestman and ticks</li>
 <li>All arachnids have <b><b>8 legs</b></b></li>
@@ -3780,9 +3780,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-orgba1b1f7" class="outline-4">
-<h4 id="orgba1b1f7">Order Arenae</h4>
-<div class="outline-text-4" id="text-orgba1b1f7">
+<div id="outline-container-org50cb9fb" class="outline-4">
+<h4 id="org50cb9fb">Order Arenae</h4>
+<div class="outline-text-4" id="text-org50cb9fb">
 <ul class="org-ul">
 <li>Spiders</li>
 <li>Air breathing arthropods that have 8 legs and fangs that inject venom</li>
@@ -3808,9 +3808,9 @@ L
 </div>
 </div>
 
-<div id="outline-container-org686eb9f" class="outline-4">
-<h4 id="org686eb9f">Order Scorpiones</h4>
-<div class="outline-text-4" id="text-org686eb9f">
+<div id="outline-container-org2465050" class="outline-4">
+<h4 id="org2465050">Order Scorpiones</h4>
+<div class="outline-text-4" id="text-org2465050">
 <ul class="org-ul">
 <li>Scorpions have large pedipalps which end in a chela (hand or pincer)</li>
 <li>5 segmented metasoma(tail) that bears a stinger</li>
@@ -3827,9 +3827,9 @@ L
 </div>
 </div>
 </div>
-<div id="outline-container-orge127b2e" class="outline-2">
-<h2 id="orge127b2e">99. Order Acari. Medical importance of ticks and mites.</h2>
-<div class="outline-text-2" id="text-orge127b2e">
+<div id="outline-container-org23b65a7" class="outline-2">
+<h2 id="org23b65a7">99. Order Acari. Medical importance of ticks and mites.</h2>
+<div class="outline-text-2" id="text-org23b65a7">
 <ul class="org-ul">
 <li>Class of Arachnids</li>
 <li>Contains mites and ticks</li>
@@ -3866,13 +3866,13 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-orgff72475" class="outline-2">
-<h2 id="orgff72475">100. Class Insecta. The role of insects as vectors and mechanical carriers.</h2>
-<div class="outline-text-2" id="text-orgff72475">
+<div id="outline-container-orga621a89" class="outline-2">
+<h2 id="orga621a89">100. Class Insecta. The role of insects as vectors and mechanical carriers.</h2>
+<div class="outline-text-2" id="text-orga621a89">
 </div>
-<div id="outline-container-org88a4a03" class="outline-4">
-<h4 id="org88a4a03">Class Insecta</h4>
-<div class="outline-text-4" id="text-org88a4a03">
+<div id="outline-container-org1971bc7" class="outline-4">
+<h4 id="org1971bc7">Class Insecta</h4>
+<div class="outline-text-4" id="text-org1971bc7">
 <ul class="org-ul">
 <li>Composed of
 <ul class="org-ul">
@@ -3921,13 +3921,13 @@ L
 </div>
 </div>
 </div>
-<div id="outline-container-org4a8aff2" class="outline-2">
-<h2 id="org4a8aff2">101. Pediculus humanus. Phthirius pubis. Cimex lectularius. Pulex irritans.</h2>
-<div class="outline-text-2" id="text-org4a8aff2">
+<div id="outline-container-org4f235a7" class="outline-2">
+<h2 id="org4f235a7">101. Pediculus humanus. Phthirius pubis. Cimex lectularius. Pulex irritans.</h2>
+<div class="outline-text-2" id="text-org4f235a7">
 </div>
-<div id="outline-container-org45198bc" class="outline-4">
-<h4 id="org45198bc">Pediculus humanus</h4>
-<div class="outline-text-4" id="text-org45198bc">
+<div id="outline-container-org5058d1d" class="outline-4">
+<h4 id="org5058d1d">Pediculus humanus</h4>
+<div class="outline-text-4" id="text-org5058d1d">
 <ul class="org-ul">
 <li>Head louse, does NOT transmist infection, usually refers to Pediculus vestimeti(body louse) as well</li>
 <li>Lice are obligate, permanent parasites of humans</li>
@@ -3951,9 +3951,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-orga069669" class="outline-4">
-<h4 id="orga069669">Phthirius pubis</h4>
-<div class="outline-text-4" id="text-orga069669">
+<div id="outline-container-org7b65c8d" class="outline-4">
+<h4 id="org7b65c8d">Phthirius pubis</h4>
+<div class="outline-text-4" id="text-org7b65c8d">
 <ul class="org-ul">
 <li>The 'Crab Louse', also known as the pubic louse</li>
 <li>Obligate ectoparasite of humans</li>
@@ -3962,9 +3962,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc5fa149" class="outline-4">
-<h4 id="orgc5fa149">Cimex Lectularius</h4>
-<div class="outline-text-4" id="text-orgc5fa149">
+<div id="outline-container-orgd706a1c" class="outline-4">
+<h4 id="orgd706a1c">Cimex Lectularius</h4>
+<div class="outline-text-4" id="text-orgd706a1c">
 <ul class="org-ul">
 <li>Bed Bug</li>
 <li>Blood feeding parasites of humans and domesticated animals</li>
@@ -3974,9 +3974,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-org1921e56" class="outline-4">
-<h4 id="org1921e56">Pulex irritans</h4>
-<div class="outline-text-4" id="text-org1921e56">
+<div id="outline-container-org896569a" class="outline-4">
+<h4 id="org896569a">Pulex irritans</h4>
+<div class="outline-text-4" id="text-org896569a">
 <ul class="org-ul">
 <li>Human flea, prefers human blood, but will feed on other animals</li>
 <li>Has big legs relative to its size, giving it extensive jumping abilities</li>
@@ -3996,13 +3996,13 @@ L
 </div>
 </div>
 </div>
-<div id="outline-container-org1c27784" class="outline-2">
-<h2 id="org1c27784">102. Genus Culex and genus Anopheles: morphological differences. Phlebotomus papatasii.</h2>
-<div class="outline-text-2" id="text-org1c27784">
+<div id="outline-container-orgffb4d6b" class="outline-2">
+<h2 id="orgffb4d6b">102. Genus Culex and genus Anopheles: morphological differences. Phlebotomus papatasii.</h2>
+<div class="outline-text-2" id="text-orgffb4d6b">
 </div>
-<div id="outline-container-org8e7663c" class="outline-4">
-<h4 id="org8e7663c">Genus Culex and Genus Anopheles</h4>
-<div class="outline-text-4" id="text-org8e7663c">
+<div id="outline-container-orga17a29c" class="outline-4">
+<h4 id="orga17a29c">Genus Culex and Genus Anopheles</h4>
+<div class="outline-text-4" id="text-orga17a29c">
 <ul class="org-ul">
 <li>Mosquitos</li>
 <li>Life cycle
@@ -4020,9 +4020,9 @@ L
 </ul>
 </div>
 </div>
-<div id="outline-container-org7c31b29" class="outline-4">
-<h4 id="org7c31b29">Phlebotomus papatsii</h4>
-<div class="outline-text-4" id="text-org7c31b29">
+<div id="outline-container-orgdc388fc" class="outline-4">
+<h4 id="orgdc388fc">Phlebotomus papatsii</h4>
+<div class="outline-text-4" id="text-orgdc388fc">
 <ul class="org-ul">
 <li>Vector of visceral leishmaniasis</li>
 <li>Sandfly</li>
@@ -4039,9 +4039,9 @@ L
 </div>
 </div>
 </div>
-<div id="outline-container-org0d8839b" class="outline-2">
-<h2 id="org0d8839b">103. Overview of parasitism.parasitism</h2>
-<div class="outline-text-2" id="text-org0d8839b">
+<div id="outline-container-orga2cd826" class="outline-2">
+<h2 id="orga2cd826">103. Overview of parasitism.parasitism</h2>
+<div class="outline-text-2" id="text-orga2cd826">
 <ul class="org-ul">
 <li>Commensalism
 <ul class="org-ul">
@@ -4062,8 +4062,8 @@ L
 </ul>
 </div>
 <ul class="org-ul">
-<li><a id="org2050ab6"></a>Main characteristics of Parasites<br />
-<div class="outline-text-5" id="text-org2050ab6">
+<li><a id="orgdc8c414"></a>Main characteristics of Parasites<br />
+<div class="outline-text-5" id="text-orgdc8c414">
 <ul class="org-ul">
 <li>smaller than their host</li>
 <li>high degree of specialization</li>
@@ -4073,8 +4073,8 @@ L
 </div>
 </li>
 
-<li><a id="orgfe9102b"></a>Types of Parasites<br />
-<div class="outline-text-5" id="text-orgfe9102b">
+<li><a id="org2c691da"></a>Types of Parasites<br />
+<div class="outline-text-5" id="text-org2c691da">
 <ul class="org-ul">
 <li>Ectoparasites
 <ul class="org-ul">
@@ -4087,8 +4087,8 @@ L
 </ul>
 </div>
 </li>
-<li><a id="orged63925"></a>Hosts<br />
-<div class="outline-text-5" id="text-orged63925">
+<li><a id="orgda11640"></a>Hosts<br />
+<div class="outline-text-5" id="text-orgda11640">
 <ul class="org-ul">
 <li>Definitive - Primary host
 <ul class="org-ul">
