@@ -1,5 +1,6 @@
 #+TITLE: thanosapollo.github.io
-#+SETUPFILE: ~/Developer/thanosapollo/themes/org/theme-bigblow-local.setup
+#+SETUPFILE: ../themes/org/theme-bigblow-local.setup
+#+export_file_name: ../index.html
 
 * Blog
 ** My experience with guix
@@ -17,5 +18,5 @@ themes inspired by [[https://github.com/fniessen/org-html-themes][org-html-theme
 
 * Medicine
 ** Notes according to MUS syllabus 
-+ [[file:./public/Microbiology.html][Microbiology]] 2022
++ [[file:Microbiology.html][Microbiology]] 2022
 
