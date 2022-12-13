@@ -131,11 +131,11 @@ body {
 }
 
 b {
-    color: #000000;
+    color: var(--fg);
 }
 
 i {
-    color: #1A1A1A;
+    color: var(--fg);
 }
 
 h1, ul#tabs, h2, h3, h4, h5 {
