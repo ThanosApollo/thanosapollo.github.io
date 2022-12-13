@@ -1,8 +1,8 @@
-#+TITLE: thanosapollo.github.io
+#+TITLE: thanosapollo.com
 #+SETUPFILE: ../themes/org/theme-bigblow-local.setup
 
 * Blog
-** Building a website with org
+** Generating static websites with org-mode
 /I'm using this personal website to learn how to automate the process of building a website using org-mode./
 
 Currently I'm using [[https://github.com/fniessen/org-html-themes][org-html-themes]] with modified css, styled using dracula theme palette, along with a build script inspired by the [[https://github.com/SystemCrafters/wiki-site][system crafters wiki]]. My goal is to improve this format, and use it to make a wiki page for my university, hosting our notes/documentation of our medical subjects, similarly to the way I do in the *Medicine* section, for this purpose I'll try to keep this format/styling as simple as possible.
@@ -15,7 +15,8 @@ I'm a GNU/Linux enthusiast, fascinated by the free and open source tech communit
 
 ** About this site
 Source code available at [[https://github.com/ThanosApollo/thanosapollo.github.io][github]]
-themes inspired by [[https://github.com/fniessen/org-html-themes][org-html-themes]]
+
+/themes inspired by [[https://github.com/fniessen/org-html-themes][org-html-themes]]/
 
 * Medicine
 
