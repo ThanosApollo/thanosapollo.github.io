@@ -17,5 +17,5 @@ themes inspired by [[https://github.com/fniessen/org-html-themes][org-html-theme
 
 * Medicine
 ** Notes according to MUS syllabus 
-+ [[file:/public/Microbiology.html][Microbiology]] 2022
++ [[file:./public/Microbiology.html][Microbiology]] 2022
 
