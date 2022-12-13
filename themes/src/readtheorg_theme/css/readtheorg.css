@@ -33,12 +33,12 @@ h1{
 }
 
 h2{
-    color:var(--cyan);
+    color:var(--green);
     font-size:150%;
 }
 
 h3{
-    color: var(--orange);
+    color: var(--cyan);
     font-size:125%;
 }
 
@@ -777,7 +777,7 @@ hr{
     display:block;
     position:relative;
     font-size:100%;
-    color:var(--orange);
+    color:var(--green);
     direction: ltr;
 }
 
@@ -830,7 +830,7 @@ li.active>a {
 }
 
 ul.nav>li.active a {
-    color: var(--fg) !important;
+    color: var(--cyan) !important;
 }
 
 ul.nav>li.active li.active {
