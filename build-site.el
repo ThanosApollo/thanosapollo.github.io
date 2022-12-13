@@ -32,7 +32,7 @@
 	     :base-directory "./content"
 	     :publishing-directory "./public"
 	     :publishing-function 'org-html-publish-to-html
-	     :with-author nil
+	     :with-author t
 	     :with-creator t
 	     :with-toc t
 	     :section-numbers nil
