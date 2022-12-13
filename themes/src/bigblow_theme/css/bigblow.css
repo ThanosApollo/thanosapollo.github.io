@@ -124,7 +124,7 @@ html, body {
 
 body {
     color: var(--fg);
-    font: 13px/1.385 arial,helvetica,clean,sans-serif;
+    font: 15px/1.385 arial,helvetica,clean,sans-serif;
     margin: 0 .1em;
     padding: 0;
     background-color: var(--bg)
@@ -162,19 +162,19 @@ h3, h4, h5, h6 {
 
 h3 {
     border-bottom: 1px solid var(--cyan);
-    font-size: 15px;
-    margin-left: 25px;
+    font-size: 20px;
+    margin-left: 20px;
 }
 
 h4 {
     border-bottom: 1px dotted var(--cyan);
     font-size: 14px;
-    margin-left: 60px;
+    margin-left: 30px;
 }
 
 h5 {
     font-size: 1em;
-    margin-left: 87px;
+    margin-left: 35px;
 }
 
 h6 {
@@ -198,7 +198,7 @@ h6 {
 .outline-text-2, .outline-text-3, .outline-text-4, .outline-text-5,
 .outline-3 > ul, /* for HTML export of Beamer slides */
 .outline-4 > ol, #text-footnotes {
-    margin-left: 100px;
+    margin-left: 50px;
 }
 
 li > .outline-text-5 {
