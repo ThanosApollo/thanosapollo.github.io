@@ -39,13 +39,13 @@ $(function() {
     }
 });
 
-$(function() {
-    $('<div id="minitoc" class="dontprint"></div>').prependTo('body');
-});
+// $(function() {
+//     $('<div id="minitoc" class="dontprint"></div>').prependTo('body');
+// });
 
 // generate contents of minitoc
 function generateMiniToc(divId) {
-    $('#minitoc').empty().append('<h2>In this section</h2>');
+//    $('#minitoc').empty().append('<h2>In this section</h2>');
     $('#' + divId).find('h3').each(function(i) {
         let pos = $(this).text().search(" ");
         let text = $(this).text().substring(0, pos);
@@ -306,8 +306,8 @@ function togglePanel(e) {
 }
 
 $(function() {
-    $('<div id="left-panel-wrapper" class="dontprint"><div id="left-panel-contents" style="opacity: 0.9"></div><div id="left-panel-button" class="dontprint"><a href="#">Dashboard</a></div></div>')
-        .appendTo('body');
+    // $('<div id="left-panel-wrapper" class="dontprint"><div id="left-panel-contents" style="opacity: 0.9"></div><div id="left-panel-button" class="dontprint"><a href="#">Dashboard</a></div></div>')
+//        .appendTo('body');
 
     $('<div id="right-panel-wrapper" class="dontprint"><div id="right-panel-contents" style="opacity: 0.9"></div></div>')
         .appendTo('body');
