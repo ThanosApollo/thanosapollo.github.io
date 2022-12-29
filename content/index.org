@@ -1,5 +1,7 @@
-#+TITLE: thanosapollo.com
+#+TITLE: Thanos Apollo
 #+SETUPFILE: ../themes/org/theme-bigblow-local.setup
+
+Personal website, used for blogging and showcasing projects
 
 * Blog
 ** Generating static websites with org-mode
