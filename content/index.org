@@ -18,8 +18,18 @@ Source code available at [[https://github.com/ThanosApollo/thanosapollo.github.i
 
 /themes inspired by [[https://github.com/fniessen/org-html-themes][org-html-themes]]/
 
-* Medicine
+* Projects
+** MUS-Wiki
+MUS-Wiki is a web project I've created similar to this website, aimed *to host notes relating to medical subjects based on Medical University of Sofia syllabus* as well as relative useful information.
 
-** My medical notes, according to MUS syllabus 
-+ [[file:Microbiology.html][Microbiology]] 2022
+The project is meant to create a website based on .org files, along with custom themes using javascript and css. The process should be simple, and easy for my colleagues to use.
+
+/Project is under development, hosted on [[https://codeberg.org/mus-wiki/pages][codeberg]], check the project's [[https://mus-wiki.codeberg.page/public/][website]]/
+
+
+** MUS-Robot
+A simple telegram bot that provides the contact information of MUS departments.
+[[https://github.com/ThanosApollo/MUS-Robot][source code]]
+
+
 
