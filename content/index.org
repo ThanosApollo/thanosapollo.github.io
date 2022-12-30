@@ -3,6 +3,7 @@
 
 Personal website, used for blogging and showcasing projects
 
+Source code available at [[https://codeberg.org/ThanosApollo/pages][codeberg]]
 * Blog
 ** Generating static websites with org-mode
 /I'm using this personal website to learn how to automate the process of building a website using org-mode./
@@ -31,7 +32,6 @@ I'm originating from Athens, Greece. Currently studying medicine in the Medical 
 
 I'm a GNU/Linux enthusiast, fascinated by the free and open source tech community. My goal is to bring parts of the hacker culture into the medical field
 
-** About this site
-Source code available at [[https://codeberg.org/ThanosApollo/pages][codeberg]]
+
 
 
