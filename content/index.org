@@ -5,7 +5,7 @@ Personal website, used for blogging and showcasing projects
 
 * About
 ** About me
-[[./pictures/profile.jpg]]
+[[../pictures/profile.jpg]]
 
 I'm originating from Athens, Greece. Currently studying medicine in the Medical University Of Sofia.
 
