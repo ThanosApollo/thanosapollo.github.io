@@ -3,20 +3,22 @@
 
 Personal website, used for blogging and showcasing projects
 
-* Blog
-** Generating static websites with org-mode
-/I'm using this personal website to learn how to automate the process of building a website using org-mode./
-
-Currently I'm using [[https://github.com/fniessen/org-html-themes][org-html-themes]] with modified css, styled using dracula theme palette, along with a build script inspired by the [[https://github.com/SystemCrafters/wiki-site][system crafters wiki]]. My goal is to improve this format, and use it to make a wiki page for my university, hosting our notes/documentation of our medical subjects, similarly to the way I do in the *Medicine* section, for this purpose I'll try to keep this format/styling as simple as possible.
-
 * About
 ** About me
+[[./pictures/profile.jpg]]
+
 I'm originating from Athens, Greece. Currently studying medicine in the Medical University Of Sofia.
 
 I'm a GNU/Linux enthusiast, fascinated by the free and open source tech community. My goal is to bring parts of the hacker culture into the medical field
 
 ** About this site
 Source code available at [[https://codeberg.org/ThanosApollo/pages][codeberg]]
+
+* Blog
+** Generating static websites with org-mode
+/I'm using this personal website to learn how to automate the process of building a website using org-mode./
+
+Currently I'm using [[https://github.com/fniessen/org-html-themes][org-html-themes]] with modified css, styled using dracula theme palette, along with a build script inspired by the [[https://github.com/SystemCrafters/wiki-site][system crafters wiki]]. My goal is to improve this format, and use it to make a wiki page for my university, hosting our notes/documentation of our medical subjects, similarly to the way I do in the *Medicine* section, for this purpose I'll try to keep this format/styling as simple as possible.
 
 
 * Projects
