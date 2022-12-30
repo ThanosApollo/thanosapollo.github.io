@@ -124,7 +124,7 @@ html, body {
 
 body {
     color: var(--fg);
-    font: 15px/1.385 arial,helvetica,clean,sans-serif;
+    font: 18px/1.385 arial,helvetica,clean,sans-serif;
     margin: 0 .1em;
     padding: 0;
     background-color: var(--bg)
@@ -154,7 +154,7 @@ h1 {
 h2 {
     border-bottom: 4px solid var(--green);
     color: var(--purple);
-    font-size: 25px;
+    font-size: 28px;
 }
 
 h3, h4, h5, h6 {
@@ -163,7 +163,7 @@ h3, h4, h5, h6 {
 
 h3 {
     border-bottom: 1px solid var(--cyan);
-    font-size: 20px;
+    font-size: 23px;
     margin-left: 20px;
 }
 
