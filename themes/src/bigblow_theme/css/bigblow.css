@@ -124,7 +124,7 @@ html, body {
 
 body {
     color: var(--fg);
-    font: 18px/1.385 arial,helvetica,clean,sans-serif;
+    font: 17px/1.385 arial,helvetica,clean,sans-serif;
     margin: 0 .1em;
     padding: 0;
     background-color: var(--bg)
