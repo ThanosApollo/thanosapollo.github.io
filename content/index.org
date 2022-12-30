@@ -16,9 +16,8 @@ I'm originating from Athens, Greece. Currently studying medicine in the Medical 
 I'm a GNU/Linux enthusiast, fascinated by the free and open source tech community. My goal is to bring parts of the hacker culture into the medical field
 
 ** About this site
-Source code available at [[https://github.com/ThanosApollo/thanosapollo.github.io][github]]
+Source code available at [[https://codeberg.org/ThanosApollo/pages][codeberg]]
 
-/themes inspired by [[https://github.com/fniessen/org-html-themes][org-html-themes]]/
 
 * Projects
 ** MUS-Wiki
