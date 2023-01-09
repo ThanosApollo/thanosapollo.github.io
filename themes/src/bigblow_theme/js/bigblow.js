@@ -43,7 +43,7 @@ $(function() {
 //     $('<div id="minitoc" class="dontprint"></div>').prependTo('body');
 // });
 
-// generate contents of minitoc
+//generate contents of minitoc
 function generateMiniToc(divId) {
 //    $('#minitoc').empty().append('<h2>In this section</h2>');
     $('#' + divId).find('h3').each(function(i) {
@@ -52,7 +52,7 @@ function generateMiniToc(divId) {
         $("#minitoc").append("<a href='#" + $(this).attr("id") + "'>"
                              + text + "</a>");
     });
-    // Ensure that the target is expanded (hideShow)
+//    Ensure that the target is expanded (hideShow)
     $('#minitoc a[href^="#"]').click(function() {
         var href = $(this).attr('href');
         hsExpandAnchor(href);
@@ -306,7 +306,7 @@ function togglePanel(e) {
 }
 
 $(function() {
-    // $('<div id="left-panel-wrapper" class="dontprint"><div id="left-panel-contents" style="opacity: 0.9"></div><div id="left-panel-button" class="dontprint"><a href="#">Dashboard</a></div></div>')
+//    $('<div id="left-panel-wrapper" class="dontprint"><div id="left-panel-contents" style="opacity: 0.9"></div><div id="left-panel-button" class="dontprint"><a href="#">Dashboard</a></div></div>')
 //        .appendTo('body');
 
     $('<div id="right-panel-wrapper" class="dontprint"><div id="right-panel-contents" style="opacity: 0.9"></div></div>')

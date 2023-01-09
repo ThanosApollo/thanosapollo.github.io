@@ -41,6 +41,16 @@ html, body {
     .dontprint {
         display: none;
     }
+    footer {
+	display: none;
+	position: fixed;
+	bottom: 0;
+    }
+    header {
+	display: none;
+	position: fixed;
+	top: 0;
+    }
 }
 
 #preamble {
@@ -81,7 +91,7 @@ html, body {
         #tabs li a {
             color: var(--fg);
             display: block;
-            font-size: 19px;
+            font-size: 15px;
             font-weight: bold;
             margin: 0;
             padding: 4px 10px 4px 10px;
@@ -124,7 +134,7 @@ html, body {
 
 body {
     color: var(--fg);
-    font: 17px/1.385 arial,helvetica,clean,sans-serif;
+    font: 15px/1.385 arial,helvetica,clean,sans-serif;
     margin: 0 .1em;
     padding: 0;
     background-color: var(--bg)
@@ -148,13 +158,12 @@ h1 {
     font-size: 30px;
     margin: 0;
     padding: 9px 0px 0px 10px;
-    text-align: center;
 }
 
 h2 {
     border-bottom: 4px solid var(--green);
     color: var(--purple);
-    font-size: 28px;
+    font-size: 25px;
 }
 
 h3, h4, h5, h6 {
@@ -163,7 +172,7 @@ h3, h4, h5, h6 {
 
 h3 {
     border-bottom: 1px solid var(--cyan);
-    font-size: 23px;
+    font-size: 20px;
     margin-left: 20px;
 }
 
@@ -340,7 +349,10 @@ caption {
 }
 
 img {
-    height: 225px;    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 
 .figure {
@@ -587,7 +599,7 @@ span.todo .selected {
     padding: 4px;
     margin: 4px;
     max-width: 400px;
-    float: center;
+    float: right;
     width: auto;
 }
 
