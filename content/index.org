@@ -12,7 +12,7 @@ Currently I'm using [[https://github.com/fniessen/org-html-themes][org-html-them
 
 
 * Projects
-** MUSPenguis
+** MUSPenguins
 A web project I've created similar to this website, aimed *to host notes relating to medical subjects based on Medical University of Sofia syllabus* as well as useful relative information.
 
 /Project is under development, check the project's [[https://muspenguins.codeberg.page][website]]/
