@@ -12,12 +12,10 @@ Currently I'm using [[https://github.com/fniessen/org-html-themes][org-html-them
 
 
 * Projects
-** MUS-Wiki
-MUS-Wiki is a web project I've created similar to this website, aimed *to host notes relating to medical subjects based on Medical University of Sofia syllabus* as well as relative useful information.
+** MUSPenguis
+A web project I've created similar to this website, aimed *to host notes relating to medical subjects based on Medical University of Sofia syllabus* as well as useful relative information.
 
-The project is meant to create a website based on .org files, along with custom themes using javascript and css. The process should be simple, and easy for my colleagues to use.
-
-/Project is under development, hosted on [[https://codeberg.org/mus-wiki/pages][codeberg]], check the project's [[https://mus-wiki.codeberg.page/public/][website]]/
+/Project is under development, check the project's [[https://muspenguins.codeberg.page][website]]/
 
 
 ** MUS-Robot
