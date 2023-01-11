@@ -1,0 +1,40 @@
+#+TITLE: Generating static websites with org-mode
+#+export_file_name: ../public/gen_org_web.html
+#+SETUPFILE: ../themes/org/theme-readtheorg-local.setup
+#+EMAIL: apollothanosmd@gmail.com
+#+OPTIONS: creator:t author:t date:nil timestamp:nil email:nil num:nil
+
+* [[file:index.html][Home Page]]
+* What is org-mode?
+
+*Org mode is an organizational tool for GNU Emacs, a text editor.*
+It provides a simple and fast way to organize notes, project planning, and authoring in a plain text file.
++ It supports various features such as to-do lists, deadlines, and schedules, as well as the ability to embed code and other forms of content within the text file.
++ *Org mode also has the ability to export files to a number of different formats, including HTML, LaTeX, and PDF.*
++ It is often used for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system./
+
+We can utilize the ability of org mode to generate HTML files to build static websites, such as the one you are seeing right now. 
+* Why use org mode?
+If you are already is required to do a lot of note-taking/text-editing, using org-mode and emacs to create your content is probably the best option, especially if you are planning on sharing them with your colleagues in different formats. Org-mode is a versatile tool that can be used to generate static websites because it provides a number of features that make it well-suited for this task:
++ One of the main reasons I'm *personally* using org-mode, is due to my love of emacs(which I should make a different blog post about) and the ability to create my notes as an org file, and then export it in various formats and share it with my colleagues. 
++ org-mode is an /outline-based editor/, which makes it easy to organize and structure the content of a website. This allows users to quickly create and edit the headings, subheadings, and sections of a website, and to organize the content in a hierarchical fashion.
++ org-mode provides *built-in support for rich text formatting*, which allows users to easily format the text, images, and other elements of a website. This includes support for headings, lists, tables, and links, as well as the ability to apply custom styles and formatting.
++ org-mode provides a number of export options, which allows users to convert their org-mode files into a variety of formats, such as HTML, LaTeX, and PDF. This makes it easy to generate a static website, since org-mode can be used to create the content and structure of the site, and then export it to HTML.
++ org-mode provides the ability to embed source code and results, which make it well-suited to generate websites with dynamic contents. This can be useful to include interactive elements in the website or to build a website using a static site generator that is embedded in org-mode file.
++ org-mode's extensibility and popularity make it easy to find tools and resources for generating websites with org-mode. There are many packages and tutorials available for creating and publishing websites with org-mode.
+
+In summary, org-mode is a great tool for creating static websites because of its powerful outlining capabilities, rich formatting options, and the ease of exporting to multiple formats, including HTML. It also provides the ability to embed code, making it more powerful than simple Markdown or plain text. And finally it's popularity makes it a well supported tool for generating websites.
+* How to create a website with org
+There are several ways to create a website with org-mode, but one of the most popular ways is to use the built-in export functionality to convert org-mode files into HTML files, which can then be served as a static website. Here are the general steps to create a website with org-mode:
++ *Install and configure emacs and org-mode*: In order to use org-mode, you will need to have the emacs text editor installed on your computer. You can then install the org-mode package, which will provide the necessary functionality for creating and exporting org-mode files. To better understand emacs I recommend watching [[https://www.youtube.com/watch?v=74zOY-vgkyw&list=PLEoMzSkcN8oPH1au7H6B7bBJ4ZO7BXjSZ][Emacs From Scratch]] series from [[https://www.youtube.com/@SystemCrafters][SystemCrafters]] youtube channel. 
++ Create an org-mode file: Use emacs to create a new file and save it with the .org file extension. This file will contain the content and structure of your website. 
++ Add content and structure to your org-mode file: Use org-mode's outlining and formatting features to create the headings, subheadings, and sections of your website, and to add text, images, and other elements.
++ Export your org-mode file to HTML: Once you have added content and structure to your org-mode file, you can use org-mode's built-in export functionality to convert it to an HTML file. You can either export the whole file or specific parts of it.
++ Publish your website: After exporting the org-mode file to HTML, you can use a web server or a static site hosting service to serve the HTML files such as Codeberg or Github.
+
+I prefer creating my websites using my own [[https://codeberg.org/ThanosApollo/org-web-themes][org-web-themes]] /a fork of [[https://github.com/fniessen/org-html-themes][org-html-themes]]/
+
+
+
+
+
