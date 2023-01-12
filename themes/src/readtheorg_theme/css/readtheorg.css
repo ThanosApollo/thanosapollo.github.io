@@ -330,10 +330,10 @@ code{
     margin-bottom:24px}
 
 .codeblock,pre.src,#content .literal-block{
-    border:1px solid #e1e4e5;
+    border:1px solid var(--cur);
     padding:12px;
     overflow-x:auto;
-    background:#fff;
+    background:var(--bg);
     margin:1px 0 24px 0}
 
 pre.src{
