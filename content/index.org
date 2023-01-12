@@ -1,7 +1,6 @@
 #+TITLE: Thanos Apollo
 #+export_file_name: ../public/index.html
 #+SETUPFILE: ../themes/org/theme-bigblow-local.setup
-#+EMAIL: apollothanosmd@gmail.com
 #+OPTIONS: creator:t author:nil date:nil timestamp:nil email:t num:nil
 
 Personal Website
