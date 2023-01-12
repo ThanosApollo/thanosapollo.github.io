@@ -21,9 +21,15 @@ This blog post is my first attempt in using org-mode to create a website, I'm go
 #+ATTR_HTML: :width 200px :height 200px
 [[../pictures/profile.jpg]]
 
-Hey there! My name is Thanos Apollo, a Greek medical student currently studying at the Medical University of Sofia. I've always had a love for medicine and technology, and that's why I am interested in the free and open-source movement and GNU/Linux.
- I want to learn as much as I can about the benefits and potential of free and open-source software in healthcare and medicine, and how they can be utilized to improve the field. I believe that with my background in medicine and passion for open-source, I can make a real difference in the field of healthcare technology.
- My goal is to continuously progress in my knowledge and expertise in the field and hope that my contributions will make a real difference in the future.
+/Hey there!/
+
+My name is Thanos Apollo, a Greek medical student currently studying at the Medical University of Sofia. I've always had a love for medicine and technology, and that's why I am interested in the free and open-source movement and GNU/Linux.
+
+In my free time, I am also interested in sports, especially in boxing. I enjoy staying active and fit, and I find that boxing helps me both physically and mentally. Staying physically and mentally fit is important to me.
+
+I want to learn as much as I can about the benefits and potential of free and open-source software in healthcare and medicine, and how they can be utilized to improve the field. I believe that with my background in medicine and passion for open-source, I can make a real difference in the field of healthcare technology.
+
+My goal is to continuously progress in my knowledge and expertise in the field and hope that my contributions will make a real difference in the future.
 
 You can find some of my projects on:
 + [[https://codeberg.org/ThanosApollo][Codeberg]]
