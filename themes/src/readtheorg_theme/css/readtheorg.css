@@ -330,11 +330,12 @@ code{
     margin-bottom:24px}
 
 .codeblock,pre.src,#content .literal-block{
-    border:1px solid var(--cur);
+    border:1px solid var(--comm);
     padding:12px;
     overflow-x:auto;
     background:var(--bg);
-    margin:1px 0 24px 0}
+    color: var(--fg);
+    margin:1px 0 24px 0;}
 
 pre.src{
     /* color:#404040; */
