@@ -33,7 +33,95 @@ There are several ways to create a website with org-mode, but one of the most po
 + Publish your website: After exporting the org-mode file to HTML, you can use a web server or a static site hosting service to serve the HTML files such as Codeberg or Github.
 
 I prefer creating my websites using my own [[https://codeberg.org/ThanosApollo/org-web-themes][org-web-themes]] /a fork of [[https://github.com/fniessen/org-html-themes][org-html-themes]]/
+* How I configure org
+/In this section we won't touch org-babel, we are just creating a basic, anesthetically pleasing setup to work with/
+** Basic setup
+#+begin_src emacs-lisp
+(defun apollo/org-mode-setup ()
+  "Defining your org-mode setup. This will be hooked with org."
+  (org-indent-mode t)
+  ;;here we define our org-theme
+  (apollo/org-theme-dracula))
 
+;;Add Hook
+(add-hook 'org-mode-hook 'apollo/org-mode-setup)
+;;Org-modern is also an alternative you might want to consider
+(add-hook 'org-mode-hook 'org-superstar-mode)
+
+(setq org-directory "~/org/"
+      org-agenda-files '("~/org/agenda.org")
+      org-default-notes-file (expand-file-name "notes.org" org-directory)
+      org-ellipsis " ▼ "
+      org-log-done 'time
+      org-hide-emphasis-markers nil ;;change to t to hide emphasis markers
+      org-table-convert-region-max-lines 20000
+      org-agenda-start-log-mode t
+      org-log-done 'time
+      org-log-into-drawer t
+      org-indent-mode t
+      org-todo-keywords        ;; This overwrites the default Doom org-todo-keywords
+      '((sequence
+         "TODO(t)"           ;; A task that is ready to be tackled
+         "BLOG(b)"           ;; Blog writing assignments
+         "GYM(g)"            ;; Things to accomplish at the gym
+         "WAIT(w)"           ;; Something is holding up this task
+         "|"                 ;; The pipe necessary to separate "active" states and "inactive" states
+         "DONE(d)"           ;; Task has been completed
+         "CANCELLED(c)" ))
+      org-superstar-headline-bullets-list '("◉" "●" "○" "●" "○" "●" "◆")
+      org-superstar-itembullet-alist '((?+ . ?➤) (?- . ?✦))) ;; changes +/- symbols in item lists)
+#+end_src
+** Themes
+Inspired by [[https://gitlab.com/dwt1][Distrotube]], feel free to customize to your liking!
+#+begin_src emacs-lisp
+(defun apollo/org-theme-darkone ()
+  "Enable Darkone theme for Org headers."
+  (interactive)
+  (dolist
+      (face
+       '((org-level-1 1.70 "#51afef" bold)
+         (org-level-2 1.55 "#7FBCD2" bold)
+         (org-level-3 1.40 "#da8548" bold)
+         (org-level-4 1.20 "#da8548" semi-bold)
+         (org-level-5 1.20 "#5699af" normal)
+         (org-level-6 1.20 "#a9a1e1" normal)
+         (org-level-7 1.10 "#46d9ff" normal)
+         (org-level-8 1.00 "#ff6c6b" normal)))
+    (set-face-attribute (nth 0 face) nil
+			:font "Jetbrains Mono"
+			:weight (nth 3 face)
+			:height (nth 1 face)
+			:foreground (nth 2 face)))
+  (set-face-attribute 'org-table nil
+		      :font "Jetbrains Mono"
+		      :weight 'normal
+		      :height 1.0
+		      :foreground "#A66CFF"))
+
+(defun apollo/org-theme-dracula ()
+  "Enable Dracula theme for Org headers."
+  (interactive)
+  (dolist
+      (face
+       '((org-level-1 1.7 "#8be9fd" ultra-bold)
+         (org-level-2 1.6 "#bd93f9" extra-bold)
+         (org-level-3 1.5 "#50fa7b" bold)
+         (org-level-4 1.4 "#ff79c6" semi-bold)
+         (org-level-5 1.3 "#9aedfe" normal)
+         (org-level-6 1.2 "#caa9fa" normal)
+         (org-level-7 1.1 "#5af78e" normal)
+         (org-level-8 1.0 "#ff92d0" normal)))
+    (set-face-attribute (nth 0 face) nil
+			:font "JetBrains Mono"
+			:weight (nth 3 face)
+			:height (nth 1 face)
+			:foreground (nth 2 face)))
+  (set-face-attribute 'org-table nil
+		      :font "JetBrains Mono"
+		      :weight 'normal
+		      :height 1.0
+		      :foreground "#bfafdf"))
+#+end_src
 
 
 

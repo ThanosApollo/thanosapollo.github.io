@@ -22,20 +22,26 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#orgf680546">Home Page</a></li>
-<li><a href="#org385a832">What is org-mode?</a></li>
-<li><a href="#org09dc70e">Why use org mode?</a></li>
-<li><a href="#org39343bf">How to create a website with org</a></li>
+<li><a href="#org8c402fc">Home Page</a></li>
+<li><a href="#orgd043120">What is org-mode?</a></li>
+<li><a href="#org704e1a6">Why use org mode?</a></li>
+<li><a href="#org29097e1">How to create a website with org</a></li>
+<li><a href="#org35d8d68">How I configure org</a>
+<ul>
+<li><a href="#org8531160">Basic setup</a></li>
+<li><a href="#orgc3a62a7">Themes</a></li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgf680546" class="outline-2">
-<h2 id="orgf680546"><a href="index.html">Home Page</a></h2>
+<div id="outline-container-org8c402fc" class="outline-2">
+<h2 id="org8c402fc"><a href="index.html">Home Page</a></h2>
 </div>
-<div id="outline-container-org385a832" class="outline-2">
-<h2 id="org385a832">What is org-mode?</h2>
-<div class="outline-text-2" id="text-org385a832">
+<div id="outline-container-orgd043120" class="outline-2">
+<h2 id="orgd043120">What is org-mode?</h2>
+<div class="outline-text-2" id="text-orgd043120">
 <p>
 <b>Org mode is an organizational tool for GNU Emacs, a text editor.</b>
 It provides a simple and fast way to organize notes, project planning, and authoring in a plain text file.
@@ -51,9 +57,9 @@ We can utilize the ability of org mode to generate HTML files to build static we
 </p>
 </div>
 </div>
-<div id="outline-container-org09dc70e" class="outline-2">
-<h2 id="org09dc70e">Why use org mode?</h2>
-<div class="outline-text-2" id="text-org09dc70e">
+<div id="outline-container-org704e1a6" class="outline-2">
+<h2 id="org704e1a6">Why use org mode?</h2>
+<div class="outline-text-2" id="text-org704e1a6">
 <p>
 If you are already is required to do a lot of note-taking/text-editing, using org-mode and emacs to create your content is probably the best option, especially if you are planning on sharing them with your colleagues in different formats. Org-mode is a versatile tool that can be used to generate static websites because it provides a number of features that make it well-suited for this task:
 </p>
@@ -71,9 +77,9 @@ In summary, org-mode is a great tool for creating static websites because of its
 </p>
 </div>
 </div>
-<div id="outline-container-org39343bf" class="outline-2">
-<h2 id="org39343bf">How to create a website with org</h2>
-<div class="outline-text-2" id="text-org39343bf">
+<div id="outline-container-org29097e1" class="outline-2">
+<h2 id="org29097e1">How to create a website with org</h2>
+<div class="outline-text-2" id="text-org29097e1">
 <p>
 There are several ways to create a website with org-mode, but one of the most popular ways is to use the built-in export functionality to convert org-mode files into HTML files, which can then be served as a static website. Here are the general steps to create a website with org-mode:
 </p>
@@ -88,6 +94,118 @@ There are several ways to create a website with org-mode, but one of the most po
 <p>
 I prefer creating my websites using my own <a href="https://codeberg.org/ThanosApollo/org-web-themes">org-web-themes</a> <i>a fork of <a href="https://github.com/fniessen/org-html-themes">org-html-themes</a></i>
 </p>
+</div>
+</div>
+<div id="outline-container-org35d8d68" class="outline-2">
+<h2 id="org35d8d68">How I configure org</h2>
+<div class="outline-text-2" id="text-org35d8d68">
+<p>
+<i>In this section we won't touch org-babel, we are just creating a basic, anesthetically pleasing setup to work with</i>
+</p>
+
+<div class="org-src-container">
+<pre class="src src-emacs-lisp">(message "hello")
+</pre>
+</div>
+</div>
+<div id="outline-container-org8531160" class="outline-3">
+<h3 id="org8531160">Basic setup</h3>
+<div class="outline-text-3" id="text-org8531160">
+<div class="org-src-container">
+<pre class="src src-emacs-lisp">(defun apollo/org-mode-setup ()
+  "Defining your org-mode setup. This will be hooked with org."
+  (org-indent-mode t)
+  ;;here we define our org-theme
+  (apollo/org-theme-dracula))
+
+;;Add Hook
+(add-hook 'org-mode-hook 'apollo/org-mode-setup)
+;;Org-modern is also an alternative you might want to consider
+(add-hook 'org-mode-hook 'org-superstar-mode)
+
+(setq org-directory "~/org/"
+      org-agenda-files '("~/org/agenda.org")
+      org-default-notes-file (expand-file-name "notes.org" org-directory)
+      org-ellipsis " ▼ "
+      org-log-done 'time
+      org-hide-emphasis-markers nil ;;change to t to hide emphasis markers
+      org-table-convert-region-max-lines 20000
+      org-agenda-start-log-mode t
+      org-log-done 'time
+      org-log-into-drawer t
+      org-indent-mode t
+      org-todo-keywords        ;; This overwrites the default Doom org-todo-keywords
+      '((sequence
+	 "TODO(t)"           ;; A task that is ready to be tackled
+	 "BLOG(b)"           ;; Blog writing assignments
+	 "GYM(g)"            ;; Things to accomplish at the gym
+	 "WAIT(w)"           ;; Something is holding up this task
+	 "|"                 ;; The pipe necessary to separate "active" states and "inactive" states
+	 "DONE(d)"           ;; Task has been completed
+	 "CANCELLED(c)" ))
+      org-superstar-headline-bullets-list '("◉" "●" "○" "●" "○" "●" "◆")
+      org-superstar-itembullet-alist '((?+ . ?➤) (?- . ?✦))) ;; changes +/- symbols in item lists)
+</pre>
+</div>
+</div>
+</div>
+<div id="outline-container-orgc3a62a7" class="outline-3">
+<h3 id="orgc3a62a7">Themes</h3>
+<div class="outline-text-3" id="text-orgc3a62a7">
+<p>
+Inspired by <a href="https://gitlab.com/dwt1">Distrotube</a>, feel free to customize to your liking!
+</p>
+<div class="org-src-container">
+<pre class="src src-emacs-lisp">(defun apollo/org-theme-darkone ()
+  "Enable Darkone theme for Org headers."
+  (interactive)
+  (dolist
+      (face
+       '((org-level-1 1.70 "#51afef" bold)
+	 (org-level-2 1.55 "#7FBCD2" bold)
+	 (org-level-3 1.40 "#da8548" bold)
+	 (org-level-4 1.20 "#da8548" semi-bold)
+	 (org-level-5 1.20 "#5699af" normal)
+	 (org-level-6 1.20 "#a9a1e1" normal)
+	 (org-level-7 1.10 "#46d9ff" normal)
+	 (org-level-8 1.00 "#ff6c6b" normal)))
+    (set-face-attribute (nth 0 face) nil
+			:font "Jetbrains Mono"
+			:weight (nth 3 face)
+			:height (nth 1 face)
+			:foreground (nth 2 face)))
+  (set-face-attribute 'org-table nil
+		      :font "Jetbrains Mono"
+		      :weight 'normal
+		      :height 1.0
+		      :foreground "#A66CFF"))
+
+(defun apollo/org-theme-dracula ()
+  "Enable Dracula theme for Org headers."
+  (interactive)
+  (dolist
+      (face
+       '((org-level-1 1.7 "#8be9fd" ultra-bold)
+	 (org-level-2 1.6 "#bd93f9" extra-bold)
+	 (org-level-3 1.5 "#50fa7b" bold)
+	 (org-level-4 1.4 "#ff79c6" semi-bold)
+	 (org-level-5 1.3 "#9aedfe" normal)
+	 (org-level-6 1.2 "#caa9fa" normal)
+	 (org-level-7 1.1 "#5af78e" normal)
+	 (org-level-8 1.0 "#ff92d0" normal)))
+    (set-face-attribute (nth 0 face) nil
+			:font "JetBrains Mono"
+			:weight (nth 3 face)
+			:height (nth 1 face)
+			:foreground (nth 2 face)))
+  (set-face-attribute 'org-table nil
+		      :font "JetBrains Mono"
+		      :weight 'normal
+		      :height 1.0
+		      :foreground "#bfafdf"))
+</pre>
+</div>
+</div>
 </div>
 </div>
 </div>
