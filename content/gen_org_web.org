@@ -1,7 +1,7 @@
 #+TITLE: Generating static websites with org-mode
 #+export_file_name: ../public/gen_org_web.html
 #+SETUPFILE: ../themes/org/theme-readtheorg-local.setup
-#+EMAIL: apollothanosmd@gmail.com
+#+author: Thanos Apollo
 #+OPTIONS: creator:t author:t date:nil timestamp:nil email:nil num:nil
 
 * [[file:index.html][Home Page]]
