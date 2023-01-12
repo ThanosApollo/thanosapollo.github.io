@@ -1,7 +1,7 @@
 #+TITLE: Thanos Apollo
 #+export_file_name: ../public/index.html
 #+SETUPFILE: ../themes/org/theme-bigblow-local.setup
-#+OPTIONS: creator:t author:nil date:nil timestamp:nil email:t num:nil
+#+OPTIONS: creator:t author:nil date:nil timestamp:nil email:nil num:nil
 
 Personal Website
 
